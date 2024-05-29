@@ -3,7 +3,7 @@
   <Identity>
     <Rank>Elite</Rank>
   </Identity>
-  <Promotion disable="">
+  <Promotion disable=""/>
   <VisualActor>
     <Actor>units/ionians/infantry_spearman_merc_e.xml</Actor>
   </VisualActor>
