@@ -14,9 +14,12 @@
     <Icon>units/spart/infantry_spearman.png</Icon>
   </Identity>
   <Promotion>
-    <Entity>units/spart/infantry_spearman_a</Entity>
+    <Entity>units/ions/infantry_spearman_merc_a</Entity>
   </Promotion>
+  <Health>
+    <Max op="mul">1.25</Max>
+  </Health>
   <VisualActor>
-    <Actor>units/spartans/infantry_spearman_b.xml</Actor>
+    <Actor>units/ionians/infantry_spearman_merc_b.xml</Actor>
   </VisualActor>
 </Entity>
