@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_cavalry_ranged_javelineer">
   <Identity>
+    <Civ>ions</Civ>
     <SelectionGroupName>units/athen/cavalry_javelineer_b</SelectionGroupName>
     <SpecificName>Pródromos</SpecificName>
     <Icon>units/athen/cavalry_javelinist.png</Icon>
-    <civ>ions</civ>
     <Lang>greek</Lang>
   </Identity>
   <Promotion>
