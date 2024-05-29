@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_infantry_melee_spearman">
   <Identity>
+    <Civ>ions</Civ>
     <SelectionGroupName>units/athen/infantry_spearman_b</SelectionGroupName>
     <GenericName>Miletic Hoplite</GenericName>
     <SpecificName>Milesios Hoplítēs</SpecificName>
-    <civ>ions</civ>
     <Lang>greek</Lang>
     <Icon>units/athen/infantry_spearman.png</Icon>
   </Identity>
