@@ -13,6 +13,7 @@
       </props>
       <textures>
         <texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
   </group>
@@ -20,31 +21,37 @@
     <variant frequency="1" name="linothorax_01_01">
       <textures>
         <texture file="skeletal/athen/linothorax_01_01.png" name="baseTex"/>
+        <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax_01_02">
       <textures>
         <texture file="skeletal/athen/linothorax_01_01.png" name="baseTex"/>
+        <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax_01_03">
       <textures>
         <texture file="skeletal/athen/linothorax_01_01.png" name="baseTex"/>
+        <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax_01_04">
       <textures>
         <texture file="skeletal/athen/linothorax_01_01.png" name="baseTex"/>
+        <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax_01_05">
       <textures>
         <texture file="skeletal/athen/linothorax_01_01.png" name="baseTex"/>
+        <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax_01_06">
       <textures>
         <texture file="skeletal/athen/linothorax_01_01.png" name="baseTex"/>
+        <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
   </group>
