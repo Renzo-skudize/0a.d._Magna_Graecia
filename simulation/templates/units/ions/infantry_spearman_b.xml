@@ -6,7 +6,7 @@
     <GenericName>Miletic Hoplite</GenericName>
     <SpecificName>Milesios Hoplítēs</SpecificName>
     <Lang>greek</Lang>
-    <Icon>units/athen/infantry_spearman.png</Icon>
+    <Icon>units/ions/infantry_spearman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/ions/infantry_spearman_a</Entity>
