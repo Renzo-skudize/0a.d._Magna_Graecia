@@ -4,6 +4,9 @@
     <Rank>Elite</Rank>
   </Identity>
   <Promotion disable=""/>
+  <Health>
+    <Max op="mul">1.25</Max>
+  </Health>
   <VisualActor>
     <Actor>units/ionians/infantry_spearman_merc_e.xml</Actor>
   </VisualActor>
