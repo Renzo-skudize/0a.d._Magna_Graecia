@@ -9,6 +9,9 @@
     <Icon>units/pers/sabaean_skirmisher.png</Icon>
   </Identity>
   <Promotion disable=""/>
+  <Health>
+    <Max op="mul">1.5</Max>
+  </Health>
   <VisualActor>
     <Actor>units/persians/phoinikian.xml</Actor>
   </VisualActor>
