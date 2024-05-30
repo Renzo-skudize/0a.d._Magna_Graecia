@@ -7,9 +7,6 @@
     <GenericName>Phoinikian Marine</GenericName>
     <SpecificName> </SpecificName>
     <Icon>units/pers/sabaean_skirmisher.png</Icon>
-    <Requirements>
-      <Techs datatype="tokens">phase_town</Techs>
-    </Requirements>
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
