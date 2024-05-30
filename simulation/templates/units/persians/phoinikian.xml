@@ -5,6 +5,7 @@
     <Lang>persian</Lang>
     <SelectionGroupName>units/pers/infantry_javelineer_b</SelectionGroupName>
     <GenericName>Phoinikian Marine</GenericName>
+    <SpecificName> </SpecificName>
     <Icon>units/pers/sabaean_skirmisher.png</Icon>
     <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
