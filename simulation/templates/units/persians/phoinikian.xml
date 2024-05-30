@@ -12,6 +12,6 @@
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/persians/infantry_javelinist_b.xml</Actor>
+    <Actor>units/persians/phoinikian.xml</Actor>
   </VisualActor>
 </Entity>
