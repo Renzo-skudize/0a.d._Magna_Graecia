@@ -11,7 +11,7 @@
     <SelectionGroupName>units/spart/infantry_spearman_b</SelectionGroupName>
     <GenericName>Karian Hoplite</GenericName>
     <SpecificName>Hoplítēs Kários</SpecificName>
-    <Icon>units/spart/infantry_spearman.png</Icon>
+    <Icon>units/ions/merc_hoplite.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/ions/infantry_spearman_merc_a</Entity>
