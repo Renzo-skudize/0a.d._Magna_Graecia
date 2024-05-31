@@ -16,7 +16,7 @@
     <Entities datatype="tokens">
       units/pers/cavalry_axeman_b_trireme
       units/pers/cavalry_javelineer_b_trireme
-      units/pers/phoinikian
+      units/pers/phoinikian_b
     </Entities>
   </Trainer>
   <VisualActor>
