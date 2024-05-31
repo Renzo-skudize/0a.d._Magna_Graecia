@@ -2,8 +2,7 @@
 <actor version="1">
   <castshadow/>
   <group>
-    <variant file="biped/base_skirmisher_fast.xml" frequency="1" name="Skirmisher-Shield-Fast"/>
-      <mesh>skeletal/new/f_armor_dress.dae</mesh>
+    <mesh>skeletal/new/f_armor_dress.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_ptol_cleopatra.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/jav_loaded.xml" attachpoint="weapon_R"/>
@@ -21,6 +20,7 @@
   </group>
   <group>
     <variant frequency="1" name="Idle"/>
+    <variant file="biped/base_skirmisher_fast.xml" frequency="1" name="Skirmisher-Shield-Fast"/>
     <variant file="biped/attack_ranged_javelinist.xml"/>
     <variant file="biped/attack_capture.xml"/>
     <variant file="biped/gather_praise.xml"/>
