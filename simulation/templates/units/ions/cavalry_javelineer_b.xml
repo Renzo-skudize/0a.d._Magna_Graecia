@@ -4,7 +4,7 @@
     <Civ>ions</Civ>
     <SelectionGroupName>units/athen/cavalry_javelineer_b</SelectionGroupName>
     <SpecificName>Pródromos</SpecificName>
-    <Icon>units/athen/cavalry_javelinist.png</Icon>
+    <Icon>units/ions/cavalry_javelinist.png</Icon>
     <Lang>greek</Lang>
   </Identity>
   <Promotion>
