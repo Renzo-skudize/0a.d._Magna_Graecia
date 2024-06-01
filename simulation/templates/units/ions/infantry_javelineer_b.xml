@@ -6,7 +6,7 @@
     <SelectionGroupName>units/spart/infantry_javelineer_b</SelectionGroupName>
     <GenericName>Miletic Skirmisher</GenericName>
     <SpecificName>Milesios Akontistḗs</SpecificName>
-    <Icon>units/spart/infantry_javelinist.png</Icon>
+    <Icon>units/ions/infantry_javelinist.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/ions/infantry_javelineer_a</Entity>
