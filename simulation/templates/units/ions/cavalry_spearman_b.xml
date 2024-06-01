@@ -7,9 +7,6 @@
     <GenericName>Ionian Cavalry</GenericName>
     <SpecificName>Iónio Hippikó</SpecificName>
     <Icon>units/ions/cavalry_spearman.png</Icon>
-    <Requirements>
-      <Techs datatype="tokens">phase_town</Techs>
-    </Requirements>
   </Identity>
   <Promotion>
     <Entity>units/ions/cavalry_spearman_a</Entity>
