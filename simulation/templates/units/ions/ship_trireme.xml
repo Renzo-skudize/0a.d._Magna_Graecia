@@ -2,7 +2,7 @@
 <Entity parent="template_unit_ship_trireme">
   <Identity>
     <Civ>ions</Civ>
-	  <Lang>greek</Lang>
+    <Lang>greek</Lang>
     <GenericName>Trireme</GenericName>
     <SpecificName>Triḗrēs</SpecificName>
     <Icon>units/ions/ship_trireme.png</Icon>
