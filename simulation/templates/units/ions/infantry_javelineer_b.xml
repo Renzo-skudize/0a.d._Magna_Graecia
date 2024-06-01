@@ -12,6 +12,6 @@
     <Entity>units/ions/infantry_javelineer_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/spartans/infantry_javelinist_b.xml</Actor>
+    <Actor>units/ionians/infantry_javelinist_b.xml</Actor>
   </VisualActor>
 </Entity>
