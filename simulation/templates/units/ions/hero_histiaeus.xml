@@ -15,6 +15,6 @@
     <Max>1200</Max>
   </Health>
   <VisualActor>
-    <Actor>units/ionians/hitiaeus.xml</Actor>
+    <Actor>units/ionians/histiaeus.xml</Actor>
   </VisualActor>
 </Entity>
