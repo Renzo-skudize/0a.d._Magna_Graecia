@@ -1,0 +1,12 @@
+{
+	"type": "garrison",
+	"affects": ["Ship"],
+	"modifications": [
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 2 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 2 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 2 }
+	],
+	"auraName": "Strong Navarch",
+	"auraDescription": "Ships +25% melee attack damage.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}
