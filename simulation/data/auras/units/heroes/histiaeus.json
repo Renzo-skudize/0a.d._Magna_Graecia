@@ -1,0 +1,14 @@
+{
+	"type": "range",
+	"radius": 50,
+	"affects": ["Infantry"],
+	"modifications": [
+		{ "value": "Attack/Capture/Capture", "add": 1 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.2 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.2 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.2 }
+	],
+	"auraName": "Last Stand",
+	"auraDescription": "Infantry +1 capture attack strength, +20% melee attack damage.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}
