@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_javelineer">
+  <Identity>
+    <Civ>ions</Civ>
+    <GenericName>Artemisia I of Caria</GenericName>
+    <SpecificName>Artemisia</SpecificName>
+    <Icon>units/ions/hero_boudicca.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/ionians/artemisia_I.xml</Actor>
+  </VisualActor>
+</Entity>
