@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_hero_infantry_spearman">
+  <Auras datatype="tokens">
+    units/heroes/histiaeus
+  </Auras>
   <Identity>
     <Civ>ions</Civ>
     <Lang>greek</Lang>
