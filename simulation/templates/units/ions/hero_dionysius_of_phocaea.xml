@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_swordsman">
+  <Auras datatype="tokens">
+    units/heroes/spart_hero_brasidas
+  </Auras>
+  <Identity>
+    <Civ>ions</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Dionysius of Phocaea</GenericName>
+    <SpecificName>Dionysios</SpecificName>
+    <Icon>units/ions/hero_pelopidas.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/ionians/dionysius_of_phocaea.xml</Actor>
+  </VisualActor>
+</Entity>
