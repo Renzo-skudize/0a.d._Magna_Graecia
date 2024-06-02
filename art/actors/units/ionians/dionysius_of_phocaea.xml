@@ -17,6 +17,7 @@
       <props>
         <prop actor="props/units/armor/greave_07_silver_r.xml" attachpoint="leg_R"/>
         <prop actor="props/units/armor/greave_07_silver_l.xml" attachpoint="leg_L"/>
+      </props>
     </variant>
     <variant frequency="1" name="Greave-03">
       <props>
