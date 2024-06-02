@@ -1,0 +1,11 @@
+{
+	"type": "global",
+	"affects": ["Ship"],
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.8 },
+		{ "value": "Cost/Resources/metal", "multiply": 0.8 },
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.5 }
+	],
+	"auraName": "Naval Preparation",
+	"auraDescription": "Ships −20% metal cost, construction time, and +50% movement speed."
+}
