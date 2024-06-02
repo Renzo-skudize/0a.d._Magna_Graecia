@@ -7,6 +7,6 @@
 		{ "value": "Attack/Melee/Damage/Crush", "multiply": 2 }
 	],
 	"auraName": "Strong Navarch",
-	"auraDescription": "Ships +25% melee attack damage.",
+	"auraDescription": "Ships +100% melee attack damage when garrisoned.",
 	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }
