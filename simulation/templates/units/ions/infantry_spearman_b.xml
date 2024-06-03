@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_infantry_melee_spearman">
+  <Builder>
+    <Entities datatype="tokens">
+      structures/ions/embassy
+    </Entities>
+  </Builder>
   <Identity>
     <Civ>ions</Civ>
     <SelectionGroupName>units/athen/infantry_spearman_b</SelectionGroupName>
