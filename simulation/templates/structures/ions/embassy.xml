@@ -2,7 +2,7 @@
 <Entity parent="template_structure_military_embassy">
   <Cost>
     <Resources>
-      <metal>200</metal>
+      <wood>200</wood>
     </Resources>
   </Cost>
   <Footprint>
@@ -13,11 +13,14 @@
     <Max>1500</Max>
   </Health>
   <Identity>
-    <Civ>cart</Civ>
-    <SpecificName>Italic Embassy</SpecificName>
-    <Tooltip>Train Italic Mercenaries.</Tooltip>
+    <Civ>ions</Civ>
+    <SpecificName>Carian Embassy</SpecificName>
+    <Tooltip>Train Carian Mercenaries.</Tooltip>
     <Classes datatype="tokens">CivSpecific</Classes>
     <Icon>structures/embassy_italic.png</Icon>
+    <Requirements>
+      <Techs datatype="tokens">phase_town</Techs>
+    </Requirements>
   </Identity>
   <Loot>
     <metal>40</metal>
