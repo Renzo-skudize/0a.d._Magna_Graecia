@@ -3,6 +3,7 @@
   <Builder>
     <Entities datatype="tokens">
       structures/ions/embassy
+      structures/ions/stoa
     </Entities>
   </Builder>
   <Cost>
