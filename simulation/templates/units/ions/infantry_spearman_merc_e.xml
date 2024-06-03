@@ -5,7 +5,7 @@
   </Identity>
   <Promotion disable=""/>
   <Health>
-    <Max op="mul">1.25</Max>
+    <Max op="mul_round">1.25</Max>
   </Health>
   <VisualActor>
     <Actor>units/ionians/infantry_spearman_merc_e.xml</Actor>
