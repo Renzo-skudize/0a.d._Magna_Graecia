@@ -1,6 +1,6 @@
 {
 	"Code": "ions",
-	"Culture": "hele",
+	"Culture": "ions",
 	"Music": [
 		{
 			"File": "Harvest_Festival.ogg",
@@ -44,7 +44,7 @@
 			"Count": 4
 		},
 		{
-			"Template": "units/ions/infantry_spearman_b",
+			"Template": "units/ions/infantry_spearman_a",
 			"Count": 4
 		},
 		{
@@ -52,7 +52,7 @@
 			"Count": 2
 		},
 		{
-			"Template": "units/athen/cavalry_javelineer_b",
+			"Template": "units/ions/cavalry_javelineer_b",
 			"Count": 2
 		}
 	],
