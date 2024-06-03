@@ -6,6 +6,9 @@
   <Promotion>
     <Entity>units/ions/infantry_spearman_merc_e</Entity>
   </Promotion>
+  <Health>
+    <Max op="mul">1.11</Max>
+  </Health>
   <VisualActor>
     <Actor>units/ionians/infantry_spearman_merc_a.xml</Actor>
   </VisualActor>
