@@ -11,6 +11,14 @@
   <Obstruction>
     <Static width="24.0" depth="26.0"/>
   </Obstruction>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/hero_dionysius_of_phocaea
+      units/{civ}/hero_histiaeus
+      units/{civ}/hero_artemisia_I
+    </Entities>
+  </Trainer>
   <VisualActor>
     <Actor>structures/athenians/fortress.xml</Actor>
   </VisualActor>
