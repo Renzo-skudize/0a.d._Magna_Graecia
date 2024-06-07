@@ -8,7 +8,7 @@
   </Builder>
   <Cost>
     <Resources>
-      <metal op="add">40</metal>
+      <metal>100</metal>
     </Resources>
   </Cost>
   <Identity>
