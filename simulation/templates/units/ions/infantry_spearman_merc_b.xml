@@ -8,7 +8,7 @@
   </Builder>
   <Cost>
     <Resources>
-      <metal op="add">20</metal>
+      <metal op="add">40</metal>
     </Resources>
   </Cost>
   <Identity>
@@ -19,6 +19,9 @@
     <SpecificName>Hoplítēs Kários</SpecificName>
     <Icon>units/ions/merc_hoplite.png</Icon>
   </Identity>
+  <Requirements>
+    <Techs datatype="tokens">phase_town</Techs>
+  </Requirements>
   <Promotion>
     <Entity>units/ions/infantry_spearman_merc_a</Entity>
   </Promotion>
