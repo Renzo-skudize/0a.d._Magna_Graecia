@@ -6,6 +6,9 @@
     <SpecificName>Ionike Archontiá</SpecificName>
     <Icon>units/ions/champion_infantry.png</Icon>
   </Identity>
+  <Requirements>
+    <Techs datatype="tokens">unlock_champion_infantry</Techs>
+  </Requirements>
   <VisualActor>
     <Actor>units/ionians/infantry_spearman_c.xml</Actor>
   </VisualActor>
