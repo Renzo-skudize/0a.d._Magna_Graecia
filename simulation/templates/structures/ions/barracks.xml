@@ -18,6 +18,7 @@
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b
+      units/{civ}/infantry_spearman_merc_a
       units/{civ}/infantry_pikeman_b
       units/{civ}/infantry_maceman_b
       units/{civ}/infantry_axeman_b
