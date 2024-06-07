@@ -5,9 +5,6 @@
     <GenericName>Ionian Nobility</GenericName>
     <SpecificName>Ionike Archontiá</SpecificName>
     <Icon>units/ions/champion_infantry.png</Icon>
-    <Requirements>
-      <Techs datatype="tokens">unlock_champion_infantry</Techs>
-    </Requirements>
   </Identity>
   <VisualActor>
     <Actor>units/ionians/infantry_spearman_c.xml</Actor>
