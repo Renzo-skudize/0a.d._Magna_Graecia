@@ -16,14 +16,13 @@
     <Civ>ions</Civ>
     <SpecificName>Carian Embassy</SpecificName>
     <Tooltip>Train Carian Mercenaries.</Tooltip>
-    <Classes datatype="tokens">CivSpecific</Classes>
     <Icon>structures/embassy_italic.png</Icon>
     <Requirements>
       <Techs datatype="tokens">phase_town</Techs>
     </Requirements>
   </Identity>
   <Loot>
-    <metal>40</metal>
+    <metal>120</metal>
   </Loot>
   <Obstruction>
     <Static width="11.0" depth="14.0"/>
