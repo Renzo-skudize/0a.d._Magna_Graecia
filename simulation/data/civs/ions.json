@@ -44,16 +44,15 @@
 			"Count": 4
 		},
 		{
-			"Template": "units/ions/infantry_spearman_a",
-			"Count": 4
+			"Template": "units/ions/infantry_spearman_b",
+			"Count": 2
 		},
 		{
 			"Template": "units/ions/infantry_javelineer_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/ions/cavalry_javelineer_b",
-			"Count": 2
+			"Template": "units/ions/cavalry_javelineer_b"
 		}
 	],
 	"AINames": [
