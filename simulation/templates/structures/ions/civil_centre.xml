@@ -12,22 +12,9 @@
       units/{civ}/infantry_spearman_b
       units/{civ}/infantry_javelineer_b
       units/{civ}/cavalry_javelineer_b
+      units/{civ}/support_female_citizen
     </Entities>
   </Trainer>
-  <Researcher>
-    <Technologies datatype="tokens">
-      phase_town_{civ}
-      phase_city_{civ}
-      unlock_shared_los
-      unlock_shared_dropsites
-      archery_tradition
-      hoplite_tradition
-      hellenistic_metropolis
-      roman_roads
-      unlock_spies
-      spy_counter
-    </Technologies>
-  </Researcher>
   <VisualActor>
     <Actor>structures/athenians/civil_centre.xml</Actor>
   </VisualActor>
