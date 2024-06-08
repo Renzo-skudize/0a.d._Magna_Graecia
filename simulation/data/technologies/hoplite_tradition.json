@@ -7,12 +7,14 @@
 	},
 	"requirements": {
 		"all": [
-			{ "tech": "phase_town" }
-		],
-		"any": [
-			{ "civ": "athen" },
-			{ "civ": "spart" },
-          		{ "civ": "ions" },
+			{ "tech": "phase_town" },
+			{
+				"any": [
+					{ "civ": "athen" },
+					{ "civ": "spart" },
+					{ "civ": "ions" }
+				]
+			}
 		]
 	},
 	"requirementsTooltip": "Unlocked in Town Phase.",
@@ -24,6 +26,6 @@
 		{ "value": "Promotion/RequiredXp", "multiply": 0.5 },
 		{ "value": "Health/Max", "multiply": 1.1 }
 	],
-	"affects": ["Infantry Spearman"],
+	"affects": ["Infantry Spearman !Hero"],
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
