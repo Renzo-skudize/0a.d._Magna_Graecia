@@ -15,13 +15,6 @@
       units/{civ}/support_female_citizen
     </Entities>
   </Trainer>
-  <Researcher>
-    <Technologies datatype="tokens">
-      stable_batch_training
-      cavalry_movement_speed
-      cavalry_health
-    </Technologies>
-  </Researcher>
   <VisualActor>
     <Actor>structures/athenians/civil_centre.xml</Actor>
   </VisualActor>
