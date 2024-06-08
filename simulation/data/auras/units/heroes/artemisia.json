@@ -2,11 +2,11 @@
 	"type": "garrison",
 	"affects": ["Ship"],
 	"modifications": [
-		{ "value": "Attack/Melee/Damage/Hack", "multiply": 2 },
-		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 2 },
-		{ "value": "Attack/Melee/Damage/Crush", "multiply": 2 }
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 2 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 2 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 2 }
 	],
 	"auraName": "Strong Navarch",
-	"auraDescription": "Ships +100% melee attack damage when garrisoned.",
+	"auraDescription": "Ships +100% ranged attack damage when garrisoned.",
 	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
 }
