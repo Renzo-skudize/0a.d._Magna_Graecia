@@ -4,6 +4,13 @@
     <Civ>ions</Civ>
     <SpecificName>Hippōn</SpecificName>
   </Identity>
+  <Researcher>
+    <Technologies datatype="tokens">
+      stable_batch_training
+      cavalry_movement_speed
+      cavalry_health
+    </Technologies>
+  </Researcher>
   <Obstruction>
     <Static width="23.0" depth="23.0"/>
   </Obstruction>
