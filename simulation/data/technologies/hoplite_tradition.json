@@ -7,15 +7,12 @@
 	},
 	"requirements": {
 		"all": [
-			{ "tech": "phase_town" },
-			{
-				"any": [
-					{ "civ": "athen" },
-					{ "civ": "spart" },
-          				{ "civ": "ions" },
-
-				]
-			}
+			{ "tech": "phase_town" }
+		],
+		"any": [
+			{ "civ": "athen" },
+			{ "civ": "spart" },
+          		{ "civ": "ions" },
 		]
 	},
 	"requirementsTooltip": "Unlocked in Town Phase.",
