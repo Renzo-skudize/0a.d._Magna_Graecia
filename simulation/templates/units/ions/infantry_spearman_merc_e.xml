@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="merc_inf|hoplite|units/ions/infantry_spearman_merc_a">
+<Entity parent="merc_inf_ion|hoplite|units/ions/infantry_spearman_merc_a">
   <Identity>
     <Rank>Elite</Rank>
   </Identity>
