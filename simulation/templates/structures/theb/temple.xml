@@ -17,7 +17,7 @@
     </Technologies>
   </Researcher>
   <VisualActor>
-    <Actor>structures/thebans/temple.xml</Actor>
+    <Actor>structures/athenians/temple.xml</Actor>
     <FoundationActor>structures/fndn_5x7.xml</FoundationActor>
   </VisualActor>
 </Entity>
