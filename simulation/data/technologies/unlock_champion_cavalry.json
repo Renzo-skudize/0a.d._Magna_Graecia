@@ -11,9 +11,10 @@
 			{ "notciv": "brit" },
 			{ "notciv": "cart" },
 			{ "notciv": "han" },
+			{ "notciv": "ions" },
 			{ "notciv": "maur" },
 			{ "notciv": "spart" },
-			{ "notciv": "ions" }
+			{ "notciv": "theb" }
 		]
 	},
 	"requirementsTooltip": "Unlocked in City Phase.",
