@@ -6,7 +6,7 @@
   </Footprint>
   <Identity>
     <Civ>theb</Civ>
-	<Lang>greek</Lang>
+    <Lang>greek</Lang>
     <GenericName>Theban Battering Ram</GenericName>
     <SpecificName>Krios</SpecificName>
     <Icon>units/theb/siege_ram.png</Icon>
@@ -20,6 +20,6 @@
     </Overlay>
   </Selectable>
   <VisualActor>
-    <Actor>structures/thebans/siege_ram.xml</Actor>
+    <Actor>structures/athenians/siege_ram.xml</Actor>
   </VisualActor>
 </Entity>
