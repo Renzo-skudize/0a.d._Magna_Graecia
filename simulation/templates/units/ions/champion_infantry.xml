@@ -2,8 +2,8 @@
 <Entity parent="hoplite|template_unit_champion_infantry_spearman">
   <Identity>
     <Civ>ions</Civ>
-    <GenericName>Ionian Nobility</GenericName>
-    <SpecificName>Ionike Archontiá</SpecificName>
+    <GenericName>Ionian Wealthy Hoplite</GenericName>
+    <SpecificName>Milesios Ploúsios Hoplítis</SpecificName>
     <Icon>units/ions/champion_infantry.png</Icon>
   </Identity>
   <VisualActor>
