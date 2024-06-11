@@ -6,6 +6,7 @@
   <Identity>
     <Civ>theb</Civ>
     <SpecificName>Theatron</SpecificName>
+    <Classes datatype="tokens">CivSpecific</Classes>
   </Identity>
   <Obstruction>
     <Static width="21.0" depth="29.0"/>
