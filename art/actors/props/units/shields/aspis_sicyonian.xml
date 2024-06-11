@@ -13,9 +13,9 @@
   <group>
     <variant frequency="1" name="ptol_round_d_silver_player">
       <textures>
-        <texture file="props/shield/aspis_sicyonians.png" name="baseTex"/>
-        <texture file="props/shield/aspis_sicyonians.png" name="normTex"/>
-        <texture file="props/shield/aspis_sicyonians.png" name="specTex"/>
+        <texture file="props/shield/aspis_sicyonian.png" name="baseTex"/>
+        <texture file="props/shield/aspis_sicyonian.png" name="normTex"/>
+        <texture file="props/shield/aspis_sicyonian.png" name="specTex"/>
       </textures>
     </variant>
   </group>
