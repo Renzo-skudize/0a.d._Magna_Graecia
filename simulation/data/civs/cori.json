@@ -1,0 +1,73 @@
+{
+	"Code": "cori",
+	"Culture": "greek",
+	"Music": [
+		{
+			"File": "Harvest_Festival.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Highland_Mist.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Hellespont.ogg",
+			"Type": "peace"
+		}
+	],
+	"CivBonuses": [
+		{
+			"Name": "Silver Owls",
+			"History": "The mines at Laureion in Attica provided Athens with a wealth of silver from which to mint her famous and highly prized coin, The Athenian Owl.",
+			"Description": "Workers +10% metal gather rate per phase advance."
+		},
+		{
+			"Name": "Sikyonian Symmachoi",
+			"Description": "Corinthians can build Sikyonian mercenary hoplites."
+		}
+	],
+	"WallSets": [
+		"structures/wallset_palisade",
+		"structures/ions/wallset_stone"
+	],
+	"StartEntities": [
+		{
+			"Template": "structures/cori/civil_centre"
+		},
+		{
+			"Template": "units/cori/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/cori/infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/cori/infantry_slinger_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/cori/cavalry_javelineer_b"
+		}
+	],
+	"AINames": [
+		"Xenokleides",
+		"Aristeus",
+		"Periander",
+		"Bakchis",
+		"Philolaus of Corinth",
+		"Cypselus",
+		"Adeimantus",
+		"Diaeus"
+	],
+	"SkirmishReplacements": {
+		"skirmish/units/default_infantry_ranged_b": "units/cori/infantry_javelineer_b",
+		"skirmish/units/default_infantry_melee_b": "units/cori/infantry_spearman_b",
+		"skirmish/structures/default_house_10": "structures/{civ}/house"
+	},
+	"SelectableInGameSetup": true
+}
