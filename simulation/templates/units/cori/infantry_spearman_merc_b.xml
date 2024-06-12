@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="merc_inf_ion|hoplite|template_unit_infantry_melee_spearman">
+  <Builder>
+    <Entities datatype="tokens">
+      structures/ions/embassy
+      structures/ions/stoa
+    </Entities>
+  </Builder>
+  <Cost>
+    <Resources>
+      <metal>100</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>ions</Civ>
+    <Lang>greek</Lang>
+    <SelectionGroupName>units/spart/infantry_spearman_b</SelectionGroupName>
+    <GenericName>Carian Hoplite</GenericName>
+    <SpecificName>Hoplítēs Kários</SpecificName>
+    <Icon>units/ions/merc_hoplite.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/ions/infantry_spearman_merc_a</Entity>
+  </Promotion>
+  <Health>
+    <Max op="mul_round">1.2</Max>
+  </Health>
+  <VisualActor>
+    <Actor>units/ionians/infantry_spearman_merc_b.xml</Actor>
+  </VisualActor>
+</Entity>

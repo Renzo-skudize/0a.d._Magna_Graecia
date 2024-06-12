@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_female_citizen">
+  <Builder>
+    <Entities datatype="tokens">
+      structures/ions/embassy
+      structures/ions/stoa
+    </Entities>
+  </Builder>
+  <Identity>
+    <Civ>ions</Civ>
+    <SpecificName>Gýnē Íones</SpecificName>
+    <GenericName>Ionian Woman</GenericName>
+    <Icon>units/ions/support_female_citizen.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/athenians/female_citizen.xml</Actor>
+  </VisualActor>
+</Entity>
