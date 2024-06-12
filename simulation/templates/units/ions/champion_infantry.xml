@@ -2,7 +2,7 @@
 <Entity parent="hoplite|template_unit_champion_infantry_spearman">
   <Identity>
     <Civ>ions</Civ>
-    <GenericName>Ionian Wealthy Hoplite</GenericName>
+    <GenericName>Miletic Wealthy Hoplite</GenericName>
     <SpecificName>Milesios Ploúsios Hoplítis</SpecificName>
     <Icon>units/ions/champion_infantry.png</Icon>
   </Identity>
