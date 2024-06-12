@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|template_unit_champion_infantry_spearman">
+  <Identity>
+    <Civ>ions</Civ>
+    <GenericName>Miletic Wealthy Hoplite</GenericName>
+    <SpecificName>Milesios Ploúsios Hoplítis</SpecificName>
+    <Icon>units/ions/champion_infantry.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/ionians/infantry_spearman_c.xml</Actor>
+  </VisualActor>
+</Entity>
