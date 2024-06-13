@@ -6,9 +6,9 @@
     </Entities>
   </Builder>
   <Identity>
-    <Civ>ions</Civ>
-    <SpecificName>Gýnē Íones</SpecificName>
-    <GenericName>Ionian Woman</GenericName>
+    <Civ>cori</Civ>
+    <SpecificName>Gynaíka Korínthou</SpecificName>
+    <GenericName>Corinthian Woman</GenericName>
     <Icon>units/ions/support_female_citizen.png</Icon>
   </Identity>
   <VisualActor>
