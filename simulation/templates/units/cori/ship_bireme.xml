@@ -5,12 +5,12 @@
     <Height>10.0</Height>
   </Footprint>
   <Identity>
-    <Civ>ions</Civ>
+    <Civ>cori</Civ>
     <GenericName>Monoreme</GenericName>
     <SpecificName>Pentēkónteros</SpecificName>
     <Icon>units/ions/ship_scout.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/ptolemies/bireme.xml</Actor>
+    <Actor>structures/athenians/bireme.xml</Actor>
   </VisualActor>
 </Entity>
