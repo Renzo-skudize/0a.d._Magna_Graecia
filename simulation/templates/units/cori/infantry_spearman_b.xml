@@ -2,20 +2,19 @@
 <Entity parent="hoplite|template_unit_infantry_melee_spearman">
   <Builder>
     <Entities datatype="tokens">
-      structures/ions/embassy
-      structures/ions/stoa
+      structures/cori/stoa
     </Entities>
   </Builder>
   <Identity>
-    <Civ>ions</Civ>
+    <Civ>cori</Civ>
     <SelectionGroupName>units/athen/infantry_spearman_b</SelectionGroupName>
-    <GenericName>Miletic Hoplite</GenericName>
-    <SpecificName>Milesios Hoplítēs</SpecificName>
+    <GenericName>Corinthian Hoplite</GenericName>
+    <SpecificName>Korínthios Hoplítis</SpecificName>
     <Lang>greek</Lang>
     <Icon>units/ions/infantry_spearman.png</Icon>
   </Identity>
   <Promotion>
-    <Entity>units/ions/infantry_spearman_a</Entity>
+    <Entity>units/cori/infantry_spearman_a</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/athenians/infantry_spearman_b.xml</Actor>
