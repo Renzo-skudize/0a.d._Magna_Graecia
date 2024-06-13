@@ -17,6 +17,6 @@
     <Entity>units/cori/infantry_spearman_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/athenians/infantry_spearman_b.xml</Actor>
+    <Actor>units/corinthians/infantry_spearman_b.xml</Actor>
   </VisualActor>
 </Entity>
