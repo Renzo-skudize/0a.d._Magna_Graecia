@@ -2,8 +2,7 @@
 <Entity parent="template_unit_support_female_citizen">
   <Builder>
     <Entities datatype="tokens">
-      structures/ions/embassy
-      structures/ions/stoa
+      structures/cori/stoa
     </Entities>
   </Builder>
   <Identity>
