@@ -7,7 +7,7 @@
     <Icon>units/ions/siege_lithobolos.png</Icon>
   </Identity>
   <Pack>
-    <Entity>units/ions/siege_lithobolos_packed</Entity>
+    <Entity>units/cori/siege_lithobolos_packed</Entity>
     <State>unpacked</State>
   </Pack>
   <UnitMotion>
