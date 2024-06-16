@@ -10,6 +10,7 @@
   <Identity>
     <Civ>cori</Civ>
     <SpecificName>Epoikion</SpecificName>
+  </Identity>
   <Obstruction>
     <Static width="18.0" depth="16.0"/>
   </Obstruction>
