@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_wallset">
   <Identity>
-    <Civ>theb</Civ>
+    <Civ>cori</Civ>
     <SpecificName>Teichos</SpecificName>
-    <History>All Hellenic cities were surrounded by stone walls for protection against enemy raids. Some of these fortifications, like the Athenian Long Walls, for example, were massive structures.</History>
   </Identity>
   <WallSet>
     <Templates>
