@@ -4,11 +4,6 @@
     <Civ>cori</Civ>
     <SpecificName>Epaulos</SpecificName>
   </Identity>
-  <Trainer>
-    <Entities datatype="tokens">
-      gaia/fauna_pig
-    </Entities>
-  </Trainer>
   <VisualActor>
     <Actor>structures/hellenes/corral.xml</Actor>
   </VisualActor>
