@@ -11,7 +11,7 @@
     <SelectionGroupName>units/spart/infantry_spearman_b</SelectionGroupName>
     <GenericName>Sikyonian Hoplite</GenericName>
     <SpecificName>Sikyónios Hoplítis</SpecificName>
-    <Icon>units/cori/infantry_spearman_merc.png</Icon>
+    <Icon>units/cori/infantry_spearman_sicyon.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/cori/infantry_spearman_merc_a</Entity>
