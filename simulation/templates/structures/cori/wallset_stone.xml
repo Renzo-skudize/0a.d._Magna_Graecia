@@ -7,11 +7,11 @@
   </Identity>
   <WallSet>
     <Templates>
-      <Tower>structures/theb/wall_tower</Tower>
-      <Gate>structures/theb/wall_gate</Gate>
-      <WallLong>structures/theb/wall_long</WallLong>
-      <WallMedium>structures/theb/wall_medium</WallMedium>
-      <WallShort>structures/theb/wall_short</WallShort>
+      <Tower>structures/cori/wall_tower</Tower>
+      <Gate>structures/cori/wall_gate</Gate>
+      <WallLong>structures/cori/wall_long</WallLong>
+      <WallMedium>structures/cori/wall_medium</WallMedium>
+      <WallShort>structures/cori/wall_short</WallShort>
     </Templates>
     <MaxTowerOverlap>0.90</MaxTowerOverlap>
     <MinTowerOverlap>0.05</MinTowerOverlap>
