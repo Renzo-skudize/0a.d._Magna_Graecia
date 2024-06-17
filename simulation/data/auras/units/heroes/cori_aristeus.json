@@ -1,0 +1,11 @@
+{
+	"type": "player",
+	"affects": ["Player"],
+	"modifications": [
+		{ "value": "ResourceTrickle/Rates/food", "add": 2 },
+		{ "value": "ResourceTrickle/Rates/food", "add": 1 }
+
+	],
+	"auraName": "Besieged in Potidaea",
+	"auraDescription": "+2.0 food and +1.0 wood trickle rate."
+}
