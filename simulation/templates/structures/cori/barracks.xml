@@ -11,6 +11,11 @@
     <Civ>cori</Civ>
     <SpecificName>Stratopedon</SpecificName>
   </Identity>
+  <Researcher>
+    <Technologies datatype="tokens">
+      -unlock_champion_infantry
+    </Technologies>
+  </Researcher>
   <Obstruction>
     <Static width="20.0" depth="20.0"/>
   </Obstruction>
