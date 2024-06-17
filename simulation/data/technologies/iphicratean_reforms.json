@@ -1,0 +1,20 @@
+{
+	"genericName": "Iphicratean Reforms",
+	"description": "Docks and triremes can train Marines.",
+	"cost": {
+		"food": 200,
+		"metal": 200
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{ "civ": "athen" },
+      { "civ": "cori" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "marines.png",
+	"researchTime": 30,
+	"tooltip": "Docks and Triremes can train Marines.",
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}
