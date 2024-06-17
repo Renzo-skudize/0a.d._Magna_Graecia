@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|template_unit_hero_infantry_spearman">
+  <Auras datatype="tokens">
+    units/heroes/cori_aristeus
+  </Auras>
+  <Identity>
+    <Civ>cori</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Aristeus</GenericName>
+    <SpecificName>Aristeas</SpecificName>
+    <Icon>units/cori/hero_hannibal.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/corinthians/hero_aristeus.xml</Actor>
+  </VisualActor>
+</Entity>
