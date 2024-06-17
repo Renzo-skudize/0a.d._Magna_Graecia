@@ -2,9 +2,13 @@
 	"type": "global",
 	"affects": ["Worker"],
 	"modifications": [
+		{ "value": "Cost/Resources/metal", "multiply": 0.8, "affects": "Structure !CivilCentre" },
+    		{ "value": "Cost/Resources/food", "multiply": 0.8, "affects": "Structure !CivilCentre" },
+   		{ "value": "Cost/Resources/stone", "multiply": 0.8, "affects": "Structure !CivilCentre" },
+   		{ "value": "Cost/Resources/wood", "multiply": 0.8, "affects": "Structure !CivilCentre" },
 		{ "value": "ResourceGatherer/BaseSpeed", "multiply": 1.1}
 	],
 	"auraName": "Economic Recovery",
-	"auraDescription": "+10% gather speed.",
+	"auraDescription": "Units +10% gather speed, structures -20% costs.",
 	"overlayIcon": "art/textures/ui/session/auras/buildgather_bonus.png"
 }
