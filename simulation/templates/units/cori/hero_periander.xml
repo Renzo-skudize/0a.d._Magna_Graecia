@@ -9,7 +9,7 @@
     <Lang>greek</Lang>
     <GenericName>Periander</GenericName>
     <SpecificName>Períandros</SpecificName>
-    <Icon>units/cori/hero_leonidas.png</Icon>
+    <Icon>units/cori/hero_brasidas.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/corinthians/hero_periander.xml</Actor>
