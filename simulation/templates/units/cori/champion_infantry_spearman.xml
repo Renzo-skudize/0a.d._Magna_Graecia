@@ -7,6 +7,6 @@
     <Icon>units/ions/champion_infantry.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/ionians/infantry_spearman_c.xml</Actor>
+    <Actor>units/corinthians/infantry_spearman_c.xml</Actor>
   </VisualActor>
 </Entity>
