@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship_trireme">
+  <GarrisonHolder>
+    <Max>40</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Support Infantry</List>
+    <BuffHeal>0</BuffHeal>
+    <LoadingRange>5</LoadingRange>
+  </GarrisonHolder>
+  <Health>
+    <Max>2000</Max>
+  </Health>
+  <Identity>
+    <Civ>cori</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Large Trireme</GenericName>
+    <SpecificName>Megalē Triḗrē</SpecificName>
+    <Icon>units/ions/ship_trireme.png</Icon>
+  </Identity>
+  <Cost>
+    <BuildTime>40</BuildTime>
+    <Resources>
+      <wood>300</wood>
+      <metal>125</metal>
+    </Resources>
+  </Cost>
+  <ProductionQueue/>
+  <Trainer>
+    <BatchTimeModifier>0.6</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/champion_marine
+    </Entities>
+  </Trainer>
+  <Researcher>
+    <Technologies datatype="tokens">
+      iphicratean_reforms
+    </Technologies>
+  </Researcher>
+  <Loot>
+    <xp>2000</xp>
+    <wood>30</wood>
+    <metal>12</metal>
+  </Loot>
+  <TrainingRestrictions>
+    <Category>trireme_l</Category>
+  </TrainingRestrictions>
+  <VisualActor>
+    <Actor>structures/ptolemies/quinquereme.xml</Actor>
+  </VisualActor>
+</Entity>
