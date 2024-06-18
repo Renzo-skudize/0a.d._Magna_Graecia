@@ -23,4 +23,8 @@
     <wood op="add">-1</wood>
     <metal op="add">-4</metal>
   </Loot>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.4</WalkSpeed>
+    <Acceleration op="mul">2</Acceleration>
+  </UnitMotion>
 </Entity>
