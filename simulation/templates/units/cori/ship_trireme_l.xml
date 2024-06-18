@@ -6,7 +6,7 @@
     <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
     <List datatype="tokens">Support Infantry</List>
     <BuffHeal>0</BuffHeal>
-    <LoadingRange>5</LoadingRange>
+    <LoadingRange>6</LoadingRange>
   </GarrisonHolder>
   <Health>
     <Max>2000</Max>
