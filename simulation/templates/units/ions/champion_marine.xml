@@ -2,7 +2,7 @@
 <Entity parent="template_unit_champion_infantry_swordsman">
   <Cost>
     <Resources>
-      <wood op="add">-40</wood>
+      <wood op="add">-20</wood>
       <metal op="add">-40</metal>
     </Resources>
   </Cost>
@@ -17,13 +17,13 @@
   <Resistance>
     <Entity>
       <Damage>
-        <Hack op="add">-2</Hack>
+        <Hack op="add">-1</Hack>
         <Pierce op="add">-3</Pierce>
       </Damage>
     </Entity>
   </Resistance>
   <Loot>
-    <wood op="add">-4</wood>
+    <wood op="add">-2</wood>
     <metal op="add">-4</metal>
   </Loot>
   <VisualActor>
