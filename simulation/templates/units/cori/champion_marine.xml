@@ -12,7 +12,7 @@
     <SpecificName>Epibátēs Korinthías</SpecificName>
     <Icon>units/ions/champion_marine.png</Icon>
     <Requirements>
-      <Techs datatype="tokens">-phase_city phase_town iphicratean_reforms</Techs>
+      <Techs datatype="tokens">iphicratean_reforms</Techs>
     </Requirements>
   </Identity>
   <Resistance>
