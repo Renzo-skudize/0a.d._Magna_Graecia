@@ -7,6 +7,18 @@
     <SpecificName>Triḗrēs</SpecificName>
     <Icon>units/ions/ship_trireme.png</Icon>
   </Identity>
+  <ProductionQueue/>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/champion_marine
+    </Entities>
+  </Trainer>
+  <Researcher>
+    <Technologies datatype="tokens">
+      iphicratean_reforms
+    </Technologies>
+  </Researcher>
   <VisualActor>
     <Actor>structures/athenians/trireme.xml</Actor>
   </VisualActor>
