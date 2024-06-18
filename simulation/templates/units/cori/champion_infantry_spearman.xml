@@ -4,7 +4,7 @@
     <Civ>cori</Civ>
     <GenericName>Corinthian Wealthy Hoplite</GenericName>
     <SpecificName>Korínthios Ploúsios Hoplítis</SpecificName>
-    <Icon>units/ions/champion_infantry.png</Icon>
+    <Icon>units/cori/champion_infantry.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/corinthians/infantry_spearman_c.xml</Actor>
