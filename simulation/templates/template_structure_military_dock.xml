@@ -49,14 +49,10 @@
     <Technologies datatype="tokens">
       fishing_boat_gather_rate
       fishing_boat_gather_capacity
-      arsenal_philon
       juggernauts
       ship_vision
       exploration
       ship_health
-      warship_arrow_attack
-      warship_ramming_speed
-      warship_ramming_attack
       warship_resistance
       warship_health
       warship_fireship_attack
