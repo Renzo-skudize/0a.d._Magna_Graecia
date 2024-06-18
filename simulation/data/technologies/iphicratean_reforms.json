@@ -8,9 +8,7 @@
 	"requirements": {
 		"all": [
 			{ "tech": "phase_town" },
-			{ "civ": "athen" },
-			{ "civ": "cori" },
-			{ "civ": "ions" }
+			{ "civ": "athen" }
 		]
 	},
 	"requirementsTooltip": "Unlocked in Town Phase.",
