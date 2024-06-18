@@ -49,7 +49,6 @@
     <Technologies datatype="tokens">
       fishing_boat_gather_rate
       fishing_boat_gather_capacity
-      dock_efficiency
       arsenal_philon
       juggernauts
       ship_vision
