@@ -43,7 +43,7 @@
     <metal>12</metal>
   </Loot>
   <TrainingRestrictions>
-    <Category>trireme_l</Category>
+    <Category>PyramidLarge</Category>
   </TrainingRestrictions>
   <VisualActor>
     <Actor>structures/ptolemies/quinquereme.xml</Actor>
