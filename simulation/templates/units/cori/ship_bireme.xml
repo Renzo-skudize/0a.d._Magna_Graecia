@@ -11,6 +11,6 @@
     <Icon>units/ions/ship_scout.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>structures/athenians/pentekonter_scout.xml</Actor>
+    <Actor>structures/athenians/pentekonter.xml</Actor>
   </VisualActor>
 </Entity>
