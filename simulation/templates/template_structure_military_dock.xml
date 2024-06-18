@@ -50,8 +50,6 @@
       fishing_boat_gather_rate
       fishing_boat_gather_capacity
       ship_health
-      warship_siege_attack
-      warship_ranged_attack
       equine_transports
       iphicratean_reforms
     </Technologies>
