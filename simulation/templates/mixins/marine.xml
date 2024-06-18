@@ -8,7 +8,7 @@
   </Cost>
   <Identity>
     <Requirements>
-      <Techs datatype="tokens">-phase_city iphicratean_reforms</Techs>
+      <Techs datatype="tokens">iphicratean_reforms</Techs>
     </Requirements>
   </Identity>
   <Resistance>
@@ -25,6 +25,7 @@
   </Loot>
   <UnitMotion>
     <WalkSpeed op="mul">1.4</WalkSpeed>
+    <RunMultiplier>1.4</RunMultiplier>
     <Acceleration op="mul">2</Acceleration>
   </UnitMotion>
 </Entity>
