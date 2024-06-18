@@ -6,6 +6,11 @@
       <metal op="add">-40</metal>
     </Resources>
   </Cost>
+  <Identity>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city iphicratean_reforms</Techs>
+    </Requirements>
+  </Identity>
   <Resistance>
     <Entity>
       <Damage>
