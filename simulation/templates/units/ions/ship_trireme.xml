@@ -11,7 +11,7 @@
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/champion_marine_dock
+      units/{civ}/champion_marine
     </Entities>
   </Trainer>
   <Researcher>
