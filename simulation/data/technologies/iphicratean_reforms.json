@@ -1,6 +1,6 @@
 {
 	"genericName": "Unlock Marines",
-	"description": "Docks and triremes can train Marines.",
+	"description": "Docks and triremes can train marines.",
 	"cost": {
 		"food": 200,
 		"metal": 200
@@ -16,6 +16,6 @@
 	"requirementsTooltip": "Unlocked in Town Phase.",
 	"icon": "marines.png",
 	"researchTime": 30,
-	"tooltip": "Docks and Triremes can train Marines.",
+	"tooltip": "Research to unlock marines.",
 	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
 }
