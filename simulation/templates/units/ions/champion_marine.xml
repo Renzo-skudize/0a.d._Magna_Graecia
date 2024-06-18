@@ -23,9 +23,8 @@
     </Entity>
   </Resistance>
   <Loot>
-    <food op="add">-2</food>
-    <wood op="add">-2</wood>
-    <metal op="add">-2</metal>
+    <wood op="add">-4</wood>
+    <metal op="add">-4</metal>
   </Loot>
   <VisualActor>
     <Actor>units/athenians/infantry_swordsman_c.xml</Actor>
