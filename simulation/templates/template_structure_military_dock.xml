@@ -49,9 +49,7 @@
     <Technologies datatype="tokens">
       fishing_boat_gather_rate
       fishing_boat_gather_capacity
-      juggernauts
       ship_vision
-      exploration
       ship_health
       warship_resistance
       warship_health
