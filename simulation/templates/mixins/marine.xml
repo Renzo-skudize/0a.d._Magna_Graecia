@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Entity>
+  <Cost>
+    <Resources>
+      <wood op="add">-10</wood>
+      <metal op="add">-40</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Requirements>
+      <Techs datatype="tokens">-phase_city phase_town iphicratean_reforms</Techs>
+    </Requirements>
+  </Identity>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">-2</Hack>
+        <Pierce op="add">-4</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <Loot>
+    <wood op="add">-1</wood>
+    <metal op="add">-4</metal>
+  </Loot>
+</Entity>
