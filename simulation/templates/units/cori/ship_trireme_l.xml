@@ -16,7 +16,7 @@
     <Lang>greek</Lang>
     <GenericName>Large Trireme</GenericName>
     <SpecificName>Megalē Triḗrē</SpecificName>
-    <Icon>units/ions/ship_trireme.png</Icon>
+    <Icon>units/cori/ship_siege.png</Icon>
   </Identity>
   <Cost>
     <BuildTime>40</BuildTime>
