@@ -7,8 +7,9 @@
     </Resources>
   </Cost>
   <Identity>
-    <GenericName>Miletic Marine</GenericName>
-    <SpecificName>Epibátēs Miletos</SpecificName>
+    <Civ>ions</Civ>
+    <GenericName>Ephesian Marine</GenericName>
+    <SpecificName>Epibátēs Ephesios</SpecificName>
     <Icon>units/ions/champion_marine.png</Icon>
     <Requirements>
       <Techs datatype="tokens">-phase_city phase_town iphicratean_reforms</Techs>
