@@ -3,7 +3,7 @@
   <Footprint replace="">
     <Square width="8.0" depth="22.0"/>
     <Height>10.0</Height>
-    <MaxSpawnDistance>16</MaxSpawnDistance>
+    <MaxSpawnDistance>14</MaxSpawnDistance>
   </Footprint>
   <GarrisonHolder>
     <Max>40</Max>
