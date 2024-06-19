@@ -10,6 +10,9 @@
     </Rates>
     <Interval>1000</Interval>
   </ResourceTrickle>
+  <TrainingRestrictions>
+    <Category>Yakhchal</Category>
+  </TrainingRestrictions>
   <VisualActor>
     <Actor>structures/hellenes/market.xml</Actor>
   </VisualActor>
