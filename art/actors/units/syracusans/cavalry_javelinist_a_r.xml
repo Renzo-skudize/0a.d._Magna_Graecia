@@ -30,17 +30,17 @@
   <group>
     <variant name="illy-linothorax-01-a">
       <textures>
-        <texture file="skeletal/illy/linothorax_01_01.png" name="baseTex"/>
+        <texture file="skeletal/athen/linothorax_01_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant name="illy-linothorax-01-b">
       <textures>
-        <texture file="skeletal/illy/linothorax_01_02.png" name="baseTex"/>
+        <texture file="skeletal/athen/linothorax_01_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant name="illy-linothorax-01-c">
       <textures>
-        <texture file="skeletal/illy/linothorax_01_03.png" name="baseTex"/>
+        <texture file="skeletal/athen/linothorax_01_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant name="mace-linothora-1-h">
