@@ -1,0 +1,67 @@
+{
+	"Code": "syrac",
+	"Culture": "hele",
+	"Music": [
+		{
+			"File": "Harvest_Festival.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Forging_a_City-State.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Highland_Mist.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Hellespont.ogg",
+			"Type": "peace"
+		}
+	],
+	"CivBonuses": [
+		{
+			"Name": "Silver Owls",
+			"History": "The mines at Laureion in Attica provided syracs with a wealth of silver from which to mint her famous and highly prized coin, The syracian Owl.",
+			"Description": "Workers +10% metal gather rate per phase advance."
+		}
+	],
+	"WallSets": [
+		"structures/wallset_palisade",
+		"structures/syrac/wallset_stone"
+	],
+	"StartEntities": [
+		{
+			"Template": "structures/syrac/civil_centre"
+		},
+		{
+			"Template": "units/syrac/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/syrac/infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/syrac/infantry_slinger_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/syrac/cavalry_javelineer_b"
+		}
+	],
+	"AINames": [
+		"Gelon",
+		"Hieron",
+		"Hieron II",
+		"Hieronymus",
+		"Agátocles",
+		"Dionysius II",
+		"Dionysius I"
+	],
+	"SkirmishReplacements": {
+		"skirmish/units/default_infantry_ranged_b": "units/syrac/infantry_slinger_b",
+		"skirmish/structures/default_house_10": "structures/{civ}/house"
+	},
+	"SelectableInGameSetup": true
+}
