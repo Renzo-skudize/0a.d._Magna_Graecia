@@ -9,7 +9,7 @@
     <Lang>greek</Lang>
     <GenericName>Agátocles</GenericName>
     <SpecificName>Agátocles</SpecificName>
-    <Icon>units/athen/hero_pericles.png</Icon>
+    <Icon>units/syrac/hero_xenophon.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/hero_infantry_spearman_pericles.xml</Actor>
