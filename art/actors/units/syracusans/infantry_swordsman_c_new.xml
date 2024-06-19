@@ -42,7 +42,7 @@
       </props>
       <textures>
         <texture file="skeletal/mace/compound_linothorax_02_01.png" name="baseTex"/>
-        <texture file="skeletal/hele_cuirass_2_spec.png" name="specTex"/>
+        <texture file="skeletal/hele/cuirass_2_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
