@@ -14,7 +14,7 @@
     <SelectionGroupName>units/syrac/infantry_spearman_b</SelectionGroupName>
     <GenericName>Syracusan Hoplite</GenericName>
     <SpecificName>Hoplítēs Syrakō</SpecificName>
-    <Icon>units/athen/infantry_spearman.png</Icon>
+    <Icon>units/cori/infantry_spearman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/syrac/infantry_spearman_a</Entity>
