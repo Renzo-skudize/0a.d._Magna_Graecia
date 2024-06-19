@@ -14,7 +14,7 @@
     <GenericName>Sicels Peltast</GenericName>
     <SpecificName>Peltastḗs Sikeloi</SpecificName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <Icon>units/athen/infantry_javelinist.png</Icon>
+    <Icon>units/ions/infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
