@@ -1,26 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_melee_swordsman">	
-  <Builder>
-    <Entities datatype="tokens">
-     
-	</Entities>
-  </Builder>
-  <Cost>
-    <Resources>
-	  <food>20</food>
-	  <metal>35</metal>
-    </Resources>
-  </Cost>
-  <Health>
-    <Max>100</Max>
-  </Health>	
+<Entity parent="merc_inf|template_unit_infantry_melee_swordsman">
   <Identity>
     <Civ>syrac</Civ>
     <GenericName>Campanian Swordsman</GenericName>
     <SpecificName>Xiphophoros Kampaniotes</SpecificName>
     <SelectionGroupName>units/syra/infantry_swordsman_ital_b</SelectionGroupName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <Icon>units/cart/infantry_swordsman_2.png</Icon>
+    <Icon>units/syrac/swordsman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
