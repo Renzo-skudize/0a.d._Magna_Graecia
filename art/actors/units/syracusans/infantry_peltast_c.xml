@@ -22,7 +22,7 @@
     </variant>
     <variant frequency="1" name="Hele Thracian Helmet-05">
       <props>
-        <prop actor="props/units/helmets/hele_thracian_b5_crested.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_boeotian_g3.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="2" name="Hele Boeotian Helmet-03">
