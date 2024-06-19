@@ -12,6 +12,7 @@
       </props>
       <textures>
         <texture file="skeletal/athen/epilektos_07.png" name="baseTex"/>
+        <texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
