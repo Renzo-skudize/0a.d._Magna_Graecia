@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_infantry_ranged_archer">
+<Entity parent="merc_inf|template_unit_infantry_ranged_archer">
   <Builder>
     <Entities datatype="tokens">
       structures/syrac/gymnasium
@@ -13,8 +13,7 @@
     <GenericName>Cretan Mercenary Archer</GenericName>
     <SpecificName>Toxótēs Krētikós</SpecificName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <Icon>units/mace/infantry_archer.png</Icon>
-    <RequiredTechnology>iphicratean_reforms</RequiredTechnology>
+    <Icon>units/syrac/infantry_archer.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/syrac/infantry_marine_archer_a</Entity>
