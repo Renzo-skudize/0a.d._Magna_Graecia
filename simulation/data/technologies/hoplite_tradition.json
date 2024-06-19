@@ -11,6 +11,7 @@
 			{
 				"any": [
 					{ "civ": "athen" },
+					{ "civ": "cori" },
 					{ "civ": "ions" },
 					{ "civ": "spart" },
 					{ "civ": "theb" }
