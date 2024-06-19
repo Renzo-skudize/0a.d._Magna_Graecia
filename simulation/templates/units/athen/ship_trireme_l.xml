@@ -66,9 +66,6 @@
     <wood>30</wood>
     <metal>12</metal>
   </Loot>
-  <Position>
-    <TurnRate>0.8</TurnRate>
-  </Position>
   <TrainingRestrictions>
     <Category>PyramidLarge</Category>
   </TrainingRestrictions>
