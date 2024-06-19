@@ -17,32 +17,32 @@
   <group>
     <variant frequency="1" name="linothorax_01_01">
       <textures>
-        <texture file="skeletal/athen/linothorax_01_01.png" name="baseTex"/>
+        <texture file="skeletal/hele/tunic_02_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax_01_02">
       <textures>
-        <texture file="skeletal/athen/linothorax_01_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/tunic_02_02.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax_01_03">
       <textures>
-        <texture file="skeletal/athen/linothorax_01_03.png" name="baseTex"/>
+        <texture file="skeletal/hele/tunic_01_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax_01_04">
       <textures>
-        <texture file="skeletal/athen/linothorax_01_04.png" name="baseTex"/>
+        <texture file="skeletal/hele/tunic_02_02.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax_01_05">
       <textures>
-        <texture file="skeletal/athen/linothorax_01_05.png" name="baseTex"/>
+        <texture file="skeletal/hele/tunic_03_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax_01_06">
       <textures>
-        <texture file="skeletal/athen/linothorax_01_06.png" name="baseTex"/>
+        <texture file="skeletal/hele/tunic_03_02.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
