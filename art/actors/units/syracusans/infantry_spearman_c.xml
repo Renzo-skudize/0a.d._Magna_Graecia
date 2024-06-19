@@ -44,17 +44,17 @@
   <group>
     <variant frequency="1" name="Hele Attic Helmet-01">
       <props>
-        <prop actor="props/units/helmets/ptol_romanized_crest.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_boeotian_g3.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Hele Attic Helmet-03">
       <props>
-        <prop actor="props/units/helmets/ptol_romanized_crest.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_boeotian_g3.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Hele Samnite Helmet-01">
       <props>
-        <prop actor="props/units/helmets/ptol_romanized_crest.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_boeotian_g3.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
