@@ -7,6 +7,14 @@
     <Civ>cori</Civ>
     <SpecificName>Agora</SpecificName>
   </Identity>
+  <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/infantry_spearman_b
+      units/{civ}/infantry_slinger_b
+      units/{civ}/cavalry_javelineer_b
+      units/{civ}/support_female_citizen
+    </Entities>
+  </Trainer>
   <VisualActor>
     <Actor>structures/spartans/civic_center.xml</Actor>
   </VisualActor>
