@@ -11,7 +11,7 @@
         <prop actor="props/units/quiver_back.xml" attachpoint="back"/>
       </props>
       <textures>
-        <texture file="skeletal/athen_epilektos_1.png" name="baseTex"/>
+        <texture file="skeletal/athen/linothorax_01_03.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
