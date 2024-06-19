@@ -5,12 +5,16 @@
     <variant frequency="1" name="Base">
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
-        <prop actor="props/units/heads/new/head_hele_b.xml" attachpoint="head"/>
+        <prop actor="props/units/heads/new/head_hele_e.xml" attachpoint="head"/>
         <prop actor="props/units/weapons/arrow_back.xml" attachpoint="weapon_R"/>
-        <prop actor="props/units/weapons/bow_recurve.xml" attachpoint="weapon_bow"/>
+        <prop actor="props/units/weapons/bow_short.xml" attachpoint="weapon_bow"/>
         <prop actor="props/units/quiver_greek_back.xml" attachpoint="back"/>
         <prop actor="props/units/shields/pelte_cretan_bronze_02.xml" attachpoint="shield_arm"/>
       </props>
+      <textures>
+        <texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
     </variant>
   </group>
   <group>
@@ -66,49 +70,29 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="armor thorax 2">
+    <variant name="psiloi_padded_01_02">
       <textures>
-        <texture file="skeletal/mace_thorakites_2.png" name="baseTex"/>
+        <texture file="skeletal/hele/padded_psiloi_01_02.png" name="baseTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="armor short">
+    <variant name="psiloi_padded_01_03">
       <textures>
-        <texture file="skeletal/mace_bronzeshield_2.png" name="baseTex"/>
+        <texture file="skeletal/hele/padded_psiloi_01_03.png" name="baseTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="mace-linothorax-1a">
+    <variant name="epilektos_03">
       <textures>
-        <texture file="skeletal/mace_linothorax_1_a.png" name="baseTex"/>
+        <texture file="skeletal/athen/epilektos_03.png" name="baseTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="mace-linothorax-1b">
+    <variant name="epilektos_08">
       <textures>
-        <texture file="skeletal/mace_linothorax_1_b.png" name="baseTex"/>
+        <texture file="skeletal/athen/epilektos_08.png" name="baseTex"/>
       </textures>
     </variant>
-    <variant frequency="1" name="mace-linothorax-1c">
+    <variant name="epilektos_09">
       <textures>
-        <texture file="skeletal/mace_linothorax_1_c.png" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="mace-linothorax-1d">
-      <textures>
-        <texture file="skeletal/mace_linothorax_1_d.png" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="mace-linothorax-1e">
-      <textures>
-        <texture file="skeletal/mace_linothorax_1_e.png" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="mace-linothorax-1f">
-      <textures>
-        <texture file="skeletal/mace_linothorax_1_f.png" name="baseTex"/>
-      </textures>
-    </variant>
-    <variant frequency="1" name="mace-linothorax-1g">
-      <textures>
-        <texture file="skeletal/mace_linothorax_1_g.png" name="baseTex"/>
+        <texture file="skeletal/athen/epilektos_09.png" name="baseTex"/>
       </textures>
     </variant>
   </group>
@@ -145,5 +129,5 @@
     <variant file="biped/build_farm.xml"/>
     <variant file="biped/death_infantry.xml"/>
   </group>
-  <material>player_trans.xml</material>
+  <material>player_trans_norm_spec.xml</material>
 </actor>
