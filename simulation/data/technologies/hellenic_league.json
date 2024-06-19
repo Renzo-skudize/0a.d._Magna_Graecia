@@ -6,10 +6,10 @@
 	},
 	"requirements": {
 		"all": [
-			{ "tech": "phase_town" },
-			{ "civ": "athen" },
-          		{ "civ": "cori" },
-			{ "civ": "spart" },
+				{ "tech": "phase_town" },
+				{ "civ": "athen" },
+          			{ "civ": "cori" },
+				{ "civ": "spart" },
 		]
 	},
 	"requirementsTooltip": "Unlocked in Town Phase.",
