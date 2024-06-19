@@ -14,9 +14,9 @@
   <ProductionQueue/>
   <Trainer>
     <Entities datatype="tokens">
-      units/{civ}/hero_gorgidas
-      units/{civ}/hero_pelopidas
-      units/{civ}/hero_epaminondas
+      units/{civ}/hero_aristeus
+      units/{civ}/hero_periander
+      units/{civ}/hero_xenokleides
     </Entities>
   </Trainer>
   <VisualActor>
