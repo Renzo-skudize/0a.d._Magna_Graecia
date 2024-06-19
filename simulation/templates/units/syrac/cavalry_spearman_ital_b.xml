@@ -4,8 +4,7 @@
     <Civ>syrac</Civ>
     <GenericName>Italic Cavalry</GenericName>
     <SelectionGroupName>units/syrac/cavalry_spearman_ital_b</SelectionGroupName>
-    <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
-    <Icon>units/cart/cavalry_spearman.png</Icon>
+    <Icon>units/ions/cavalry_spearman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
