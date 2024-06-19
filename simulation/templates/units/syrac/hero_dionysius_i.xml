@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_infantry_javelineer">
+<Entity parent="template_unit_hero_cavalry_swordsman">
   <Auras datatype="tokens">
     units/heroes/athen_hero_iphicrates_1
     units/heroes/athen_hero_iphicrates_2
@@ -12,6 +12,6 @@
     <Icon>units/syrac/hero_iphicrates.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/athenians/hero_infantry_javelinist_iphicrates.xml</Actor>
+    <Actor>units/athenians/hero_cavalry_swordsman_dionysius_m.xml</Actor>
   </VisualActor>
 </Entity>
