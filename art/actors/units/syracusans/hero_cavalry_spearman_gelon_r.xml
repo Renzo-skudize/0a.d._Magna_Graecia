@@ -13,8 +13,9 @@
         <prop actor="props/units/armor/greave_06_bronze_r.xml" attachpoint="leg_R"/>
 	<prop actor="props/units/weapons/sheath_falcata_e.xml" attachpoint="sheath_01_R"/>
       </props>
-	  <textures>
+      <textures>
         <texture file="skeletal/mace/compound_linothorax_02_01.png" name="baseTex"/>
+	<texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
