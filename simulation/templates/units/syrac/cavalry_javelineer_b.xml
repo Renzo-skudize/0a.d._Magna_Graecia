@@ -6,7 +6,7 @@
     <SelectionGroupName>units/syrac/cavalry_javelineer_b</SelectionGroupName>
     <GenericName>Tarantine Cavalry</GenericName>
     <SpecificName>Hippeús Tarantînos</SpecificName>
-    <Icon>units/athen/cavalry_javelinist.png</Icon>
+    <Icon>units/ions/cavalry_javelinist.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/syrac/cavalry_javelineer_a</Entity>
