@@ -4,6 +4,12 @@
     <Civ>cori</Civ>
     <SpecificName>Emporion</SpecificName>
   </Identity>
+  <ResourceTrickle>
+    <Rates>
+      <metal>0.5</metal>
+    </Rates>
+    <Interval>1000</Interval>
+  </ResourceTrickle>
   <VisualActor>
     <Actor>structures/hellenes/market.xml</Actor>
   </VisualActor>
