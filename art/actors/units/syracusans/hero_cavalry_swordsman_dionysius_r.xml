@@ -17,7 +17,7 @@
       <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <textures>
         <texture file="skeletal/mace/compound_linothorax_02_01.png" name="baseTex"/>
-        <texture file="skeletal/mace_cuirass_vergina_spec.png" name="specTex"/>
+	<texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
