@@ -8,7 +8,7 @@
     <Civ>syrac</Civ>
     <GenericName>Penteconter</GenericName>
     <SpecificName>Pentēkóntoros</SpecificName>
-    <Icon>units/ions/ship_bireme.png</Icon>
+    <Icon>units/ions/ship_scout.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/athenians/pentekonter.xml</Actor>
