@@ -4,20 +4,20 @@
     <Ranged>
       <ApplyStatus>
         <Burning>
-          <Interval>1500</Interval>
+          <Interval>1000</Interval>
           <Damage>
-            <Fire>30</Fire>
+            <Fire>10</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
-          <Duration>9000</Duration>
+          <Duration>5000</Duration>
         </Burning>
       </ApplyStatus>
       <Damage>
-        <Fire>60</Fire>
+        <Fire>40</Fire>
         <Pierce>0</Pierce>
       </Damage>
-      <MaxRange>76</MaxRange>
-      <MinRange>0</MinRange>
+      <MaxRange>80</MaxRange>
+      <MinRange>11</MinRange>
       <Projectile>
         <Speed>1079252848</Speed>
         <Spread>1.8</Spread>
