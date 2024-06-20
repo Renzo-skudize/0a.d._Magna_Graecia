@@ -7,6 +7,7 @@
           <Interval>1000</Interval>
           <Damage>
             <Fire>20</Fire>
+            <Pierce>00</Pierce>
           </Damage>
           <Stackability>Stack</Stackability>
           <Duration>9000</Duration>
@@ -25,7 +26,7 @@
         <LaunchPoint y="3"/>
       </Projectile>
       <PrepareTime>2000</PrepareTime>
-      <RepeatTime>500</RepeatTime>
+      <RepeatTime>2000</RepeatTime>
     </Ranged>
   </Attack>
   <Identity>
