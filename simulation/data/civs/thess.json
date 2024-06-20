@@ -1,0 +1,96 @@
+{
+	"Code":"thess",
+	"Culture":[ "greek" ],
+	"Region":[ "mediterranean", "europe", "greece" ],
+	
+	"Music":[
+			{"File":"The_Hellespont.ogg", "Type":"peace"},
+			{"File":"Harvest_Festival.ogg", "Type":"peace"},
+			{"File":"Helen_Leaves_Sparta.ogg", "Type":"peace"},
+			{"File":"In_the_Shadow_of_Olympus.ogg", "Type":"peace"},
+			{"File":"Forging_a_City-State.ogg", "Type":"peace"}
+		],
+	"Factions":
+	[
+		{
+			"Name":"Thessalians",
+			"Description":"The Thessalians were a ancient greek Civilisation, that lived north of Boeotia and was famous for its cavalry. In the peloponnesian war, they cooperated with athens.",
+			
+		}
+	],
+	"CivBonuses":
+	[
+		{
+			"Name":"Thessalian Cavalry",
+			"History":"The Thessalian cavalry was more powerful than that of any other Greek state, apart from the Macedonian one.",
+			"Description":"The Thessalianss gain access to champion cavalry"
+		},
+		{
+			"Name":"Hellenization",
+			"History":"The Greeks were highly successful in Hellenising various foreigners. During the Hellenistic Age, Greek was the lingua franca of the Ancient World, spoken widely from Spain to India.",
+			"Description":"Buildings +20% territory influence while the Theatron stands."
+		}
+	],
+	"TeamBonuses":
+	[
+		{
+			"Name":" ",
+			"History":" ",
+			"Description":" "
+		}
+	],
+	"Structures":
+	[
+		{
+			"Name":"Theatron",
+			"Class":"",
+			"Emblem":"",
+			"History":"Greek theatres were places where the immortal tragedies of Aeschylus, Sophocles and many other talented dramatists were staged to the delight of the populace. They were instrumental in enriching Hellenic culture.",
+			"Requirements":"",
+			"Phase":"City",
+			"Special":"Gives access to the Hellenization civ bonus. Building a Theatron increases the territory effect of all buildings by +20%."
+		}
+	],
+	"WallSets":
+	[
+		"other/wallset_palisade"
+	],
+	"StartEntities":
+	[
+		{
+			"Template": "structures/thess/civil_centre"
+		},
+		{
+			"Template": "units/thess/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/thess/infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/thess/infantry_javelineer_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/thess/cavalry_spearman_b"
+		}
+	],
+	"AINames":
+	[
+		"Echekratides III.",
+		"Orestes",
+		"Antiochos",
+		"Thorax",
+		"Eusypylos",
+		"Thrasydaios",
+		"Skopas",
+		"Eurylochos"
+	],
+	"SkirmishReplacements":
+	{
+		"skirmish/units/default_infantry_melee_b": "units/thess/infantry_spearman_b",
+        "skirmish/units/default_infantry_ranged_b": "units/syrac/infantry_archer_b"
+	},
+	"SelectableInGameSetup": false
+}
