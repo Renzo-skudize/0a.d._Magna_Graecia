@@ -6,27 +6,27 @@
         <Burning>
           <Interval>1500</Interval>
           <Damage>
-            <Fire>20</Fire>
-            <Pierce>0</Pierce>
+            <Fire>40</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
           <Duration>9000</Duration>
         </Burning>
       </ApplyStatus>
       <Damage>
-        <Fire>60</Fire>
+        <Fire>80</Fire>
+        <Pierce>0</Pierce>
       </Damage>
-      <MaxRange>70</MaxRange>
+      <MaxRange>76</MaxRange>
       <MinRange>10</MinRange>
       <Projectile>
         <Speed>1079252848</Speed>
-        <Spread>3</Spread>
+        <Spread>1.8</Spread>
         <Gravity>0</Gravity>
         <FriendlyFire>true</FriendlyFire>
         <LaunchPoint y="3"/>
       </Projectile>
-      <PrepareTime>2000</PrepareTime>
-      <RepeatTime>2000</RepeatTime>
+      <PrepareTime>0</PrepareTime>
+      <RepeatTime>1500</RepeatTime>
     </Ranged>
   </Attack>
   <Identity>
