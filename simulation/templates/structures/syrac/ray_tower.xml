@@ -4,17 +4,17 @@
     <Ranged>
       <ApplyStatus>
         <Burning>
-          <Interval>1000</Interval>
+          <Interval>1500</Interval>
           <Damage>
             <Fire>20</Fire>
-            <Pierce>00</Pierce>
+            <Pierce>0</Pierce>
           </Damage>
           <Stackability>Stack</Stackability>
           <Duration>9000</Duration>
         </Burning>
       </ApplyStatus>
       <Damage>
-        <Fire>90</Fire>
+        <Fire>60</Fire>
       </Damage>
       <MaxRange>70</MaxRange>
       <MinRange>10</MinRange>
