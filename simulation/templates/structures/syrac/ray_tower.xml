@@ -31,6 +31,9 @@
   <Identity>
     <Civ>syrac</Civ>
     <SpecificName>Solar Death Ray</SpecificName>
+    <Requirements>
+      <Techs datatype="tokens">phase_city</Techs>
+    </Requirements>
   </Identity>
   <VisualActor>
     <Actor>structures/spartans/ballista_tower.xml</Actor>
