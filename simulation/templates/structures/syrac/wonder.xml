@@ -6,13 +6,13 @@
   </Footprint>
   <Identity>
     <Civ>syrac</Civ>
-    <SpecificName>Hieron tou Apollōnos</SpecificName>
+    <SpecificName>Naos tou Artémidos</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="34.0" depth="63.0"/>
   </Obstruction>
   <VisualActor>
-    <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
-    <Actor>structures/syracusans/wonder.xml</Actor>
+    <FoundationActor>structures/fndn_7x15_hele.xml</FoundationActor>
+    <Actor>structures/seleucids/wonder.xml</Actor>
   </VisualActor>
 </Entity>
