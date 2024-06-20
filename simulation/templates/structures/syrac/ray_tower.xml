@@ -16,7 +16,7 @@
         <Fire>80</Fire>
         <Pierce>0</Pierce>
       </Damage>
-      <MaxRange>70</MaxRange>
+      <MaxRange>76</MaxRange>
       <MinRange>10</MinRange>
       <Projectile>
         <Speed>1079252848</Speed>
