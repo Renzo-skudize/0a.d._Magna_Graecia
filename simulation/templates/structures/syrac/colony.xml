@@ -2,7 +2,6 @@
 <Entity parent="template_structure_civic_civil_centre">
   <BuildRestrictions>
     <Territory>own ally neutral</Territory>
-    <PlacementType>shore</PlacementType>
   </BuildRestrictions>
   <Footprint replace="">
     <Circle radius="17"/>
