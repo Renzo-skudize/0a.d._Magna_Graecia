@@ -23,7 +23,7 @@
         </props>
         <textures>
            <texture file="skeletal/mace/compound_linothorax_02_01.png" name="baseTex"/>
-           <texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
+           <texture file="skeletal/mace/compound_linothorax_02_spec.png" name="specTex"/>
         </textures>
       </variant>   
     <variant frequency="1" name="mace-linothora-1-i">
@@ -32,7 +32,7 @@
           <prop actor="props/units/shields/aspis_athen_b.xml" attachpoint="shield_arm"/>
       </props>	
       <textures>
-        <texture file="skeletal/mace_linothorax_1_i.png" name="baseTex"/>
+        <texture file="skeletal/mace/compound_linothorax_02_01.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="2" name="cuirass-2b">
@@ -42,7 +42,7 @@
       </props>
       <textures>
         <texture file="skeletal/mace/compound_linothorax_02_01.png" name="baseTex"/>
-        <texture file="skeletal/hele/cuirass_2_spec.png" name="specTex"/>
+        <texture file="skeletal/mace/compound_linothorax_02_spec.png" name="specTex"/>
       </textures>
     </variant>
   </group>
