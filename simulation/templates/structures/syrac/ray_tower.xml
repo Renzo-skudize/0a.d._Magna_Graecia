@@ -17,7 +17,7 @@
         <Pierce>0</Pierce>
       </Damage>
       <MaxRange>76</MaxRange>
-      <MinRange>10</MinRange>
+      <MinRange>0</MinRange>
       <Projectile>
         <Speed>1079252848</Speed>
         <Spread>1.8</Spread>
