@@ -31,7 +31,7 @@
   <Identity>
     <Civ>syrac</Civ>
     <SpecificName>Solar Death Ray</SpecificName>
-    <Icon>structures/crannog.png</Icon>
+    <Icon>structures/ray_tower.png</Icon>
   </Identity>
   <Vision>
     <Range>100</Range>
