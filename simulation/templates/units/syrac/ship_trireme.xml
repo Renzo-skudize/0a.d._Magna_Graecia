@@ -10,6 +10,7 @@
     <GenericName>Athenian Trireme</GenericName>
     <Icon>units/ions/ship_trireme.png</Icon>
   </Identity>
+  <ProductionQueue/>
   <Trainer>
     <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
