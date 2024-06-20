@@ -14,7 +14,6 @@
     <SelectionGroupName>units/syrac/infantry_javelineer_b</SelectionGroupName>
     <GenericName>Sicels Peltast</GenericName>
     <SpecificName>Peltastḗs Sikeloi</SpecificName>
-    <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <Icon>units/ions/infantry_javelinist.png</Icon>
   </Identity>
   <Promotion>
