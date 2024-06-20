@@ -8,13 +8,14 @@
     <Static width="23.0" depth="23.0"/>
   </Obstruction>
   <Trainer>
-    <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/cavalry_spearman_ital_b
+      units/{civ}/cavalry_spearman_ital_a
+      units/{civ}/cavalry_swordsman_b
+      units/{civ}/cavalry_javelineer_b
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/spartans/stable.xml</Actor>
+    <Actor>structures/hellenes/stable.xml</Actor>
     <FoundationActor>structures/fndn_7x7.xml</FoundationActor>
   </VisualActor>
 </Entity>
