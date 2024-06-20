@@ -11,7 +11,7 @@
     <Civ>syrac</Civ>
     <SpecificName>Gýnē Syraka</SpecificName>
     <GenericName>Syracusan Woman</GenericName>
-    <Icon>units/syrac/support_female_citizen.png</Icon>
+    <Icon>units/ions/support_female_citizen.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/female_citizen.xml</Actor>
