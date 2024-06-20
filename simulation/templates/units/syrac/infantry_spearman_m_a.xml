@@ -4,7 +4,7 @@
     <Rank>Advanced</Rank>
   </Identity>
   <Promotion>
-    <Entity>units/syrac/infantry_spearman_e</Entity>
+    <Entity>units/syrac/infantry_spearman_m_e</Entity>
   </Promotion>
   <VisualActor>
     <Actor>units/spartans/infantry_spearman_a.xml</Actor>
