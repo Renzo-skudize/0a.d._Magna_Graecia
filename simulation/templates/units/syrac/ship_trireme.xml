@@ -6,8 +6,8 @@
   </Footprint>
   <Identity>
     <Civ>syrac</Civ>
-    <SpecificName>Triḗrēs Athēnaía</SpecificName>
-    <GenericName>Athenian Trireme</GenericName>
+    <SpecificName>Triḗrēs Syrakusike</SpecificName>
+    <GenericName>Syracusean Trireme</GenericName>
     <Icon>units/ions/ship_trireme.png</Icon>
   </Identity>
   <ProductionQueue/>
