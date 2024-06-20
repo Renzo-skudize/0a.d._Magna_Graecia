@@ -15,7 +15,6 @@
     <SpecificName>Peltastḗs Sikeloi</SpecificName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <Icon>units/ions/infantry_javelinist.png</Icon>
-    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/syrac/infantry_javelineer_a</Entity>
