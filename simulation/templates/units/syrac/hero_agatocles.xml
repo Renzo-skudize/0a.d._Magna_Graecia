@@ -12,6 +12,6 @@
     <Icon>units/syrac/hero_xenophon.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/athenians/hero_infantry_spearman_agathocles.xml</Actor>
+    <Actor>units/syracusans/hero_infantry_spearman_agathocles.xml</Actor>
   </VisualActor>
 </Entity>
