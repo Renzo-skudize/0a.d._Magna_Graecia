@@ -6,14 +6,14 @@
         <Burning>
           <Interval>1500</Interval>
           <Damage>
-            <Fire>40</Fire>
+            <Fire>30</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
           <Duration>9000</Duration>
         </Burning>
       </ApplyStatus>
       <Damage>
-        <Fire>80</Fire>
+        <Fire>60</Fire>
         <Pierce>0</Pierce>
       </Damage>
       <MaxRange>76</MaxRange>
