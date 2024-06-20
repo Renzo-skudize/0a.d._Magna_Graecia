@@ -32,10 +32,6 @@
     <Floating>true</Floating>
     <FloatDepth>0.0</FloatDepth>
   </Position>
-
-<!--     <Technologies datatype="tokens">
-      -phase_town_{civ}
-    </Technologies> -->
   <RallyPointRenderer>
     <LinePassabilityClass>ship</LinePassabilityClass>
   </RallyPointRenderer>
@@ -49,7 +45,6 @@
       units/{civ}/support_trader
     </Entities>
   </Trainer>
-  
   <VisualActor>
     <Actor>structures/syracusans/colony.xml</Actor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
