@@ -29,6 +29,14 @@
       <RepeatTime>1500</RepeatTime>
     </Ranged>
   </Attack>
+  <Cost>
+    <BuildTime>90</BuildTime>
+    <Resources>
+      <wood>100</wood>
+      <metal>50</metal>
+      <stone>150</stone>
+    </Resources>
+  </Cost>
   <Identity>
     <Civ>syrac</Civ>
     <SpecificName>Solar Death Ray</SpecificName>
