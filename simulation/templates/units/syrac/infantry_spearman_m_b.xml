@@ -2,6 +2,10 @@
 <Entity parent="hoplite|merc_inf|template_unit_infantry_melee_spearman">
   <Builder>
     <Entities datatype="tokens">
+      structures/syrac/gymnasium
+      structures/syrac/prytaneion
+      structures/syrac/library
+      structures/syrac/ray_tower
     </Entities>
   </Builder>
   <Identity>
