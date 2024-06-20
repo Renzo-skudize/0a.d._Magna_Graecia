@@ -13,7 +13,7 @@
     <Static width="24.0" depth="24.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/seleucids/library.xml</Actor>
+    <Actor>structures/ptolemies/library.xml</Actor>
     <FoundationActor>structures/fndn_7x7.xml</FoundationActor>
   </VisualActor>
 </Entity>
