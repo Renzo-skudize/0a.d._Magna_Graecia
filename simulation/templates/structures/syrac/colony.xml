@@ -46,7 +46,7 @@
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/syracusans/colony.xml</Actor>
+    <Actor>structures/ptolemies/military_colony.xml</Actor>
     <FoundationActor>structures/fndn_8x8.xml</FoundationActor>
   </VisualActor>
 </Entity>
