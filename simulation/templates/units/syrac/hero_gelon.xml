@@ -12,6 +12,6 @@
     <Icon>units/syrac/hero_pericles.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/athenians/hero_cavalry_spearman_gelon_m.xml</Actor>
+    <Actor>units/syracusans/hero_cavalry_spearman_gelon_m.xml</Actor>
   </VisualActor>
 </Entity>
