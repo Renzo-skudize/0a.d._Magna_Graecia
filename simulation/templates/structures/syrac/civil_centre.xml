@@ -14,10 +14,9 @@
       units/{civ}/hero_gelon
       units/{civ}/hero_dionysius_i
       units/{civ}/hero_hiero_ii
-      units/{civ}/inventor
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/syracusans/civic_center.xml</Actor>
+    <Actor>structures/spartans/civic_center.xml</Actor>
   </VisualActor>
 </Entity>
