@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Structure"],
+	"modifications": [
+		{ "value": "TerritoryInfluence/Radius", "multiply": 2 }
+	],
+	"auraDescription": "Structures +100% territory influence radius.",
+	"auraName": "Unification of Thessaly",
+	"stackable": true
+}
