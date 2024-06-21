@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Cavalry"],
+	"affectedPlayers": ["MutualAlly"],
+	"modifications": [
+		{ "value": "Health/Max", "mul": 1.2 }
+	],
+	"auraName": "Thessalian Horses",
+	"auraDescription": "Cavalry +20% Health."
+}
