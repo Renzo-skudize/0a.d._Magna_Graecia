@@ -21,7 +21,7 @@
         <prop actor="props/units/helmets/hele_boeotian_a2.xml" attachpoint="helmet"/>
       </props>
     </variant>
-    <variant frequency="1" name="Helmet Boeotian Bronze-01">
+    <variant frequency="1" name="Helmet Boeotian Gold-03">
       <props>
         <prop actor="props/units/helmets/hele_boeotian_g3.xml" attachpoint="helmet"/>
       </props>
