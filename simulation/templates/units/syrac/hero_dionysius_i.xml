@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_hero_cavalry_swordsman">
   <Auras datatype="tokens">
-    units/heroes/athen_hero_iphicrates_1
-    units/heroes/athen_hero_iphicrates_2
+    units/heroes/syrac_dionysius
   </Auras>
   <Identity>
     <Civ>syrac</Civ>
