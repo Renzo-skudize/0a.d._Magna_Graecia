@@ -47,6 +47,7 @@
       units/{civ}/champion_infantry_crossbowman
       units/{civ}/champion_marine
       units/{civ}/infantry_spearman_m_a
+      units/{civ}/infantry_swordsman_ital_a
     </Entities>
   </Trainer>
   <Vision>
