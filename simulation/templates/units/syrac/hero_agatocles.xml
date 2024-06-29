@@ -11,6 +11,9 @@
 	    </Bonuses>
     </Melee>
   </Attack>
+  <Auras datatype="tokens">
+    units/heroes/syrac_agatocles
+  </Auras>
   <Identity>
     <Civ>syrac</Civ>
     <Lang>greek</Lang>

@@ -1,0 +1,11 @@
+{
+	"type": "global",
+	"affects": ["Cavalry"],
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 0.9 },
+        { "value": "Health/Max", "multiply": 1.2, "affects": "Infantry" }
+	],
+	"auraName": "Victory over the oligarchs",
+	"auraDescription": "Cavalry -10% Health, Infantry +20% Health.",
+        "overlayIcon": "art/textures/ui/session/auras/standground.png"
+}
