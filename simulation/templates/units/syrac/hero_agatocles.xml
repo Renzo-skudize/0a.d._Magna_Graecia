@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="hoplite|template_unit_hero_infantry_spearman">
-  <Auras datatype="tokens">
-    units/heroes/athen_hero_pericles_1
-    units/heroes/athen_hero_pericles_2
-  </Auras>
+  <Attack>
+    <Melee>
+	    <Bonuses>
+		    <BonusCarthaginians>
+		    	<Civ>cart</Civ>
+			    <Classes></Classes>
+			    <Multiplier>1.25</Multiplier>
+		    </BonusCarthaginians>
+	    </Bonuses>
+    </Melee>
+  </Attack>
   <Identity>
     <Civ>syrac</Civ>
     <Lang>greek</Lang>
     <GenericName>Agátocles</GenericName>
     <SpecificName>Agátocles</SpecificName>
     <Icon>units/syrac/hero_xenophon.png</Icon>
+    <Tooltip>Use against carthaginians for a 1.25x Counter.</Tooltip>
   </Identity>
   <VisualActor>
     <Actor>units/syracusans/hero_infantry_spearman_agathocles.xml</Actor>
