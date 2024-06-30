@@ -4,12 +4,12 @@
     <Ranged>
       <ApplyStatus>
         <Burning>
-          <Interval>1000</Interval>
+          <Interval>2000</Interval>
           <Damage>
             <Fire>10</Fire>
           </Damage>
           <Stackability>Stack</Stackability>
-          <Duration>5000</Duration>
+          <Duration>6000</Duration>
         </Burning>
       </ApplyStatus>
       <Damage>
@@ -26,9 +26,12 @@
         <LaunchPoint y="3"/>
       </Projectile>
       <PrepareTime>0</PrepareTime>
-      <RepeatTime>1500</RepeatTime>
+      <RepeatTime>2000</RepeatTime>
     </Ranged>
   </Attack>
+  <BuildingAI>
+    <MaxArrowCount>1</MaxArrowCount>
+  </BuildingAI>
   <Cost>
     <BuildTime>90</BuildTime>
     <Resources>

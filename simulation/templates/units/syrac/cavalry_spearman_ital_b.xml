@@ -11,6 +11,6 @@
     <Entity>units/syrac/cavalry_spearman_ital_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/carthaginians/cavalry_spearman_b_m.xml</Actor>
+    <Actor>units/syracusans/cavalry_spearman_b_m.xml</Actor>
   </VisualActor>
 </Entity>

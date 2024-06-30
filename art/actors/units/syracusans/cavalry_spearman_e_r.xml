@@ -6,7 +6,7 @@
       <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_hele_h.xml" attachpoint="head"/>
-        <prop actor="props/units/helmets/hele_boeotian_g.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_boeotian_b3.xml" attachpoint="helmet"/>
         <prop actor="props/units/weapons/spear_lance_cavalry.xml" attachpoint="weapon_R"/>
       </props>
     </variant>

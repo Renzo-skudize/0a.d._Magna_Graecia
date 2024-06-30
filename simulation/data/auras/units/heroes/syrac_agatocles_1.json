@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Cavalry"],
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 0.9 }
+	],
+	"auraName": "Victory over the Oligarchs",
+	"auraDescription": "Cavalry -10% Health.",
+        "overlayIcon": "art/textures/ui/session/auras/broken_sword.png"
+}

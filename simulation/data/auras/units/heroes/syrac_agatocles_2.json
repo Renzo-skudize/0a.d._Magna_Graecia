@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Infantry"],
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 1.2 }
+	],
+	"auraName": "Victory over the Oligarchs",
+	"auraDescription": "Infantry +20% Health.",
+        "overlayIcon": "art/textures/ui/session/auras/laurel.png"
+}
