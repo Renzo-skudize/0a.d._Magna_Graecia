@@ -16,6 +16,7 @@
     <SpecificName>Toxótēs Krētikós</SpecificName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <Icon>units/syrac/infantry_archer.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/syrac/infantry_marine_archer_a</Entity>

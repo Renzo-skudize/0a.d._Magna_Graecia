@@ -5,6 +5,6 @@
 		{ "value": "Health/Max", "multiply": 0.9 }
 	],
 	"auraName": "Victory over the Oligarchs",
-	"auraDescription": "Cavalry -10% Health.",
+	"auraDescription": "Cavalry -10% Health, Infantry +20% Health..",
         "overlayIcon": "art/textures/ui/session/auras/broken_sword.png"
 }

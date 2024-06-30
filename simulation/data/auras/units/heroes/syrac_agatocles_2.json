@@ -4,7 +4,7 @@
 	"modifications": [
 		{ "value": "Health/Max", "multiply": 1.2 }
 	],
-	"auraName": "Victory over the Oligarchs",
-	"auraDescription": "Infantry +20% Health.",
+	"auraName": " ",
+	"auraDescription": " ",
         "overlayIcon": "art/textures/ui/session/auras/laurel.png"
 }

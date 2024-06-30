@@ -10,8 +10,8 @@
   </Builder>
   <Identity>
     <Civ>syrac</Civ>
-    <GenericName>Campanian Swordsman</GenericName>
-    <SpecificName>Xiphophoros Kampaniotes</SpecificName>
+    <GenericName>Mamertines</GenericName>
+    <SpecificName>Mamertinoi</SpecificName>
     <SelectionGroupName>units/syra/infantry_swordsman_ital_b</SelectionGroupName>
     <VisibleClasses datatype="tokens">Mercenary</VisibleClasses>
     <Icon>units/syrac/swordsman.png</Icon>
