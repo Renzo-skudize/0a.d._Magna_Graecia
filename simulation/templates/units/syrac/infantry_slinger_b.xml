@@ -6,6 +6,7 @@
       structures/syrac/prytaneion
       structures/syrac/library
       strucutres/syrac/ray_tower
+      structures/syrac/colony
     </Entities>
   </Builder>
   <Identity>

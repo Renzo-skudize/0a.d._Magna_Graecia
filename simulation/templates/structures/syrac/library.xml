@@ -9,11 +9,16 @@
     <RequiredTechnology>phase_town</RequiredTechnology>
     <SpecificName>Bibliothēkē</SpecificName>
   </Identity>
+  <Researcher>
+    <Technologies datatype="tokens">
+      center_of_science
+    </Technologies>
+  </Researcher>
   <Obstruction>
     <Static width="24.0" depth="24.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/ptolemies/library.xml</Actor>
+    <Actor>structures/macedonians/library.xml</Actor>
     <FoundationActor>structures/fndn_7x7.xml</FoundationActor>
   </VisualActor>
 </Entity>

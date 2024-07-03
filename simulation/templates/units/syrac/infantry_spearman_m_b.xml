@@ -6,6 +6,7 @@
       structures/syrac/prytaneion
       structures/syrac/library
       structures/syrac/ray_tower
+      structures/syrac/colony
     </Entities>
   </Builder>
   <Identity>
@@ -15,6 +16,7 @@
     <GenericName>Allied Perioikoi Hoplite</GenericName>
     <SpecificName>Hoplítēs Períoikos</SpecificName>
     <Icon>units/ions/merc_hoplite.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/syrac/infantry_spearman_m_a</Entity>

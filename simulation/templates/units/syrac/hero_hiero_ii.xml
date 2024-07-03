@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|template_unit_hero_infantry_spearman">
+  <Attack>
+    <Melee>
+	    <Bonuses>
+		    <BonusMercenaries>
+			    <Classes>Mercenary</Classes>
+			    <Multiplier>2</Multiplier>
+		    </BonusMercenaries>
+	    </Bonuses>
+    </Melee>
+  </Attack>
+  <Auras datatype="tokens">
+    units/heroes/cart_hero_hamilcar_2
+  </Auras>
+  <Identity>
+    <Civ>syrac</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Hiero II of Syracuse</GenericName>
+    <SpecificName>Hiérōn</SpecificName>
+    <Icon>units/syrac/hero_xenophon.png</Icon>
+    <Tooltip>Use against carthaginians for a 1.25x Counter.</Tooltip>
+  </Identity>
+  <VisualActor>
+    <Actor>units/syracusans/hero_infantry_spearman_hiero.xml</Actor>
+  </VisualActor>
+</Entity>

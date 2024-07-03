@@ -1,0 +1,27 @@
+{
+	"genericName": "Center of Science",
+	"description": "In Syracuse were many things invented, like the Burning mirror, the `Lithobolos`, a type of catapult, and the `Quinquereme`, a heavy warship ",
+	"cost": {
+		"wood": 1000,
+		"metal": 300,
+        "food": 200
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "athena_2.png",
+	"researchTime": 60,
+	"tooltip": "Technologies -10% resource costs, -100% research time.",
+	"modifications": [
+	    { "value": "Researcher/TechCostMultiplier/food", "multiply": 0.9 },
+        { "value": "Researcher/TechCostMultiplier/wood", "multiply": 0.9 },
+        { "value": "Researcher/TechCostMultiplier/stone", "multiply": 0.9 },
+        { "value": "Researcher/TechCostMultiplier/metal", "multiply": 0.9 },
+        { "value": "Researcher/TechCostMultiplier/time", "multiply": 0 }
+	],
+	"affects": ["Structure"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}
