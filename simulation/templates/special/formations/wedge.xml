@@ -3,7 +3,7 @@
   <Formation>
     <RequiredMemberCount>6</RequiredMemberCount>
     <DisabledTooltip>Cavalry only, requires at least 6.</DisabledTooltip>
-    <FormationShape>rhombe</FormationShape>
+    <FormationShape>rhombus</FormationShape>
     <ShiftRows>true</ShiftRows>
     <Sloppiness>0.25</Sloppiness>
     <UnitSeparationWidthMultiplier>1.1</UnitSeparationWidthMultiplier>
