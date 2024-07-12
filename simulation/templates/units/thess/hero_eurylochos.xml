@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|template_unit_hero_infantry_spearman">
+  <Auras datatype="tokens">
+    units/heroes/mace_hero_demetrius_i
+  </Auras>
+  <Identity>
+    <Civ>thess</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Eurylochos</GenericName>
+    <SpecificName> </SpecificName>
+    <Icon>units/cori/hero_brasidas.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/thessalians/hero_infantry_spearman_eurylochos.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -9,6 +9,6 @@
     <SelectionGroupName>units/mace/champion_cavalry</SelectionGroupName>
   </Identity>
   <VisualActor>
-    <Actor>units/macedonians/cavalry_spearman_c_m.xml</Actor>
+    <Actor>units/thessalians/cavalry_spearman_c_m.xml</Actor>
   </VisualActor>
 </Entity>

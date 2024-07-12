@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_cavalry_swordsman">
+  <Auras datatype="tokens">
+    units/heroes/thess_lycophron
+  </Auras>
+  <Identity>
+    <Civ>thess</Civ>
+    <GenericName>Lycophron</GenericName>
+    <SpecificName>Lykóphrōn</SpecificName>
+    <Icon>units/syrac/hero_xenophon.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/carthaginians/hero_cavalry_swordsman_hamilcar_m.xml</Actor>
+  </VisualActor>
+</Entity>
