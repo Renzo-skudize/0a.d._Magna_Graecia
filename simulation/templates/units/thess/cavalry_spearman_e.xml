@@ -3,7 +3,22 @@
   <Identity>
     <Rank>Elite</Rank>
   </Identity>
-  <Promotion disable=""/>
+  <Upgrade>
+    <Iliarchos>
+      <Entity>units/thess/champion_cavalry_officer</Entity>
+      <Tooltip>Give this combat veteran the rank of an Iliarchos.</Tooltip>
+      <Cost>
+        <food>100</food>
+        <metal>60</metal>
+      </Cost>
+      <Variant>upgrading</Variant>
+      <Time>20</Time>
+    </Iliarchos>
+  </Upgrade>
+  <Promotion>
+    <Entity>units/thess/champion_cavalry_officer</Entity>
+    <RequiredXp>400</RequiredXp>
+  </Promotion>
   <VisualActor>
     <Actor>units/macedonians/cavalry_spearman_e_m.xml</Actor>
   </VisualActor>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_cavalry_spearman">
+  <Auras datatype="tokens">
+    units/heroes/sele_hero_antiochus_iii
+  </Auras>
+  <Identity>
+    <Civ>thess</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Officer</GenericName>
+    <SpecificName>Iliarchos</SpecificName>
+    <Icon>units/thess/champion_cavalry.png</Icon>
+  </Identity>
+  <Health>
+    <Max>280</Max>
+  </Health>
+  <VisualActor>
+    <Actor>units/seleucids/cavalry_spearman_c_m.xml</Actor>
+  </VisualActor>
+</Entity>
