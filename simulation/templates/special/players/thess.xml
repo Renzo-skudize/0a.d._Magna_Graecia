@@ -7,7 +7,7 @@
     <Civ>thess</Civ>
     <GenericName>Thessalians</GenericName>
     <History>The Thessalians were a ancient greek Civilisation, that lived north of Boeotia and was famous for its cavalry. In the peloponnesian war, they cooperated with athens.</History>
-    <Icon>emblems/emblem_athenians.png</Icon>
+    <Icon>emblems/emblem_thessalians.png</Icon>
   </Identity>
   <Player>
     <Formations datatype="tokens">
