@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_wallset">
+  <Identity>
+    <Civ>thess</Civ>
+    <SpecificName>Teichos</SpecificName>
+  </Identity>
+  <WallSet>
+    <Templates>
+      <Tower>structures/thess/wall_tower</Tower>
+      <Gate>structures/thess/wall_gate</Gate>
+      <WallLong>structures/thess/wall_long</WallLong>
+      <WallMedium>structures/thess/wall_medium</WallMedium>
+      <WallShort>structures/thess/wall_short</WallShort>
+    </Templates>
+    <MaxTowerOverlap>0.90</MaxTowerOverlap>
+    <MinTowerOverlap>0.05</MinTowerOverlap>
+  </WallSet>
+</Entity>
