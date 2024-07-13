@@ -37,11 +37,6 @@
     <Static width="24.0" depth="30.0"/>
   </Obstruction>
   <ProductionQueue/>
-  <Researcher>
-    <Technologies datatype="tokens">
-      center_of_science
-    </Technologies>
-  </Researcher>
   <Sound>
     <SoundGroups>
       <select>interface/select/building/sel_tholos.xml</select>
