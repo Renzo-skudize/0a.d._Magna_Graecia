@@ -17,7 +17,7 @@
   </Upgrade>
   <Promotion>
     <Entity>units/thess/champion_cavalry_officer</Entity>
-    <RequiredXp>400</RequiredXp>
+    <RequiredXp>300</RequiredXp>
   </Promotion>
   <VisualActor>
     <Actor>units/macedonians/cavalry_spearman_e_m.xml</Actor>
