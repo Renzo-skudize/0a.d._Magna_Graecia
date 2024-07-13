@@ -84,12 +84,14 @@
 		"Eusypylos",
 		"Thrasydaios",
 		"Skopas",
-		"Eurylochos"
+		"Eurylochos",
+		"Jason of Pherai",
+		"Lycophron of Pherai"
 	],
 	"SkirmishReplacements":
 	{
 		"skirmish/units/default_infantry_melee_b": "units/thess/infantry_spearman_b",
-        "skirmish/units/default_infantry_ranged_b": "units/syrac/infantry_archer_b"
+        "skirmish/units/default_infantry_ranged_b": "units/thess/infantry_archer_b"
 	},
-	"SelectableInGameSetup": false
+	"SelectableInGameSetup": true
 }
