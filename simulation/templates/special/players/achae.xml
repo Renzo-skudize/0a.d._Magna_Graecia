@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_player">
+  <Identity>
+    <Civ>achae</Civ>
+    <GenericName>Achaean League</GenericName>
+    <History>The Achaean League was a union of many city-states in the Achaean region. At the height of its power in 229 BC, it ruled over the entire Northern Peloponnese and was on a par with Macedonia, Sparta and Egypt.</History>
+    <Icon>emblems/emblem_thessalians.png</Icon>
+  </Identity>
+  <Player>
+    <Formations datatype="tokens">
+      special/formations/phalanx
+    </Formations>
+  </Player>
+</Entity>

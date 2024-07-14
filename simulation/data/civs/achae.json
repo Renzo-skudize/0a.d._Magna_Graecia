@@ -1,5 +1,5 @@
 {
-	"Code": "cori",
+	"Code": "achae",
 	"Culture": "greek",
 	"Music": [
 		{
@@ -26,8 +26,8 @@
 			"Description": "Market has a 0.5 Metal trickle per second."
 		},
 		{
-			"Name": "Sikyonian Symmachoi",
-			"Description": "Corinthians can build Sikyonian mercenary hoplites."
+			"Name": "Megalopolitan Symmachoi",
+			"Description": "Achaeans can build Megalopolitan mercenary pikemen."
 		}
 	],
 	"WallSets": [
@@ -36,36 +36,40 @@
 	],
 	"StartEntities": [
 		{
-			"Template": "structures/cori/civil_centre"
+			"Template": "structures/achae/civil_centre"
 		},
 		{
-			"Template": "units/cori/support_female_citizen",
+			"Template": "units/achae/support_female_citizen",
 			"Count": 4
 		},
 		{
-			"Template": "units/cori/infantry_spearman_b",
+			"Template": "units/achae/infantry_spearman_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/cori/infantry_slinger_b",
+			"Template": "units/achae/infantry_archer_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/cori/cavalry_javelineer_b"
+			"Template": "units/achae/cavalry_javelineer_b"
 		}
 	],
 	"AINames": [
-		"Xenokleides",
-		"Aristeus",
-		"Periander",
-		"Bakchis",
-		"Philolaus of Corinth",
-		"Cypselus",
-		"Adeimantus"
+		"Aratus",
+		"Margos",
+		"Lydiadas of Megalopolis",
+		"Timoxenos",
+        "Cycliadas",
+        "Aristaenus",
+        "Philopoemen",
+        "Lycortas",
+        "Xenarchos",
+        "Kritolaus of Megalopolis",
+        "Diaeus"
 	],
 	"SkirmishReplacements": {
-		"skirmish/units/default_infantry_ranged_b": "units/cori/infantry_slinger_b",
-		"skirmish/units/default_infantry_melee_b": "units/cori/infantry_spearman_b",
+		"skirmish/units/default_infantry_ranged_b": "units/achae/infantry_archer_b",
+		"skirmish/units/default_infantry_melee_b": "units/achae/infantry_spearman_b",
 		"skirmish/structures/default_house_10": "structures/{civ}/house"
 	},
 	"SelectableInGameSetup": true
