@@ -2,9 +2,9 @@
 	"type": "global",
 	"affects": ["Ship"],
 	"modifications": [
-		{ "value": "Health/Max", "multiply": 25 }
+		{ "value": "Health/Max", "multiply": 1.5 }
 	],
 	"auraName": "Battle of sybota",
-	"auraDescription": "Ships +25% health.",
+	"auraDescription": "Ships +50% health.",
 	"overlayIcon": "art/textures/ui/session/auras/laurel.png"
 }
