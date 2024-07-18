@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|template_unit_champion_infantry_spearman">
+  <Identity>
+    <Civ>achae</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Achaean Wealthy Hoplite</GenericName>
+    <SpecificName>Achaiós Ploúsios Hoplī́tēs</SpecificName>
+    <Icon>units/theb/champion_infantry_hoplite.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/achaeans/infantry_spearman_c.xml</Actor>
+  </VisualActor>
+</Entity>
