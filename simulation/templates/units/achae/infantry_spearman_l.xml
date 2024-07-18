@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_spearman">
+  <Health>
+    <Max>70</Max>
+  </Health>
+  <Cost>
+    <BuildTime>6</BuildTime>
+    <Resources>
+      <food>50</food>
+      <wood>35</wood>
+      <stone>0</stone>
+      <metal>0</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>achae</Civ>
+    <SelectionGroupName>units/athen/infantry_spearman_b</SelectionGroupName>
+    <GenericName>Light Achaean Hoplite</GenericName>
+    <SpecificName>Ekdromos</SpecificName>
+    <Lang>greek</Lang>
+    <Icon>units/syrac/infantry_spearman.png</Icon>
+  </Identity>
+  <Promotion disable=""/>
+  <UnitMotion>
+    <PassabilityClass>default</PassabilityClass>
+    <WalkSpeed>12</WalkSpeed>
+    <RunMultiplier>1.7</RunMultiplier>
+    <InstantTurnAngle>1.5</InstantTurnAngle>
+    <Acceleration>45</Acceleration>
+    <Weight>10</Weight>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/achaeans/infantry_spearman_l.xml</Actor>
+  </VisualActor>
+</Entity>
