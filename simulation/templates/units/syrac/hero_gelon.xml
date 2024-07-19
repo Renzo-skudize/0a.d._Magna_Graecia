@@ -19,7 +19,7 @@
     <Lang>greek</Lang>
     <GenericName>Gelon</GenericName>
     <SpecificName>Gelon I</SpecificName>
-    <Icon>units/syrac/hero_pericles.png</Icon>
+    <Icon>units/syrac/hero_gelon.png</Icon>
     <Tooltip>Use against carthaginians for a 1.5x Counter.</Tooltip>
   </Identity>
   <VisualActor>
