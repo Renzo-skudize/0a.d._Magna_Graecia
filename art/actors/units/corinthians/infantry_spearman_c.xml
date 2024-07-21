@@ -98,6 +98,42 @@
         <texture file="skeletal/athen/epilektos_07.png" name="baseTex"/>
       </textures>
     </variant>
+    <variant frequency="1" name="mace-compound">
+      <textures>
+        <texture file="skeletal/mace/compound_linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/compound_linothorax_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="hele_01">
+      <textures>
+        <texture file="skeletal/hele/linothorax_01_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/compound_linothorax_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="hele_02_01">
+      <textures>
+        <texture file="skeletal/hele/linothorax_02_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/compound_linothorax_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="hele_02_02">
+      <textures>
+        <texture file="skeletal/hele/linothorax_02_02.png" name="baseTex"/>
+        <texture file="skeletal/mace/compound_linothorax_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="ptol-linothorax">
+      <textures>
+        <texture file="skeletal/ptol/linothorax_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/compound_linothorax_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="theb-linothorax">
+      <textures>
+        <texture file="skeletal/theb/linothorax_01_01.png" name="baseTex"/>
+        <texture file="skeletal/mace/compound_linothorax_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
   </group>
   <group>
     <variant file="biped/base_hoplite_fast.xml"/>
