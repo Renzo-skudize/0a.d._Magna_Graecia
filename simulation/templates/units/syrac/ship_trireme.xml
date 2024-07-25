@@ -19,6 +19,6 @@
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/athenians/trireme.xml</Actor>
+    <Actor>structures/hellenes/trireme.xml</Actor>
   </VisualActor>
 </Entity>

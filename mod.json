@@ -1,8 +1,8 @@
 {
-	"name": "0ad",
+	"name": "magna_graecia_ad",
 	"version": "0.0.26",
 	"label": "Magna Graecia",
 	"url": "https://github.com/Renzo-skudize/0a.d._Magna_Graecia",
-	"description": "All hellenic civilisations ready for playing.",
-	"dependencies": [ "0ad=0.0.26"]
+	"description": "All mediterranean civilisations ready for playing.",
+	"dependencies": [ "0ad>=0.0.26"]
 }

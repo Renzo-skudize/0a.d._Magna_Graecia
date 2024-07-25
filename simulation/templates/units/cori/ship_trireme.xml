@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_ship_trireme">
+  <Cost>
+    <BuildTime op="mul_round">0.75</BuildTime>
+    <Resources>
+      <food op="mul_round">0.75</food>
+      <wood op="mul_round">0.75</wood>
+      <stone op="mul_round">0.75</stone>
+      <metal op="mul_round">0.75</metal>
+    </Resources>
+  </Cost>
   <Identity>
     <Civ>cori</Civ>
     <Lang>greek</Lang>
@@ -20,6 +29,6 @@
     </Technologies>
   </Researcher>
   <VisualActor>
-    <Actor>structures/athenians/trireme.xml</Actor>
+    <Actor>structures/hellenes/trireme.xml</Actor>
   </VisualActor>
 </Entity>

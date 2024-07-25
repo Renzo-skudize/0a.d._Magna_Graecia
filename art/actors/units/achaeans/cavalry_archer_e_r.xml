@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant frequency="1" name="Base">
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <props>
+        <prop actor="props/units/weapons/bow_short.xml" attachpoint="weapon_bow"/>
+        <prop actor="props/units/heads/new/head_hele_b.xml" attachpoint="head"/>
+        <prop actor="props/units/pers_quiver_hip.xml" attachpoint="sheath_L"/>
+        <prop actor="props/units/capes/rider/cape_med_player.xml" attachpoint="root"/>
+      </props>
+      <textures>
+        <texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Helmet Boeotian Bronze-01">
+      <props>
+        <prop actor="props/units/helmets/hele_boeotian.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Helmet Boeotian Bronze-02">
+      <props>
+        <prop actor="props/units/helmets/hele_boeotian_crest.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="linothorax_01_02">
+      <textures>
+        <texture file="skeletal/athen/linothorax_01_02.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="linothorax_01_03">
+      <textures>
+        <texture file="skeletal/athen/linothorax_01_03.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="linothorax_01_06">
+      <textures>
+        <texture file="skeletal/athen/linothorax_01_06.png" name="baseTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant file="biped/rider/cavalry/base_archer_relax_hip.xml" name="Archer-Relax-Hip" frequency="1"/>
+    <variant file="biped/rider/carry_meat.xml"/>
+  </group>
+  <group>
+    <variant frequency="1" name="Idle"/>
+    <variant file="biped/rider/cavalry/attack_ranged_archer_hip.xml"/>
+    <variant file="biped/rider/promotion_shield.xml"/>
+    <variant file="biped/rider/attack_slaughter_shield_hele.xml"/>
+    <variant file="biped/gather_meat.xml"/>
+    <variant file="biped/rider/death_ranged.xml"/>
+  </group>
+  <material>player_trans_norm_spec.xml</material>
+</actor>

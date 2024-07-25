@@ -6,7 +6,7 @@
     <Classes datatype="tokens">CivSpecific</Classes>
   </Identity>
   <VisualActor>
-    <Actor>structures/spartans/theater.xml</Actor>
+    <Actor>special/old/hellenes_theatre_2.xml</Actor>
     <FoundationActor>structures/fndn_theater.xml</FoundationActor>
   </VisualActor>
 </Entity>

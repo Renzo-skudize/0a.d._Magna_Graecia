@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_female_citizen">
+  <Identity>
+    <SpecificName>Gýnē Achaií</SpecificName>
+    <GenericName>Achaean Woman</GenericName>
+    <Icon>units/ions/support_female_citizen.png</Icon>
+    <Civ>achae</Civ>
+  </Identity>
+  <VisualActor>
+    <Actor>units/athenians/female_citizen.xml</Actor>
+  </VisualActor>
+</Entity>
