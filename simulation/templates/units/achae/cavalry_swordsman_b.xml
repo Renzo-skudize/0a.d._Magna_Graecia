@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_cavalry_melee_swordsman">
+  <Identity>
+    <Civ>achae</Civ>
+    <SelectionGroupName>units/athen/cavalry_swordsman_b</SelectionGroupName>
+    <GenericName>Achaean Cavalry</GenericName>
+    <SpecificName>Hippeús Achaïkó</SpecificName>
+    <Icon>units/cori/cavalry_swordsman.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/achae/cavalry_swordsman_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/athenians/cavalry_swordsman_b_m.xml</Actor>
+  </VisualActor>
+</Entity>
