@@ -9,6 +9,7 @@
     <SpecificName>Tlat-Mašōt</SpecificName>
     <Icon>units/cart/ship_arrow.png</Icon>
   </Identity>
+  <ProductionQueue/>
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_cavalry_swordsman">
+  <Auras datatype="tokens">
+    units/heroes/thess_jason
+  </Auras>
+  <Identity>
+    <Civ>achae</Civ>
+    <GenericName>Diaeus of Megalopolis</GenericName>
+    <SpecificName>Diaios</SpecificName>
+    <Icon>units/syrac/hero_iphicrates.png</Icon>
+  </Identity>
+  <ProductionQueue/>
+  <Trainer>
+    <BatchTimeModifier>0.6</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/infantry_spearman_l.xml
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <Actor>units/thessalians/hero_cavalry_swordsman_jason_m.xml</Actor>
+  </VisualActor>
+</Entity>

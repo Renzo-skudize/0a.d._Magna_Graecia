@@ -1,0 +1,17 @@
+{
+	"type": "range",
+	"radius": 90,
+	"affects": ["Siege"],
+	"modifications": [
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 2 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 2 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 2 },
+		{ "value": "Resistance/Entity/Damage/Hack", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Pierce", "add": 1 },
+		{ "value": "Resistance/Entity/Damage/Crush", "add": 1 },
+		{ "value": "Vision/Range", "multiply": 1.1 }
+	],
+	"auraName": "Besieger of Acrocorinth",
+	"auraDescription": "Siege Engines +1 crush, hack, pierce resistance, +100% melee attack damage, +10% ranged attack range, +10% vision range.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

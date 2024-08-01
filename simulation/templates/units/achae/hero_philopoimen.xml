@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_cavalry_spearman">
+  <Attack>
+    <Melee>
+	    <Bonuses>
+		    <BonusSpartans>
+		    	<Civ>spart</Civ>
+			    <Classes></Classes>
+			    <Multiplier>1.5</Multiplier>
+		    </BonusSpartans>
+	    </Bonuses>
+    </Melee>
+  </Attack>
+  <Auras datatype="tokens">
+    units/heroes/pers_hero_cyrus_ii
+  </Auras>
+  <Identity>
+    <Civ>achae</Civ>
+    <Lang>greek</Lang>
+    <GenericName>Philopoemen</GenericName>
+    <SpecificName>Philopoimen</SpecificName>
+    <Icon>units/achae/hero_philip.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/macedonians/hero_cavalry_spearman_philip_m.xml</Actor>
+  </VisualActor>
+</Entity>

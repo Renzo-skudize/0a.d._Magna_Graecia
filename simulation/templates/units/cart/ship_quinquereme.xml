@@ -5,6 +5,7 @@
     <SpecificName>Ḥameš-Mašōt</SpecificName>
     <Icon>units/cart/ship_siege.png</Icon>
   </Identity>
+  <ProductionQueue/>
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">

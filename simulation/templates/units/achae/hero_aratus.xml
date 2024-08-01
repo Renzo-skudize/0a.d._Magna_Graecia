@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_cavalry_swordsman">
+  <Auras datatype="tokens">
+    units/heroes/achae_aratus
+  </Auras>
+  <Identity>
+    <Civ>achae</Civ>
+    <GenericName>Aratus of Sicyon</GenericName>
+    <SpecificName>Aratos ho Sikyónios</SpecificName>
+    <Icon>units/syrac/hero_xenophon.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/carthaginians/hero_cavalry_swordsman_hamilcar_m.xml</Actor>
+  </VisualActor>
+</Entity>
