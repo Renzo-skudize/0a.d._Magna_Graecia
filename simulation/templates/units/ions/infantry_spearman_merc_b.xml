@@ -19,6 +19,7 @@
     <GenericName>Carian Hoplite</GenericName>
     <SpecificName>Hoplítēs Kários</SpecificName>
     <Icon>units/ions/merc_hoplite.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/ions/infantry_spearman_merc_a</Entity>

@@ -12,6 +12,7 @@
     <GenericName>Sikyonian Hoplite</GenericName>
     <SpecificName>Sikyónios Hoplítis</SpecificName>
     <Icon>units/cori/infantry_spearman_sicyon.png</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
     <Entity>units/cori/infantry_spearman_merc_a</Entity>

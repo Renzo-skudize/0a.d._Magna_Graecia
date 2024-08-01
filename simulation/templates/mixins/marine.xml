@@ -6,6 +6,9 @@
       <metal op="add">-40</metal>
     </Resources>
   </Cost>
+  <Identity>
+    <RequiredTechnology>phase_town -phase_city</RequiredTechnology>
+  </Identity>
   <Resistance>
     <Entity>
       <Damage>
@@ -20,7 +23,7 @@
   </Loot>
   <UnitMotion>
     <WalkSpeed op="mul">1.4</WalkSpeed>
-    <RunMultiplier>1.4</RunMultiplier>
-    <Acceleration op="mul">2</Acceleration>
+    <RunMultiplier>1.7</RunMultiplier>
+    <Acceleration op="mul">1.5</Acceleration>
   </UnitMotion>
 </Entity>
