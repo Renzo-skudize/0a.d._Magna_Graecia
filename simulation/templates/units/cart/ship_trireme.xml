@@ -9,6 +9,12 @@
     <SpecificName>Tlat-Mašōt</SpecificName>
     <Icon>units/cart/ship_arrow.png</Icon>
   </Identity>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/champion_infantry
+    </Entities>
+  </Trainer>
   <VisualActor>
     <Actor>structures/carthaginians/trireme.xml</Actor>
   </VisualActor>

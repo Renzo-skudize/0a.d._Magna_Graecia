@@ -5,6 +5,12 @@
     <SpecificName>Ḥameš-Mašōt</SpecificName>
     <Icon>units/cart/ship_siege.png</Icon>
   </Identity>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/champion_infantry
+    </Entities>
+  </Trainer>
   <VisualActor>
     <Actor>structures/carthaginians/quinquereme.xml</Actor>
   </VisualActor>
