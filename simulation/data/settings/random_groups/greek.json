@@ -1,0 +1,16 @@
+{
+	"Title": "Greek Civilizations",
+	"Code": "greek",
+	"GUIOrder": 1,
+	"Tooltip": "All ancient Greek civilizations,",
+	"Weights": {
+		"athen": 2,
+		"spart": 1,
+		"achae": 1,
+        "thess": 1,
+        "cori": 2,
+        "ions": 2,
+        "syrac": 2,
+		"theb": 1
+	}
+}
