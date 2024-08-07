@@ -3,6 +3,16 @@
   <Health>
     <Max>70</Max>
   </Health>
+  <Attack>
+    <Melee>
+	    <Bonuses>
+		    <BonusSpartans>
+			    <Classes>infantry javelineer</Classes>
+			    <Multiplier>2</Multiplier>
+		    </BonusSpartans>
+	    </Bonuses>
+    </Melee>
+  </Attack>
   <Cost>
     <BuildTime>6</BuildTime>
     <Resources>
