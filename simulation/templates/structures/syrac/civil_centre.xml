@@ -19,6 +19,6 @@
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/hellenes/civic_center_new.xml</Actor>
+    <Actor>structures/spartans/civic_center.xml</Actor>
   </VisualActor>
 </Entity>
