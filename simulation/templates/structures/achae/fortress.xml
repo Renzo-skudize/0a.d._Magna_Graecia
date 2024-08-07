@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_fortress">
+  <Footprint>
+    <Square width="26.0" depth="28.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>achae</Civ>
+    <SpecificName>Phrourion</SpecificName>
+  </Identity>
+  <Obstruction>
+    <Static width="24.0" depth="26.0"/>
+  </Obstruction>
+  <ProductionQueue/>
+  <Trainer>
+    <BatchTimeModifier>0.7</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/hero_aratus
+      units/{civ}/hero_philopoimen
+      units/{civ}/hero_diaeus
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <Actor>structures/spartans/fortress.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>24.0</Length>
+    <Indent>7.6</Indent>
+  </WallPiece>
+</Entity>

@@ -11,7 +11,7 @@
   </Identity>
   <ProductionQueue/>
   <Trainer>
-    <BatchTimeModifier>0.6</BatchTimeModifier>
+    <BatchTimeModifier>0.5</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_l.xml
     </Entities>
