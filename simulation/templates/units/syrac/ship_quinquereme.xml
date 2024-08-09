@@ -9,14 +9,7 @@
     <SpecificName>Octḗrēs</SpecificName>
     <Icon>units/cori/ship_siege.png</Icon>
   </Identity>
-  <ProductionQueue/>
-  <Trainer>
-    <BatchTimeModifier>0.7</BatchTimeModifier>
-    <Entities datatype="tokens">
-      units/syrac/infantry_marine_archer_b
-      units/syrac/champion_marine
-    </Entities>
-    <Selectable>
+  <Selectable>
     <Overlay>
       <Texture>
         <MainTexture>128x512/cartouche.png</MainTexture>
@@ -24,6 +17,13 @@
       </Texture>
     </Overlay>
   </Selectable>
+  <ProductionQueue/>
+  <Trainer>
+    <BatchTimeModifier>0.7</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/syrac/infantry_marine_archer_b
+      units/syrac/champion_marine
+    </Entities>
   </Trainer>
   <VisualActor>
     <Actor>structures/ptolemies/quinquereme.xml</Actor>
