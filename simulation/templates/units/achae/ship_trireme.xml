@@ -7,6 +7,14 @@
     <SpecificName>Triḗrēs</SpecificName>
     <Icon>units/ions/ship_trireme.png</Icon>
   </Identity>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x512/cartouche.png</MainTexture>
+        <MainTextureMask>128x512/cartouche_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
   <VisualActor>
     <Actor>structures/athenians/trireme.xml</Actor>
   </VisualActor>

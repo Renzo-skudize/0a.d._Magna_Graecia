@@ -37,6 +37,14 @@
     <SpecificName>Megalē Triḗrē</SpecificName>
     <Icon>units/cori/ship_siege.png</Icon>
   </Identity>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x512/cartouche.png</MainTexture>
+        <MainTextureMask>128x512/cartouche_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
   <Cost>
     <BuildTime>40</BuildTime>
     <Resources>

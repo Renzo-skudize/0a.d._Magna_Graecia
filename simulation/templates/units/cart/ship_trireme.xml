@@ -9,6 +9,14 @@
     <SpecificName>Tlat-Mašōt</SpecificName>
     <Icon>units/cart/ship_arrow.png</Icon>
   </Identity>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x512/cartouche.png</MainTexture>
+        <MainTextureMask>128x512/cartouche_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
   <ProductionQueue/>
   <Trainer>
     <BatchTimeModifier>0.8</BatchTimeModifier>

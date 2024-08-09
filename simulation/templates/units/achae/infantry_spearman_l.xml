@@ -6,10 +6,10 @@
   <Attack>
     <Melee>
 	    <Bonuses>
-		    <BonusSpartans>
+		    <BonusJav>
 			    <Classes>infantry javelineer</Classes>
 			    <Multiplier>2</Multiplier>
-		    </BonusSpartans>
+		    </BonusJav>
 	    </Bonuses>
     </Melee>
   </Attack>
@@ -29,6 +29,7 @@
     <SpecificName>Ekdromos</SpecificName>
     <Lang>greek</Lang>
     <Icon>units/syrac/infantry_spearman.png</Icon>
+    <Tooltip>3x Counter against cavalry, 2x Counter against infantry javelineers</Tooltip>
   </Identity>
   <Promotion disable=""/>
   <UnitMotion>

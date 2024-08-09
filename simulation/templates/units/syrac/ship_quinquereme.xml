@@ -16,6 +16,14 @@
       units/syrac/infantry_marine_archer_b
       units/syrac/champion_marine
     </Entities>
+    <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x512/cartouche.png</MainTexture>
+        <MainTextureMask>128x512/cartouche_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
   </Trainer>
   <VisualActor>
     <Actor>structures/ptolemies/quinquereme.xml</Actor>
