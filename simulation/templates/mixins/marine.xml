@@ -6,9 +6,6 @@
       <metal op="add">-40</metal>
     </Resources>
   </Cost>
-  <Identity>
-    <RequiredTechnology>phase_town -phase_city</RequiredTechnology>
-  </Identity>
   <Resistance>
     <Entity>
       <Damage>
