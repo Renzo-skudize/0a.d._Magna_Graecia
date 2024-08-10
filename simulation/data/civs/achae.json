@@ -21,18 +21,13 @@
 	],
 	"CivBonuses": [
 		{
-			"Name": "Black-figure ceramics",
-			"History": "Corinth was the bigges exporter of Black-figure ceramics.",
-			"Description": "Market has a 0.5 Metal trickle per second."
-		},
-		{
 			"Name": "Megalopolitan Symmachoi",
 			"Description": "Achaeans can build Megalopolitan mercenary pikemen."
 		}
 	],
 	"WallSets": [
 		"structures/wallset_palisade",
-		"structures/ions/wallset_stone"
+		"structures/achae/wallset_stone"
 	],
 	"StartEntities": [
 		{
