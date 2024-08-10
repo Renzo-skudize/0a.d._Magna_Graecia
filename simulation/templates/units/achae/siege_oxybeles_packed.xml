@@ -4,9 +4,6 @@
     <Civ>achae</Civ>
     <SpecificName>Oxybelḗs</SpecificName>
     <Icon>units/ions/siege_oxybeles_packed.png</Icon>
-    <Requirements>
-      <Techs datatype="tokens">-phase_city phase_town</Techs>
-    </Requirements>
   </Identity>
   <Pack>
     <Entity>units/achae/siege_oxybeles_unpacked</Entity>
