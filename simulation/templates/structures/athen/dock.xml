@@ -24,7 +24,6 @@
       units/greek_marine
     </Entities>
   </Trainer>
-  </Trainer>
   <VisualActor>
     <Actor>structures/athenians/dock.xml</Actor>
     <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
