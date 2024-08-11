@@ -11,8 +11,8 @@
       </animations>
       <props>
         <prop actor="props/units/heads/new/head_hele_b.xml" attachpoint="head"/>
-        <prop actor="props/units/weapons/sheath_gladius_e.xml" attachpoint="sheath_01_R"/>
-        <prop actor="props/units/weapons/gladius.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/weapons/sheath_falcata_e.xml" attachpoint="sheath_01_R"/>
+        <prop actor="props/units/weapons/falcata.xml" attachpoint="weapon_R"/>
         <prop attachpoint="helmet"/>
       </props>
     </variant>
@@ -32,27 +32,27 @@
   <group>
     <variant frequency="1" name="Scutum-01">
       <props>
-        <prop actor="props/units/shields/scutum_etrusc.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/scutum_rome_04.xml" attachpoint="shield"/>
       </props>
     </variant>
     <variant frequency="1" name="Scutum-02">
       <props>
-        <prop actor="props/units/shields/scutum_etrusc.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/scutum_rome_04.xml" attachpoint="shield"/>
       </props>
     </variant>
     <variant frequency="1" name="Scutum-03">
       <props>
-        <prop actor="props/units/shields/scutum_etrusc.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/scutum_rome_01.xml" attachpoint="shield"/>
       </props>
     </variant>
     <variant frequency="1" name="Scutum-04">
       <props>
-        <prop actor="props/units/shields/scutum_etrusc.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/scutum_rome_04.xml" attachpoint="shield"/>
       </props>
     </variant>
     <variant frequency="1" name="Scutum-05">
       <props>
-        <prop actor="props/units/shields/scutum_etrusc.xml" attachpoint="shield"/>
+        <prop actor="props/units/shields/scutum_rome_04.xml" attachpoint="shield"/>
       </props>
     </variant>
   </group>

@@ -1,0 +1,81 @@
+{
+	"Code": "etru",
+	"Culture": "ital",
+	"Music": [
+		{
+			"File": "Juno_Protect_You.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Mediterranean_Waves.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Elysian_Fields.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Governor.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Alba_Longa_Burns.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Roman_Ingenuity.ogg",
+			"Type": "peace"
+		}
+	],
+	"CivBonuses": [
+		{
+			"Name": "Etrusca Disciplina",
+			"History": "The `Etrusca Disciplina` was a religious code of the Etruscans and romans .",
+			"Description": "Healers become much stronger."
+		},
+		{
+			"Name": "Fulneral games",
+			"History": "The Etruscans celebrated fulneral games, which developed into pure mass spectacles in the Roman Empire",
+			"Description": "Etruscans are able to build tombs, wich train slaves"
+		}
+	],
+	"WallSets": [
+		"structures/etru/wallset_stone"
+	],
+	"StartEntities": [
+		{
+			"Template": "structures/etru/civil_centre"
+		},
+		{
+			"Template": "units/etru/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/etru/infantry_spearman_b",
+			"Count": 4
+		},
+		{
+			"Template": "units/etru/infantry_javelineer_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/etru/cavalry_spearman_b"
+		}
+	],
+	"AINames": [
+		"Laris Porsenna",
+		"Mastarna",
+		"Thefarie Velianas",
+		"Lars Tulumnes",
+		"Aruns Porsenna",
+		"Aulestes",
+		"Lucumo",
+		"Tarchun"
+	],
+	"SkirmishReplacements": {
+		"skirmish/units/default_cavalry": "units/etru/cavalry_spearman_b",
+		"skirmish/units/default_infantry_melee_b": "units/etru/infantry_spearmanman_b",
+		"skirmish/structures/default_house_10": "structures/{civ}/house"
+	},
+	"SelectableInGameSetup": false
+}
