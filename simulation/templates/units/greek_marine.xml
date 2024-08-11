@@ -18,7 +18,7 @@
     <Classes datatype="tokens"> -FemaleCitizen </Classes>
     <SpecificName>Nautes</SpecificName>
     <GenericName>Sailor</GenericName>
-    <Icon>units/ions/support_female_citizen.png</Icon>
+    <Icon>units/hele/greek_marine.png</Icon>
     <Tooltip>Train in the docks and ships. Garrison in ships for higher Velocity and Attack Damage</Tooltip>
   </Identity>
   <UnitAI>
