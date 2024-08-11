@@ -77,5 +77,5 @@
 		"skirmish/units/default_infantry_melee_b": "units/etru/infantry_spearmanman_b",
 		"skirmish/structures/default_house_10": "structures/{civ}/house"
 	},
-	"SelectableInGameSetup": false
+	"SelectableInGameSetup": true
 }
