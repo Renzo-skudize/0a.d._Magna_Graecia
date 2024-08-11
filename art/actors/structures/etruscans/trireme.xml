@@ -11,6 +11,7 @@
       </animations>
       <props>
         <prop actor="props/structures/romans/trireme_main_sail.xml" attachpoint="main_sail"/>
+        <prop actor="structures/etruscans/quinquereme_crew.xml" attachpoint="main_sail"/>
         <prop actor="props/units/weapons/bolt_tower.xml" attachpoint="projectile"/>
       </props>
       <textures>

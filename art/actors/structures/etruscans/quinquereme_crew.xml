@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant>
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <animations>
+        <animation file="biped/citizen/idle_relax_m_a.dae" name="Idle" id="idle1" frequency="8" speed="20"/>
+        <animation file="biped/citizen/idle_relax_m_b.dae" name="Idle" id="idle1" frequency="8" speed="20"/>
+        <animation file="biped/citizen/idle_relax_m_d.dae" name="Idle" id="idle1" frequency="8" speed="20"/>
+        <animation file="biped/citizen/idle_relax_m_e.dae" name="Idle" id="idle1" frequency="8" speed="20"/>
+        <animation file="biped/citizen/idle_relax_m_f.dae" name="Idle" id="idle1" frequency="8" speed="20"/>
+        <animation file="biped/citizen/idle_relax_m_g.dae" name="Idle" id="idle1" frequency="8" speed="20"/>
+        <animation file="biped/citizen/idle_relax_m_h.dae" name="Idle" id="idle1" frequency="8" speed="20"/>
+
+      </animations>
+      <props>
+        <prop actor="props/units/heads/new/head_hele_b.xml" attachpoint="head"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="3" name="cardiopylax-2-c-a">
+      <textures>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/rome/cardiopylax_02_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+    <variant frequency="3" name="ital-cuirass-1b">
+      <textures>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+    <variant frequency="3" name="ital-cuirass-1a">
+      <textures>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+    <variant frequency="3" name="ital-cuirass-1c">
+      <textures>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="ital-linothorax-1a">
+      <textures>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="ital-linothorax-1b">
+      <textures>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+    <variant frequency="9" name="ital-linothorax-1c">
+      <textures>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="ital-linothorax-1d">
+      <textures>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/hele/linothorax_01_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+    <variant frequency="3" name="linothorax-lamellar-1a">
+      <textures>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/hele/linothorax_lamellar_01_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="linothorax-lamellar-1b">
+      <textures>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/hele/linothorax_lamellar_01_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+  </group>
+  <material>player_trans_norm_spec.xml</material>
+</actor>

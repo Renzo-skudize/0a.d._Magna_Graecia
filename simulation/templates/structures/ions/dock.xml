@@ -15,9 +15,13 @@
     <Static width="22.0" depth="26.0"/>
   </Obstruction>
   <Trainer>
-    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
+      units/{civ}/infantry_marine_archer_b
       units/{civ}/champion_marine
+      units/{civ}/infantry_marine_archer_b
+      units/{civ}/champion_marine
+      units/greek_marine
     </Entities>
   </Trainer>
   <VisualActor>

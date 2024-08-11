@@ -37,7 +37,9 @@
   <Trainer>
     <BatchTimeModifier>0.6</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/champion_marine
+      units/{Civ}/infantry_marine_archer_b
+      units/{Civ}/champion_marine
+      units/greek_marine
     </Entities>
   </Trainer>
   <Researcher>

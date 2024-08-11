@@ -8,7 +8,7 @@
     <SpawnEntityOnDeath>decay|rubble/rubble_hele_dock</SpawnEntityOnDeath>
   </Health>
   <Identity>
-    <Civ>syrac</Civ>
+    <Civ>athen</Civ>
     <SpecificName>Limēn</SpecificName>
   </Identity>
   <Obstruction>
@@ -24,8 +24,9 @@
       units/greek_marine
     </Entities>
   </Trainer>
+  </Trainer>
   <VisualActor>
-    <Actor>structures/carthaginians/dock.xml</Actor>
+    <Actor>structures/athenians/dock.xml</Actor>
     <FoundationActor>structures/fndn_6x4_dock.xml</FoundationActor>
   </VisualActor>
 </Entity>

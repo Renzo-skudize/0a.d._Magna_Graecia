@@ -16,6 +16,7 @@
     <Entities datatype="tokens">
       units/syrac/infantry_marine_archer_b
       units/syrac/champion_marine
+      units/greek_marine
     </Entities>
   </Trainer>
   <Selectable>

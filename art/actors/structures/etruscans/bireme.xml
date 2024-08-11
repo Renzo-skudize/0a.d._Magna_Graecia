@@ -7,6 +7,7 @@
       <mesh>structural/rome_ship_bireme.dae</mesh>
       <props>
         <prop actor="props/structures/romans/bireme_main_sail.xml" attachpoint="main_sail"/>
+        <prop actor="structures/etruscans/quinquereme_crew.xml" attachpoint="main_sail"/>
       </props>
       <textures>
         <texture file="structural/rome_bireme.png" name="baseTex"/>
