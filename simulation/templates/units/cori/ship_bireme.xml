@@ -19,6 +19,6 @@
     </Overlay>
   </Selectable>
   <VisualActor>
-    <Actor>structures/athenians/pentekonter.xml</Actor>
+    <Actor>structures/hellenes/pentekonter.xml</Actor>
   </VisualActor>
 </Entity>

@@ -53,11 +53,6 @@
         <prop actor="props/units/helmets/rome_apulo_itallic_a1.xml" attachpoint="helmet"/>
       </props>
     </variant>
-    <variant frequency="1" name="Apulo-Booeotian-E">
-      <props>
-        <prop actor="props/units/helmets/iber_helmet_e.xml" attachpoint="helmet"/>
-      </props>
-    </variant>
   </group>
   <group>
     <variant frequency="1" name="rome-chainmail-1a">
