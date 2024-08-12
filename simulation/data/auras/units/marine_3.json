@@ -1,0 +1,12 @@
+{
+	"type": "garrison",
+	"affects": ["Ship"],
+	"modifications": [
+		{ "value": "UnitMotion/WalkSpeed", "multiply": 1.5 },
+        { "value": "Attack/Ranged/Damage/Hack", "multiply": 1.65 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.65 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.65 }
+	],
+	"auraName": "Sailors",
+	"auraDescription": "Ships +65% Attack Damage and +50% movement speed."
+}

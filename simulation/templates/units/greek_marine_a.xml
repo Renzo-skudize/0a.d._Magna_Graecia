@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="units/greek_marine">
+  <Auras datatype="tokens">
+    units/marine_02
+    -units/marine
+  </Auras>
   <Identity>
     <Rank>Advanced</Rank>
+    <SpecificName>zygios</SpecificName>
   </Identity>
   <Promotion>
     <Entity>units/greek_marine_e</Entity>
+    <RequiredXp>200</RequiredXp>
   </Promotion>
   <VisualActor>
     <Actor>units/global/greek_marine.xml</Actor>

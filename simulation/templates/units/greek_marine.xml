@@ -16,6 +16,7 @@
   <Identity>
     <Phenotype>male</Phenotype>
     <Classes datatype="tokens"> -FemaleCitizen </Classes>
+    <Rank>Basic</Rank>
     <SpecificName>thalamios</SpecificName>
     <GenericName>oarsman</GenericName>
     <Icon>units/hele/greek_marine.png</Icon>

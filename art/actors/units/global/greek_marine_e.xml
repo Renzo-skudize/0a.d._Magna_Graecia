@@ -6,14 +6,15 @@
       <mesh>skeletal/new/m_dress.dae</mesh>
       <props>
         <prop actor="props/units/heads/new/head_hele_b.xml" attachpoint="head"/>
+        <prop actor="props/units/helmets/hele_kausia_cap_player.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>
   <group>
     <variant frequency="1" name="linothorax-lamellar-1b">
       <textures>
-        <texture file="skeletal/hele/toga_healer_02.dds" name="baseTex"/>
-        <texture file="skeletal/hele/toga_healer_02.dds" name="specTex"/>
+        <texture file="skeletal/rome/support_citizen.png" name="baseTex"/>
+        <texture file="skeletal/rome/support_citizen_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
