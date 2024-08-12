@@ -16,11 +16,15 @@
   <Identity>
     <Phenotype>male</Phenotype>
     <Classes datatype="tokens"> -FemaleCitizen </Classes>
-    <SpecificName>Nautes</SpecificName>
-    <GenericName>Sailor</GenericName>
+    <SpecificName>thalamios</SpecificName>
+    <GenericName>oarsman</GenericName>
     <Icon>units/hele/greek_marine.png</Icon>
     <Tooltip>Train in the docks and ships. Garrison in ships for higher Velocity and Attack Damage</Tooltip>
   </Identity>
+  <Promotion>
+    <Entity>units/greek_marine_a</Entity>
+    <RequiredXp>100</RequiredXp>
+  </Promotion>
   <UnitAI>
     <CanPatrol>true</CanPatrol>
     <Formations datatype="tokens">

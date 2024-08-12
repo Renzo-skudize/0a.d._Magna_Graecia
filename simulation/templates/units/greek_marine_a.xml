@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/greek_marine">
+  <Identity>
+    <Rank>Advanced</Rank>
+  </Identity>
+  <Promotion>
+    <Entity>units/greek_marine_e</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/global/greek_marine.xml</Actor>
+  </VisualActor>
+</Entity>
