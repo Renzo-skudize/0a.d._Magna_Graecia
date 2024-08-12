@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit">
+  <Auras datatype="tokens">
+    structures/ship_xp
+  </Auras>
   <Decay>
     <SinkingAnim>true</SinkingAnim>
     <DelayTime>1.75</DelayTime>
