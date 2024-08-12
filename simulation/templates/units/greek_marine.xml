@@ -15,9 +15,9 @@
   </Health>
   <Identity>
     <Phenotype>male</Phenotype>
-    <Classes datatype="tokens"> -FemaleCitizen </Classes>
+    <Classes datatype="tokens"> -FemaleCitizen Marine </Classes>
     <Rank>Basic</Rank>
-    <SpecificName>thalamios</SpecificName>
+    <SpecificName>Thalamios</SpecificName>
     <GenericName>oarsman</GenericName>
     <Icon>units/hele/greek_marine.png</Icon>
     <Tooltip>Train in the docks and ships. Garrison in ships for higher Velocity and Attack Damage</Tooltip>
