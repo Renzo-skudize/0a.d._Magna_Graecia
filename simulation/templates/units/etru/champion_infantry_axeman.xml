@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_axeman">
+  <Identity>
+    <Civ>etru</Civ>
+    <Lang>latin</Lang>
+    <GenericName>Bodyguard</GenericName>
+    <SpecificName>Zilath Lupuce</SpecificName>
+    <Icon>units/etru/champion_axeman.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/etruscans/infantry_axeman_c.xml</Actor>
+  </VisualActor>
+</Entity>
