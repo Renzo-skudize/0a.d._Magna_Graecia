@@ -17,13 +17,12 @@
     <Phenotype>male</Phenotype>
     <Classes datatype="tokens"> -FemaleCitizen Marine </Classes>
     <Rank>Basic</Rank>
-    <SpecificName>Thalamios</SpecificName>
-    <GenericName>Oarsman</GenericName>
-    <Icon>units/hele/greek_marine.png</Icon>
+    <GenericName>Phoenician Oarsman</GenericName>
+    <Icon>units/cart/marine.png</Icon>
     <Tooltip>Train in the docks and ships. Garrison in ships for higher Velocity and Attack Damage</Tooltip>
   </Identity>
   <Promotion>
-    <Entity>units/greek_marine_a</Entity>
+    <Entity>units/phoe_marine_a</Entity>
     <RequiredXp>100</RequiredXp>
   </Promotion>
   <UnitAI>
@@ -40,6 +39,6 @@
     </Formations>
   </UnitAI>
   <VisualActor>
-    <Actor>units/global/greek_marine.xml</Actor>
+    <Actor>units/global/phoe_marine.xml</Actor>
   </VisualActor>
 </Entity>

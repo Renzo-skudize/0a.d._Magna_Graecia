@@ -50,7 +50,7 @@
     </variant>
     <variant frequency="1" name="Apulo-Booeotian-C">
       <props>
-        <prop actor="props/units/helmets/rome_helmet_montefortino_c.xml" attachpoint="helmet"/>
+        <prop actor="props/units/helmets/hele_corinthian_e4.xml" attachpoint="helmet"/>
       </props>
     </variant>
     <variant frequency="1" name="Apulo-Booeotian-D">
@@ -71,6 +71,46 @@
     <variant frequency="1" name="Apulo-Booeotian-G">
       <props>
         <prop actor="props/units/helmets/rome_apulo_itallic_e1.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Apulo-Booeotian-H">
+      <props>
+        <prop actor="props/units/helmets/rome_apulo_itallic_e1.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Apulo-Booeotian-I">
+      <props>
+        <prop actor="props/units/helmets/hele_attic_r3.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Apulo-Booeotian-J">
+      <props>
+        <prop actor="props/units/helmets/hele_corinthian_e4.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Apulo-Booeotian-K">
+      <props>
+        <prop actor="props/units/helmets/rome_apulo_itallic_e1.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Apulo-Corinthian-L">
+      <props>
+        <prop actor="props/units/helmets/rome_apulo_corinthian_e1_hero.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Hele-Pilos-Crested">
+      <props>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Hele-Pilos-Crested_2">
+      <props>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Hele-Pilos-Crested-Transversal">
+      <props>
+        <prop actor="props/units/helmets/hele_pilos_crested_transversal.xml" attachpoint="helmet"/>
       </props>
     </variant>
   </group>

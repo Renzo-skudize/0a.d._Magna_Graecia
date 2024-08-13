@@ -7,6 +7,6 @@
     <Icon>units/etru/champion_infantry.png</Icon>
   </Identity>
   <VisualActor>
-    <Actor>units/carthaginians/infantry_spearman_c_samnite.xml</Actor>
+    <Actor>units/etruscans/infantry_spearman_c.xml</Actor>
   </VisualActor>
 </Entity>

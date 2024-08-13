@@ -53,6 +53,11 @@
         <prop actor="props/units/helmets/rome_apulo_itallic_a1.xml" attachpoint="helmet"/>
       </props>
     </variant>
+    <variant frequency="1" name="Hele-Pilos-Crested">
+      <props>
+        <prop actor="props/units/helmets/hele_pilos_crested.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
   </group>
   <group>
     <variant frequency="1" name="rome-chainmail-1a">
@@ -62,10 +67,45 @@
     </variant>
     <variant frequency="1" name="rome-chainmail-1b">
       <textures>
-        <texture file="skeletal/cart/cardiopylax_01.png" name="baseTex"/>
+        <texture file="skeletal/iber/cardiopylax_2_a.png" name="baseTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="rome-chainmail-1c">
+      <textures>
+        <texture file="skeletal/cart/cardiopylax_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="rome-chainmail-1d">
+      <textures>
+        <texture file="skeletal/iber/cardiopylax_2_a.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="rome-chainmail-1e">
+      <textures>
+        <texture file="skeletal/rome/cardiopylax_01_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="rome-chainmail-1f">
+      <textures>
+        <texture file="skeletal/cart/cardiopylax_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="rome-chainmail-1g">
+      <textures>
+        <texture file="skeletal/rome/cardiopylax_01_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="rome-chainmail-1h">
+      <textures>
+        <texture file="skeletal/rome/cardiopylax_01_01.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="rome-chainmail-1i">
+      <textures>
+        <texture file="skeletal/iber/cardiopylax_2_a.png" name="baseTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="rome-chainmail-1j">
       <textures>
         <texture file="skeletal/cart/cardiopylax_01.png" name="baseTex"/>
       </textures>

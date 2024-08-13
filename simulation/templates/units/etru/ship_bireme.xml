@@ -5,9 +5,8 @@
     <Height>10.0</Height>
   </Footprint>
   <Identity>
-    <Civ>ions</Civ>
-    <GenericName>Monoreme</GenericName>
-    <SpecificName>Pentēkónteros</SpecificName>
+    <Civ>etru</Civ>
+    <SpecificName>Zal Acilu</SpecificName>
     <Icon>units/ions/ship_scout.png</Icon>
   </Identity>
   <Selectable>
@@ -19,6 +18,6 @@
     </Overlay>
   </Selectable>
   <VisualActor>
-    <Actor>structures/athenians/pentekonter.xml</Actor>
+    <Actor>structures/etruscans/bireme.xml</Actor>
   </VisualActor>
 </Entity>

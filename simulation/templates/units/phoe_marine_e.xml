@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/phoe_marine_a">
+  <Auras datatype="tokens">
+    units/marine_03
+    -units/marine_02
+  </Auras>
+  <Identity>
+    <Rank>Elite</Rank>
+  </Identity>
+  <Promotion disable=""/>
+  <VisualActor>
+    <Actor>units/global/phoe_marine_e.xml</Actor>
+  </VisualActor>
+</Entity>

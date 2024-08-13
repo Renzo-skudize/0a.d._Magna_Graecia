@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_ship_quinquereme">
   <Identity>
-    <Civ>cart</Civ>
-    <SpecificName>Ḥameš-Mašōt</SpecificName>
+    <Civ>etru</Civ>
+    <SpecificName>Mach Acilu</SpecificName>
     <Icon>units/cart/ship_siege.png</Icon>
   </Identity>
   <Selectable>
@@ -15,13 +15,13 @@
   </Selectable>
   <ProductionQueue/>
   <Trainer>
-    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <BatchTimeModifier>0.7</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/champion_infantry
-      units/phoe_marine
+      units/{civ}/champion_marine
+      units/greek_marine
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/carthaginians/quinquereme.xml</Actor>
+    <Actor>structures/etruscans/quinquereme.xml</Actor>
   </VisualActor>
 </Entity>

@@ -4,7 +4,7 @@
     <Rank>Elite</Rank>
   </Identity>
   <Upgrade>
-    <Centurion>
+    <Veteran>
       <Entity>units/etru/champion_infantry_axeman</Entity>
       <Tooltip>Give this combat veteran the rank of a bodyguard.</Tooltip>
       <Cost>
@@ -12,7 +12,7 @@
       </Cost>
       <Variant>upgrading</Variant>
       <Time>8</Time>
-    </Centurion>
+    </Veteran>
   </Upgrade>
   <VisualActor>
     <Actor>units/etruscans/infantry_spearman_e.xml</Actor>
