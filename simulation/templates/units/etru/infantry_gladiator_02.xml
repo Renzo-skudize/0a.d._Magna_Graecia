@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_swordsman">
+  <Builder disable=""/>
+  <Cost>
+    <Resources>
+      <food>0</food>
+      <wood>0</wood>
+      <metal>30</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>etru</Civ>
+    <Lang>latin</Lang>
+    <GenericName>Enslaved Swordsman</GenericName>
+    <SpecificName>Lethe</SpecificName>
+    <Icon>units/etru/gladiator_sword.png</Icon>
+    <VisibleClasses datatype="tokens">-Builder -Worker</VisibleClasses>
+    <RequiredTechnology>fulneral</RequiredTechnology>
+  </Identity>
+  <Health>
+    <Max>80</Max>
+  </Health>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack>5</Hack>
+        <Pierce>6</Pierce>
+        <Crush>10</Crush>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <Loot>
+    <food>0</food>
+    <wood>0</wood>
+    <metal>3</metal>
+  </Loot>
+  <ResourceGatherer disable=""/>
+  <Promotion disable=""/>
+  <UnitMotion>
+    <WalkSpeed>9.25</WalkSpeed>
+    <Acceleration>35</Acceleration>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/etruscans/infantry_gladiator_02.xml</Actor>
+  </VisualActor>
+</Entity>

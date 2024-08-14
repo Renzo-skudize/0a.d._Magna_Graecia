@@ -1,0 +1,18 @@
+{
+	"genericName": "Fulneral Games",
+	"description": "The Etruscans celebrated fulneral games, in wich slaves fought of life and death. The Romans called those fighters `Gladiators`.",
+	"cost": {
+		"metal": 150
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{ "civ": "etru" }
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "fulneral.png",
+	"researchTime": 25,
+	"tooltip": "Unlock the ability to train enslaved fighters in the tombs.",
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

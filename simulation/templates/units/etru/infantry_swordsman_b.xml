@@ -3,7 +3,7 @@
   <Identity>
     <Civ>etru</Civ>
     <GenericName>Campanian Swordsman</GenericName>
-    <SpecificName>Campane</SpecificName>
+    <SpecificName>Campane Tleche</SpecificName>
     <Icon>units/syrac/swordsman.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
