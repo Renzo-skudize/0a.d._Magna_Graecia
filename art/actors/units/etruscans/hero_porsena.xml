@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<actor version="1">
+  <castshadow/>
+  <group>
+    <variant>
+      <mesh>skeletal/new/m_armor_tunic_short.dae</mesh>
+      <props>
+        <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
+        <prop actor="props/units/heads/new/head_hele_healer_2.xml" attachpoint="head"/>
+        <prop actor="props/units/capes/cape_long_player.xml" attachpoint="root"/>
+      </props>
+      <textures>
+        <texture file="skeletal/rome/chainmail_01_spec.png" name="specTex"/>
+        <texture file="default_norm.png" name="normTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Shield-01">
+      <props>
+        <prop actor="props/units/shields/theb_aspis_epaminondas.xml" attachpoint="shield_arm"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Shield-02">
+      <props>
+        <prop actor="props/units/shields/theb_aspis_epaminondas.xml" attachpoint="shield_arm"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Shield-03">
+      <props>
+        <prop actor="props/units/shields/theb_aspis_epaminondas.xml" attachpoint="shield_arm"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Shield-04">
+      <props>
+        <prop actor="props/units/shields/theb_aspis_epaminondas.xml" attachpoint="shield_arm"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Shield-05">
+      <props>
+        <prop actor="props/units/shields/theb_aspis_epaminondas.xml" attachpoint="shield_arm"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Samnite-Attic-01">
+      <props>
+        <prop actor="props/units/helmets/hele_chalcidean_a5.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Samnite-Attic-02">
+      <props>
+        <prop actor="props/units/helmets/hele_chalcidean_a5.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Samnite-Attic-03">
+      <props>
+        <prop actor="props/units/helmets/hele_chalcidean_a5.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Samnite-Attic-04">
+      <props>
+        <prop actor="props/units/helmets/hele_chalcidean_a5.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Rome-Montefortino-01">
+      <props>
+        <prop actor="props/units/helmets/hele_chalcidean_a5.xml" attachpoint="helmet"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="Greave-01">
+      <props>
+        <prop actor="props/units/armor/greave_01_bronze_l.xml" attachpoint="leg_L"/>
+        <prop actor="props/units/armor/greave_01_bronze_r.xml" attachpoint="leg_R"/>
+      </props>
+    </variant>
+    <variant frequency="1" name="Greave-03">
+      <props>
+        <prop actor="props/units/armor/greave_01_bronze_l.xml" attachpoint="leg_L"/>
+        <prop actor="props/units/armor/greave_01_bronze_r.xml" attachpoint="leg_R"/>
+      </props>
+    </variant>
+  </group>
+  <group>
+    <variant frequency="1" name="cuirass-1a">
+      <textures>
+        <texture file="skeletal/hele/cuirass_01_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-1b">
+      <textures>
+        <texture file="skeletal/hele/cuirass_01_03.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-1c">
+      <textures>
+        <texture file="skeletal/hele/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-2a">
+      <textures>
+        <texture file="skeletal/hele/cuirass_01_01.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-2b">
+      <textures>
+        <texture file="skeletal/hele/cuirass_01_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-2c">
+      <textures>
+        <texture file="skeletal/hele/cuirass_01_03.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-2d">
+      <textures>
+        <texture file="skeletal/hele/cuirass_01_03.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+    <variant frequency="1" name="cuirass-2e">
+      <textures>
+        <texture file="skeletal/hele/cuirass_01_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
+      </textures>
+    </variant>
+  </group>
+  <group>
+    <variant file="biped/base_hoplite.xml" frequency="1" name="Hoplite-Relax"/>
+    <variant file="biped/formations/phalanx_front.xml"/>
+    <variant file="biped/formations/phalanx_mid.xml"/>
+    <variant file="biped/formations/phalanx_back.xml"/>
+    <variant file="biped/attack_capture.xml">
+      <props>
+        <prop actor="props/units/weapons/spear_lance_cavalry_reverse.xml" attachpoint="weapon_R"/>
+      </props>
+    </variant>
+    <variant file="biped/attack_slaughter.xml"/>
+    <variant file="biped/gather_praise.xml"/>
+    <variant file="biped/death_cape_long.xml"/>
+  </group>
+  <material>player_trans_norm_spec.xml</material>
+</actor>

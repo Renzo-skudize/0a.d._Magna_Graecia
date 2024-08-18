@@ -14,14 +14,6 @@
     </variant>
   </group>
   <group>
-    <variant frequency="1" name="Greave-01">
-      <props>
-        <prop actor="props/units/armor/greave_06_bronze_r.xml" attachpoint="leg_R"/>
-        <prop actor="props/units/armor/greave_06_bronze_l.xml" attachpoint="leg_L"/>
-      </props>
-    </variant>
-  </group>
-  <group>
     <variant frequency="1" name="rome-gladiator-tunic">
       <textures>
         <texture file="skeletal/rome/tunic_basic_01.png" name="baseTex"/>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="units/athen/support_healer_a">
+  <Identity>
+    <Rank>Elite</Rank>
+    <SpecificName>Zilch Cechaneri</SpecificName>
+  </Identity>
+  <Promotion disable=""/>
+</Entity>
