@@ -9,6 +9,11 @@
   <Promotion>
     <Entity>units/etru/support_healer_a</Entity>
   </Promotion>
+  <Researcher>
+    <Technologies datatype="tokens">
+      etrusca_disciplina
+    </Technologies>
+  </Researcher>
   <VisualActor>
     <Actor>units/athenians/healer.xml</Actor>
   </VisualActor>

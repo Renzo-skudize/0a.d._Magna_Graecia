@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Structure"],
+	"modifications": [
+		{ "value": "TerritoryInfluence/Radius", "multiply": 1.5 }
+	],
+	"auraDescription": "Structures +50% territory influence radius.",
+	"auraName": "Founder of the  Etruscan League",
+	"stackable": true
+}

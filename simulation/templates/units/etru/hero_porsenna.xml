@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="hoplite|template_unit_hero_infantry_spearman">
+  <Auras datatype="tokens">
+    units/heroes/cart_hero_hannibal
+  </Auras>
+  <Identity>
+    <Civ>etru</Civ>
+    <Lang>latin</Lang>
+    <GenericName>Lars Porsenna</GenericName>
+    <SpecificName>Laris Porsenna</SpecificName>
+    <Icon>units/etru/hero_porsenna.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/etruscans/hero_porsenna.xml</Actor>
+  </VisualActor>
+</Entity>

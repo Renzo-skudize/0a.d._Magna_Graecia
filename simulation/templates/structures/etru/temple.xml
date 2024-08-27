@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_temple">
+  <Footprint>
+    <Square width="22.0" depth="32.0"/>
+  </Footprint>
+  <Identity>
+    <Civ>etru</Civ>
+    <SpecificName>Timia</SpecificName>
+    <Classes datatype="tokens">Temple</Classes>
+  </Identity>
+  <Obstruction>
+    <Static width="21.0" depth="29.0"/>
+  </Obstruction>
+  <ProductionQueue/>
+  <VisualActor>
+    <Actor>special/old/hellenes_temple.xml</Actor>
+    <FoundationActor>structures/fndn_5x7.xml</FoundationActor>
+  </VisualActor>
+</Entity>

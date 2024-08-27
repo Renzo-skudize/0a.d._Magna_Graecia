@@ -12,5 +12,5 @@
         { "value": "Heal/Interval", "multiply": 0.8 }
 	],
 	"auraName": "Etrusca Disciplina",
-	"auraDescription": "Healers −25% resource costs, +25 Health and -20% repeat time. Idle healers +2 regen rate."
+	"auraDescription": "Healers −25% resource costs, +25% Health and -20% repeat time. Idle healers +2 regen rate."
 }

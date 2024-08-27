@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic_temple">
+  <Footprint>
+    <Square width="24.0" depth="44.0"/>
+    <Height>12.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max op="add">10</Max>
+  </GarrisonHolder>
+  <Identity>
+    <Civ>etru</Civ>
+    <GenericName>Temple of Uni</GenericName>
+    <SpecificName>Timia Unil</SpecificName>
+    <VisibleClasses datatype="tokens">-Town City TempleOfMars</VisibleClasses>
+  </Identity>
+  <Obstruction>
+    <Static width="20.0" depth="40.0"/>
+  </Obstruction>
+  <TerritoryInfluence>
+    <Radius op="add">12</Radius>
+  </TerritoryInfluence>
+  <VisualActor>
+    <Actor>structures/romans/temple_mars.xml</Actor>
+  </VisualActor>
+</Entity>

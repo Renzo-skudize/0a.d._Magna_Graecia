@@ -1,0 +1,28 @@
+{
+	"genericName": "Etrusca Disciplina",
+	"description": "The Etruscans had an own  sacred Code, the `Etrusca Disciplina`",
+	"cost": {
+		"metal": 400,
+        "wood": 200
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{
+				"any": [
+					{ "civ": "etru" }
+				]
+			}
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "healing_range.png",
+	"researchTime": 60,
+	"tooltip": "All Healers and Temples +2 Healing rate.",
+	"modifications": [
+		{ "value": "Heal/Health", "add": 2 }
+
+	],
+	"affects": ["Healer", "Temple"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}
