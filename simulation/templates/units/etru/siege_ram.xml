@@ -2,7 +2,7 @@
 <Entity parent="template_unit_siege_ram">
   <Identity>
     <Civ>etru</Civ>
-    <SpecificName>Spura Lupu</SpecificName>
+    <SpecificName>Spuras Lupu</SpecificName>
     <Icon>units/etru/siege_ram.png</Icon>
   </Identity>
   <VisualActor>

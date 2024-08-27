@@ -4,7 +4,7 @@
     <Civ>etru</Civ>
     <Lang>latin</Lang>
     <GenericName>Citizen Militia</GenericName>
-    <SpecificName>Spurana Tleche</SpecificName>
+    <SpecificName>Spuranas Tleche</SpecificName>
     <Icon>units/etru/infantry_spearman.png</Icon>
     <Tooltip>Elite rank Spearmen can be promoted to champion bodyguards.</Tooltip>
   </Identity>

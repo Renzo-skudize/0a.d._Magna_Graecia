@@ -10,7 +10,7 @@
   <Identity>
     <Civ>etru</Civ>
     <GenericName>Temple of Uni</GenericName>
-    <SpecificName>Timia Unil</SpecificName>
+    <SpecificName>Timia Unis</SpecificName>
     <VisibleClasses datatype="tokens">-Town City TempleOfMars</VisibleClasses>
   </Identity>
   <Obstruction>
