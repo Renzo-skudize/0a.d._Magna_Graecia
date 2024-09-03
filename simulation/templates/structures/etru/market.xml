@@ -15,7 +15,6 @@
     <Static width="32.0" depth="26.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/romans/market.xml</Actor>
-    <FoundationActor>structures/fndn_9x7.xml</FoundationActor>
+    <Actor>structures/seleucids/market.xml</Actor>
   </VisualActor>
 </Entity>

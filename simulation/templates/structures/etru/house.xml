@@ -5,6 +5,6 @@
     <SpecificName>Athre Lautunal</SpecificName>
   </Identity>
   <VisualActor>
-    <Actor>structures/romans/house.xml</Actor>
+    <Actor>special/old/athenian_market.xml</Actor>
   </VisualActor>
 </Entity>

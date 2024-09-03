@@ -14,10 +14,6 @@
     </Entities>
   </Trainer>
   <VisualActor>
-    <Actor>structures/romans/fortress.xml</Actor>
+    <Actor>special/old/hellenes_fortress.xml</Actor>
   </VisualActor>
-  <WallPiece>
-    <Length>25.0</Length>
-    <Indent>8.4</Indent>
-  </WallPiece>
 </Entity>
