@@ -59,6 +59,6 @@
     </TurretPoints>
   </TurretHolder>
   <VisualActor>
-    <Actor>structures/athenians/wall_medium.xml</Actor>
+    <Actor>structures/hellenes/wall_medium.xml</Actor>
   </VisualActor>
 </Entity>

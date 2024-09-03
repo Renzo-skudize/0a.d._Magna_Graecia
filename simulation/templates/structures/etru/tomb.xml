@@ -9,12 +9,21 @@
   </Health>
   <Identity>
     <Civ>etru</Civ>
-    <SpecificName>Suthi Zilathal</SpecificName>
+    <GenericName>Tomb</GenericName>
+    <SpecificName>Suthi</SpecificName>
   </Identity>
   <Obstruction>
     <Static width="22.0" depth="22.0"/>
   </Obstruction>
+  <Trainer>
+    <BatchTimeModifier>0.0</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/gladiator_01
+      units/{civ}/gladiator_02
+      units/{civ}/gladiator_03
+    </Entities>
+  </Trainer>
   <VisualActor>
-    <Actor>structures/etruscans/suthi.xml</Actor>
+    <Actor>structures/etruscans/tomb.xml</Actor>
   </VisualActor>
 </Entity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_fortress">
+  <Identity>
+    <Civ>etru</Civ>
+    <SpecificName>Athre Tleche Spural</SpecificName>
+    <Tooltip>Train Heroes and their Bodyguards. Garrison Soldiers for additional arrows.</Tooltip>
+  </Identity>
+  <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/hero_porsenna
+      units/{civ}/hero_tarchun
+      units/{civ}/hero_thefarie
+      units/{civ}/champion_infantry_axeman
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <Actor>structures/romans/fortress.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>25.0</Length>
+    <Indent>8.4</Indent>
+  </WallPiece>
+</Entity>

@@ -6,7 +6,7 @@
   </Footprint>
   <Identity>
     <Civ>etru</Civ>
-    <SpecificName>Spura Hilchvas</SpecificName>
+    <SpecificName>Spura Hilchval</SpecificName>
     <Classes datatype="tokens">CivSpecific</Classes>
   </Identity>
   <Obstruction>

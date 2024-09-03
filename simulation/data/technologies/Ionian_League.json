@@ -1,0 +1,30 @@
+{
+	"genericName": "Ionian League",
+	"description": "12 Ionian city-states, Phocaea, Clazomenae, Erythrae, Teos, Lebedus, Colophon, Ephesus, Priene, Miletus, Myus, Chios and Samos, united in the Ionian League.",
+	"cost": {
+		"metal": 500
+	},
+	"requirements": {
+		"all": [
+			{ "tech": "phase_town" },
+			{
+				"any": [
+					{ "civ": "ions" }
+				]
+			}
+		]
+	},
+	"requirementsTooltip": "Unlocked in Town Phase.",
+	"icon": "athena_2.png",
+	"researchTime": 60,
+	"tooltip": "All units −10% training time, +10% health and melee damage.",
+	"modifications": [
+		{ "value": "Cost/BuildTime", "multiply": 0.9 },
+		{ "value": "Health/Max", "multiply": 1.1 },
+    	{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.1 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.1 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.1 }
+	],
+	"affects": ["Units"],
+	"soundComplete": "interface/alarm/alarm_upgradearmory.xml"
+}

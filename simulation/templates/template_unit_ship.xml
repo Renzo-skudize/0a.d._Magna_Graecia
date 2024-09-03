@@ -3,6 +3,20 @@
   <Auras datatype="tokens">
     units/ship_xp
   </Auras>
+  <Attack>
+    <Capture>
+      <AttackName>Capture</AttackName>
+      <Capture>40</Capture>
+      <MaxRange>16</MaxRange>
+      <RepeatTime>1000</RepeatTime>
+      <RestrictedClasses datatype="tokens">Field Palisade Wall</RestrictedClasses>
+    </Capture>
+  </Attack>
+  <Capturable>
+    <CapturePoints>400</CapturePoints>
+    <RegenRate>1</RegenRate>
+    <GarrisonRegenRate>2.0</GarrisonRegenRate>
+  </Capturable>
   <Decay>
     <SinkingAnim>true</SinkingAnim>
     <DelayTime>1.75</DelayTime>

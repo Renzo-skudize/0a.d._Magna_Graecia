@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="template_unit_hero_infantry_swordsman">
+<Entity>
   <Builder>
-    <Rate>6.0</Rate>
+    <Rate>1.0</Rate>
     <Entities datatype="tokens">
       structures/{civ}/civil_centre
       structures/{civ}/crannog
@@ -41,12 +41,6 @@
     </Entities>
   </Builder>
   <Identity>
-    <Civ>etru</Civ>
-    <Lang>latin</Lang>
-    <SpecificName>Thefarie Velianas</SpecificName>
-    <Icon>units/ions/hero_pelopidas.png</Icon>
+    <VisibleClasses datatype="tokens">Builder</VisibleClasses>
   </Identity>
-  <VisualActor>
-    <Actor>units/etruscans/hero_thefarie.xml</Actor>
-  </VisualActor>
 </Entity>

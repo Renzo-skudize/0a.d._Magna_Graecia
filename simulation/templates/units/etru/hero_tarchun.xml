@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_hero_cavalry_swordsman">
   <Auras datatype="tokens">
-    units/heroes/etru_disc
-    units/heroes/etru_league
+    units/heroes/etru_tarchun_disc
+    units/heroes/etru_tarchun_league
   </Auras>
   <Identity>
     <Civ>etru</Civ>

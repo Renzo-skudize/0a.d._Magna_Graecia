@@ -1,0 +1,11 @@
+{
+	"type": "range",
+	"radius": 30,
+	"affects": ["Hero"],
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 1.5 }
+	],
+	"auraName": "Bodyguard",
+	"auraDescription": "Heroes +50% health.",
+	"overlayIcon": "art/textures/ui/session/auras/laurel.png"
+}

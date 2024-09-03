@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_civic">
+  <Capturable>
+    <CapturePoints>3000</CapturePoints>
+    <RegenRate>5.0</RegenRate>
+  </Capturable>
+  <Cost>
+    <BuildTime>200</BuildTime>
+    <Resources>
+      <wood>50</wood>
+      <stone>200</stone>
+      <metal>100</metal>
+    </Resources>
+  </Cost>
+  <Footprint>
+    <Square depth="36.0" width="32.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <GarrisonHolder>
+    <Max>10</Max>
+    <EjectHealth>0.1</EjectHealth>
+    <EjectClassesOnDestroy datatype="tokens">Unit</EjectClassesOnDestroy>
+    <List datatype="tokens">Infantry</List>
+    <BuffHeal>5</BuffHeal>
+    <LoadingRange>1</LoadingRange>
+  </GarrisonHolder>
+  <Health>
+    <Max>3000</Max>
+  </Health>
+  <Identity>
+    <Civ>ions</Civ>
+    <GenericName>Panionium</GenericName>
+    <SpecificName>Panionion</SpecificName>
+    <Classes datatype="tokens">CivSpecific</Classes>
+    <VisibleClasses datatype="tokens">Town</VisibleClasses>
+    <Tooltip>Train heroes and champion infantry, research unique technologies.</Tooltip>
+    <Icon>structures/embassy_italic</Icon>
+    <RequiredTechnology>phase_town</RequiredTechnology>
+  </Identity>
+  <Loot>
+    <xp>200</xp>
+    <stone>40</stone>
+    <metal>40</metal>
+  </Loot>
+  <Obstruction>
+    <Static depth="32.0" width="28.0"/>
+  </Obstruction>
+  <Population>
+    <Bonus>20</Bonus>
+  </Population>
+  <ProductionQueue/>
+  <Researcher>
+    <Technologies datatype="tokens">
+      Ionian_League
+    </Technologies>
+  </Researcher>
+  <ResourceTrickle>
+    <Rates>
+      <food>0.1</food>
+      <wood>0.1</wood>
+      <stone>0.1</stone>
+      <metal>0.1</metal>
+    </Rates>
+    <Interval>2000</Interval>
+  </ResourceTrickle>
+  <TerritoryInfluence>
+    <Root>true</Root>
+    <Radius>60</Radius>
+    <Weight>30000</Weight>
+  </TerritoryInfluence>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/hero_dionysius_of_phocaea
+      units/{civ}/hero_artemisia
+      units/{civ}/hero_histiaeus
+      units/{civ}/champion infantry
+    </Entities>
+  </Trainer>
+  <Vision>
+    <Range>80</Range>
+  </Vision>
+  <VisualActor>
+    <Actor>special/old/hellenes_temple.xml</Actor>
+    <FoundationActor>structures/fndn_5x7.xml</FoundationActor>
+  </VisualActor>
+</Entity>

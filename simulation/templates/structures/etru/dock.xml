@@ -15,7 +15,7 @@
     <Static width="20.0" depth="24.0"/>
   </Obstruction>
   <Trainer>
-    <BatchTimeModifier>0.0</BatchTimeModifier>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/champion_marine
       units/greek_marine
