@@ -11,6 +11,6 @@
     <Static width="14.0" depth="13.0"/>
   </Obstruction>
   <VisualActor>
-    <Actor>structures/romans/storehouse.xml</Actor>
+    <Actor>special/old/athenian_market.xml</Actor>
   </VisualActor>
 </Entity>
