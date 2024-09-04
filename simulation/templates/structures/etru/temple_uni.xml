@@ -12,6 +12,7 @@
     <GenericName>Temple of Uni</GenericName>
     <SpecificName>Timia Unis</SpecificName>
     <VisibleClasses datatype="tokens">-Town City TempleOfMars</VisibleClasses>
+    <Icon>technologies/healing_rate.png</Icon>
   </Identity>
   <Obstruction>
     <Static width="20.0" depth="40.0"/>

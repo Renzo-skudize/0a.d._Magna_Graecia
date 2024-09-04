@@ -19,8 +19,6 @@
     <Entities datatype="tokens">
       units/{civ}/infantry_marine_archer_b
       units/{civ}/champion_marine
-      units/{civ}/infantry_marine_archer_b
-      units/{civ}/champion_marine
       units/greek_marine
     </Entities>
   </Trainer>

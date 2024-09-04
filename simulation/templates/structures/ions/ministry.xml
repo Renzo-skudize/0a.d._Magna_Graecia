@@ -72,7 +72,7 @@
     <BatchTimeModifier>0.8</BatchTimeModifier>
     <Entities datatype="tokens">
       units/{civ}/hero_dionysius_of_phocaea
-      units/{civ}/hero_artemisia
+      units/{civ}/hero_artemisia_I
       units/{civ}/hero_histiaeus
       units/{civ}/champion infantry
     </Entities>

@@ -2,9 +2,9 @@
 	"genericName": "Center of Science",
 	"description": "In Syracuse were many things invented, like the Burning mirror, the `Lithobolos`, a type of catapult, and the `Quinquereme`, a heavy warship ",
 	"cost": {
-		"wood": 1000,
-		"metal": 300,
-        "food": 200
+		"wood": 300,
+		"metal": 200,
+        "food": 150
 	},
 	"requirements": {
 		"all": [
