@@ -7,7 +7,7 @@
     <Civ>etru</Civ>
     <Lang>latin</Lang>
     <SpecificName>Ci Acilu</SpecificName>
-    <Icon>units/ions/ship_arrow.png</Icon>
+    <Icon>units/ions/ship_trireme.png</Icon>
   </Identity>
   <Selectable>
     <Overlay>

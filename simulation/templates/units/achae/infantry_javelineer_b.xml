@@ -5,7 +5,7 @@
     <Lang>greek</Lang>
     <GenericName>Thracian Peltast</GenericName>
     <SpecificName>Peltastes Thrax</SpecificName>
-    <Icon>units/achae/javelineer.png</Icon>
+    <Icon>units/achae/infantry_javelinist.png</Icon>
     <RequiredTechnology>phase_town</RequiredTechnology>
   </Identity>
   <Promotion>
