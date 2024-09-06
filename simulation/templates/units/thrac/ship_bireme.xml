@@ -10,7 +10,6 @@
     <SpecificName>Lengvas Karo Laivas</SpecificName>
     <Icon>units/ions/ship_scout.png</Icon>
   </Identity>
-  </Selectable>
   <VisualActor>
     <Actor>structures/celts/skiff.xml</Actor>
   </VisualActor>

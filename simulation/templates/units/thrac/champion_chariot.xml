@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Entity parent="chariot|template_unit_champion_cavalry_javelineer">
+<Entity parent="template_unit_champion_cavalry_javelineer">
   <Attack>
+    <Ranged>
+      <AttackName>Javelin</AttackName>
       <Damage>
         <Pierce>40</Pierce>
       </Damage>
-    <Ranged>
       <Projectile>
         <Speed>100</Speed>
         <Spread>3</Spread>

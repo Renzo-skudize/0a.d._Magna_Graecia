@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Entity parent="template_unit_champion_infantry_javelineer">
   <Attack>
+    <Ranged>
+      <AttackName>Javelin</AttackName>
       <Damage>
         <Pierce>36</Pierce>
       </Damage>
-    <Ranged>
       <Projectile>
         <Speed>100</Speed>
         <Spread>2</Spread>
@@ -15,6 +16,7 @@
       <PrepareTime>200</PrepareTime>
       <RepeatTime>1000</RepeatTime>
     </Ranged>
+  </Attack>
   <Identity>
     <Civ>thrac</Civ>
     <GenericName>Getic Peltast</GenericName>
