@@ -1,0 +1,62 @@
+{
+	"Code": "thrac",
+	"Culture": "thrac",
+	"Music": [
+		{
+			"File": "Rise_of_Macedon.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "In_the_Shadow_of_Olympus.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Elysian_Fields.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "The_Hellespont.ogg",
+			"Type": "peace"
+		}
+	],
+	"CivBonuses": [],
+	"WallSets": [
+		"structures/wallset_palisade",
+		"structures/thrac/wallset_stone"
+	],
+	"StartEntities": [
+		{
+			"Template": "structures/thrac/civil_centre"
+		},
+		{
+			"Template": "units/thrac/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/thrac/infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/thrac/infantry_javelineer_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/thrac/cavalry_javelineer_b"
+		}
+	],
+	"AINames": [
+		"Orpheus",
+		"Sitalces",
+        "Seuthes",
+		"Amadocus",
+		"Teres I",
+		"Decebalus",
+		"Burebista"
+	],
+	"SkirmishReplacements": {
+		"skirmish/units/default_cavalry": "units/thrac/cavalry_javelineer_b",
+		"skirmish/units/default_infantry_melee_b": "units/thrac/infantry_spearman_b",
+		"skirmish/structures/default_house_5": "structures/{civ}/house"
+	},
+	"SelectableInGameSetup": true
+}

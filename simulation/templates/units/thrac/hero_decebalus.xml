@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_spearman">
+  <Auras datatype="tokens">
+    units/heroes/thrac_decebalus
+  </Auras>
+  <Identity>
+    <Civ>thrac</Civ>
+    <GenericName>Decebalus</GenericName>
+    <SpecificName>Decebal</SpecificName>
+    <Icon>units/gaul/hero_viridomarus.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/thracians/hero_decebalus.xml</Actor>
+  </VisualActor>
+</Entity>

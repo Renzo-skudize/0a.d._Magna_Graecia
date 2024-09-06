@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship_trireme">
+  <Identity>
+    <Civ>thrac</Civ>
+    <GenericName>Heavy Warship</GenericName>
+    <SpecificName>Sunkus Karo Laivas</SpecificName>
+    <Icon>units/ions/ship_trireme.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>structures/celts/warship.xml</Actor>
+  </VisualActor>
+</Entity>

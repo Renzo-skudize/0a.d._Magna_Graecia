@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_spearman">
+  <Identity>
+    <Civ>thrac</Civ>
+    <GenericName>Thracian Infantryman</GenericName>
+    <SpecificName>Trakijos Pėstininkas</SpecificName>
+    <Lang>greek</Lang>
+    <Icon>units/ions/infantry_spearman.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/thrac/infantry_spearman_a_native</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/thracians/infantry_spearman_b.xml</Actor>
+  </VisualActor>
+</Entity>

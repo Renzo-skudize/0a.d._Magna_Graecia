@@ -3,6 +3,10 @@
   <Auras datatype="tokens">
     units/heroes/cart_hero_maharbal
   </Auras>
+  <Footprint replace="">
+    <Square width="5.0" depth="10.0"/>
+    <Height>6.0</Height>
+  </Footprint>
   <Identity>
     <Civ>thess</Civ>
     <Lang>greek</Lang>

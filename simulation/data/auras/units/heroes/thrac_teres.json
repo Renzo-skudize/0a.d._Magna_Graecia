@@ -1,0 +1,16 @@
+{
+	"type": "global",
+	"affects": ["Soldier"],
+	"modifications": [
+		{ "value": "Attack/Capture/Capture", "add": 1 },
+		{ "value": "Attack/Melee/Damage/Hack", "multiply": 1.25 },
+		{ "value": "Attack/Melee/Damage/Pierce", "multiply": 1.25 },
+		{ "value": "Attack/Melee/Damage/Crush", "multiply": 1.25 },
+		{ "value": "Attack/Ranged/Damage/Hack", "multiply": 1.1 },
+		{ "value": "Attack/Ranged/Damage/Pierce", "multiply": 1.1 },
+		{ "value": "Attack/Ranged/Damage/Crush", "multiply": 1.1 }
+	],
+	"auraName": "Founder of the Odrysian Empire",
+	"auraDescription": "Own Soldiers +1 capture attack strength, +25% melee and +10% ranged attack damage.",
+	"overlayIcon": "art/textures/ui/session/auras/attack_bonus.png"
+}

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_infantry_melee_spearman">
+  <Health>
+    <Max>70</Max>
+  </Health>
+  <Cost>
+    <BuildTime>5</BuildTime>
+    <Resources>
+      <food>40</food>
+      <wood>35</wood>
+      <stone>0</stone>
+      <metal>0</metal>
+    </Resources>
+  </Cost>
+  <Identity>
+    <Civ>thrac</Civ>
+    <SelectionGroupName>units/athen/infantry_spearman_b</SelectionGroupName>
+    <GenericName>Light Thracian Infantryman</GenericName>
+    <SpecificName>Ekdromos</SpecificName>
+    <Icon>units/syrac/infantry_spearman.png</Icon>
+  </Identity>
+  <Promotion disable=""/>
+  <UnitMotion>
+    <PassabilityClass>default</PassabilityClass>
+    <WalkSpeed>12</WalkSpeed>
+    <RunMultiplier>1.7</RunMultiplier>
+    <InstantTurnAngle>1.5</InstantTurnAngle>
+    <Acceleration>45</Acceleration>
+    <Weight>8</Weight>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>units/thracians/infantry_spearman_l.xml</Actor>
+  </VisualActor>
+</Entity>

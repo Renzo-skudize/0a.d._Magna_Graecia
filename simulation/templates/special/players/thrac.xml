@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_player">
+  <Auras datatype="tokens">
+    teambonuses/gaul_player_teambonus
+  </Auras>
+  <Identity>
+    <Civ>thrac</Civ>
+    <GenericName>Thracians</GenericName>
+    <History>The Thracians were an ancient civilisation that lived between the Bosporus and the Danube.In the Peloponnesian war, they fought with the Athenians and were known for their great javelineers.From 351 BC to 341 BC, Philipp II. conquered Thracia.The Thracian people of the Agrianes provided a Unit of their best peltasts for the army of Alexander the Great. The famous Tribe of the Dacians, whose fought under king Decealus 20 years against the Romans, were also a Thracian tribe.</History>
+    <Icon>emblems/emblem_thracians.png</Icon>
+  </Identity>
+  <Player>
+    <Formations datatype="tokens">
+    </Formations>
+  </Player>
+</Entity>

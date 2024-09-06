@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship_bireme">
+  <Footprint>
+    <Square width="8.0" depth="33.0"/>
+    <Height>10.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>thrac</Civ>
+    <GenericName>Light Warship</GenericName>
+    <SpecificName>Lengvas Karo Laivas</SpecificName>
+    <Icon>units/ions/ship_scout.png</Icon>
+  </Identity>
+  </Selectable>
+  <VisualActor>
+    <Actor>structures/celts/skiff.xml</Actor>
+  </VisualActor>
+</Entity>

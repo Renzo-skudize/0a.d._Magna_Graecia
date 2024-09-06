@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_support_healer">
+  <Identity>
+    <Civ>thrac</Civ>
+    <GenericName>Priest</GenericName>
+    <SpecificName>Kunigas</SpecificName>
+    <Icon>units/ions/support_healer.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/thrac/support_healer_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/celts/healer.xml</Actor>
+  </VisualActor>
+</Entity>

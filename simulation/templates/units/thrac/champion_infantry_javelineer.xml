@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_champion_infantry_javelineer">
+  <Attack>
+      <Damage>
+        <Pierce>36</Pierce>
+      </Damage>
+    <Ranged>
+      <Projectile>
+        <Speed>100</Speed>
+        <Spread>2</Spread>
+        <Gravity>35</Gravity>
+        <FriendlyFire>false</FriendlyFire>
+        <LaunchPoint y="3"/>
+      </Projectile>
+      <PrepareTime>200</PrepareTime>
+      <RepeatTime>1000</RepeatTime>
+    </Ranged>
+  <Identity>
+    <Civ>thrac</Civ>
+    <GenericName>Getic Peltast</GenericName>
+    <SpecificName>Getikas Peltastas</SpecificName>
+    <Icon>units/pers/kardakes_skirmisher.png</Icon>
+  </Identity>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.11</WalkSpeed>
+    <Acceleration op="add">1.25</Acceleration>
+  </UnitMotion>
+  <Cost>
+    <BuildTime op="mul_round">1.1</BuildTime>
+    <Resources>
+      <food op="mul_round">1.1</food>
+    </Resources>
+  </Cost>
+  <VisualActor>
+    <Actor>units/thracians/infantry_javelinist_c.xml</Actor>
+  </VisualActor>
+</Entity>

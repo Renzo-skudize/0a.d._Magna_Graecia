@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_cavalry_melee_spearman">
+  <Identity>
+    <Civ>thrac</Civ>
+    <GenericName>Noble Mounted Spearman</GenericName>
+    <SpecificName>Kilmingas Ietininkas</SpecificName>
+    <Icon>units/ions/cavalry_spearman.png</Icon>
+  </Identity>
+  <Promotion>
+    <Entity>units/thrac/cavalry_spearman_a</Entity>
+  </Promotion>
+  <VisualActor>
+    <Actor>units/thracians/cavalry_spearman_b_m.xml</Actor>
+  </VisualActor>
+</Entity>
