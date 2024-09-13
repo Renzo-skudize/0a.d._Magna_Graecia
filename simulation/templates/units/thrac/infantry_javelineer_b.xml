@@ -4,7 +4,7 @@
     <Civ>thrac</Civ>
     <GenericName>Thracian Peltast</GenericName>
     <SpecificName>Trakietis Peltastas</SpecificName>
-    <Icon>units/ions/infantry_javelinist.png</Icon>
+    <Icon>units/thrac/infantry_javelinist.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/thrac/infantry_javelineer_a</Entity>

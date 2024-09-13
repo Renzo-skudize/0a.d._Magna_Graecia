@@ -8,7 +8,7 @@
     <Civ>thrac</Civ>
     <GenericName>Light Warship</GenericName>
     <SpecificName>Lengvas Karo Laivas</SpecificName>
-    <Icon>units/ions/ship_scout.png</Icon>
+    <Icon>units/thrac/ship_scout.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/celts/skiff.xml</Actor>

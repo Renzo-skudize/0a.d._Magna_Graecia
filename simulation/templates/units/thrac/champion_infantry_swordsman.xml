@@ -11,7 +11,7 @@
     <Civ>thrac</Civ>
     <GenericName>Getic Noble Swordsman</GenericName>
     <SpecificName>Getikas Kilnus Kardininkas</SpecificName>
-    <Icon>units/ions/champion_marine.png</Icon>
+    <Icon>units/thrac/champion_infantry_swordsman.png</Icon>
   </Identity>
   <Cost>
     <BuildTime op="mul_round">1.1</BuildTime>

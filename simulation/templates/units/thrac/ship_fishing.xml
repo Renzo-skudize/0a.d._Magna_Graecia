@@ -7,7 +7,7 @@
   <Identity>
     <Civ>thrac</Civ>
     <SpecificName>Žvejybinis Laivas</SpecificName>
-    <Icon>units/ions/ship_fishing.png</Icon>
+    <Icon>units/thrac/ship_fishing.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>special/old/celt_merchant_ship.xml</Actor>

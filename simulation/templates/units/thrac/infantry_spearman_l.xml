@@ -17,7 +17,7 @@
     <SelectionGroupName>units/athen/infantry_spearman_b</SelectionGroupName>
     <GenericName>Light Thracian Infantryman</GenericName>
     <SpecificName>Ekdromos</SpecificName>
-    <Icon>units/syrac/infantry_spearman.png</Icon>
+    <Icon>units/thrac/infantry_light.png</Icon>
   </Identity>
   <Promotion disable=""/>
   <UnitMotion>

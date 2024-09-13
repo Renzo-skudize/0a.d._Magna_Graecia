@@ -5,7 +5,7 @@
     <GenericName>Thracian Infantryman</GenericName>
     <SpecificName>Trakijos Pėstininkas</SpecificName>
     <Lang>greek</Lang>
-    <Icon>units/ions/infantry_spearman.png</Icon>
+    <Icon>units/thrac/infantry_spearman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/thrac/infantry_spearman_a_native</Entity>

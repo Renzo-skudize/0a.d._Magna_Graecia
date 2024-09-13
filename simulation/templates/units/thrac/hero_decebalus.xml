@@ -7,7 +7,7 @@
     <Civ>thrac</Civ>
     <GenericName>Decebalus</GenericName>
     <SpecificName>Decebal</SpecificName>
-    <Icon>units/gaul/hero_viridomarus.png</Icon>
+    <Icon>units/thrac/hero_decebalus.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>units/thracians/hero_decebalus.xml</Actor>

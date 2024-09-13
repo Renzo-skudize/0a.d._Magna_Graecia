@@ -37,7 +37,7 @@
     <Civ>thrac</Civ>
     <GenericName>Getic Chariot</GenericName>
     <SpecificName>Getikas Karieta</SpecificName>
-    <Icon>units/brit/champion_chariot.png</Icon>
+    <Icon>units/thrac/champion_chariot.png</Icon>
     <VisibleClasses datatype="tokens">Chariot</VisibleClasses>
   </Identity>
   <Loot>

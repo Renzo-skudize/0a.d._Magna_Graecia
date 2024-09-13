@@ -21,7 +21,7 @@
     <Civ>thrac</Civ>
     <GenericName>Getic Peltast</GenericName>
     <SpecificName>Getikas Peltastas</SpecificName>
-    <Icon>units/pers/kardakes_skirmisher.png</Icon>
+    <Icon>units/thrac/champion_peltast.png</Icon>
   </Identity>
   <UnitMotion>
     <WalkSpeed op="mul">1.11</WalkSpeed>
