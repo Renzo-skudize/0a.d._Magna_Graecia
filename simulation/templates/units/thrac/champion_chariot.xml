@@ -17,22 +17,54 @@
       <RepeatTime>1000</RepeatTime>
     </Ranged>
   </Attack>
+  <Cost>
+    <BuildTime op="mul">1.32</BuildTime>
+    <Resources>
+      <food op="mul_round">1.38</food>
+      <wood op="mul_round">1.25</wood>
+      <stone op="mul_round">1.2</stone>
+      <metal op="mul_round">1.2</metal>
+    </Resources>
+  </Cost>
   <Footprint replace="">
     <Square width="5.0" depth="10.0"/>
     <Height>6.0</Height>
   </Footprint>
+  <Health>
+    <Max op="mul">1.25</Max>
+  </Health>
   <Identity>
     <Civ>thrac</Civ>
     <GenericName>Getic Chariot</GenericName>
     <SpecificName>Getikas Karieta</SpecificName>
     <Icon>units/brit/champion_chariot.png</Icon>
+    <VisibleClasses datatype="tokens">Chariot</VisibleClasses>
   </Identity>
-  <Cost>
-    <BuildTime op="mul_round">1.1</BuildTime>
-    <Resources>
-      <food op="mul_round">1.1</food>
-    </Resources>
-  </Cost>
+  <Loot>
+    <food op="mul_round">1.38</food>
+    <wood op="mul_round">1.2</wood>
+    <stone op="mul_round">1.25</stone>
+    <metal op="mul_round">1.2</metal>
+    <xp op="mul_round">1.25</xp>
+  </Loot>
+  <Position>
+    <TurnRate>5</TurnRate>
+  </Position>
+  <Resistance>
+    <Entity>
+      <Damage>
+        <Hack op="add">-2</Hack>
+        <Pierce op="add">2</Pierce>
+      </Damage>
+    </Entity>
+  </Resistance>
+  <ResourceGatherer disable=""/>
+  <UnitMotion>
+    <WalkSpeed op="mul_round">1.1</WalkSpeed>
+    <PassabilityClass>large</PassabilityClass>
+    <Acceleration op="mul">0.5</Acceleration>
+    <Weight op="mul">3.0</Weight>
+  </UnitMotion>
   <VisualActor>
     <Actor>units/thracians/chariot_javelinist_c_m.xml</Actor>
   </VisualActor>

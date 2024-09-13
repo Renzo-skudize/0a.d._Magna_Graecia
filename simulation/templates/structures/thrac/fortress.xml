@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_fortress">
+  <Identity>
+    <Civ>thrac</Civ>
+    <SpecificName>Tvirtovė</SpecificName>
+  </Identity>
+  <Sound>
+    <SoundGroups>
+      <select>interface/select/building/sel_fortress.xml</select>
+      <constructed>interface/complete/building/complete_fortress.xml</constructed>
+    </SoundGroups>
+  </Sound>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/{civ}/hero_decebalus
+      units/{civ}/hero_seuthes
+      units/{civ}/hero_teres
+      units/{civ}/champion_chariot
+      units/{civ}/champion_infantry_swordsman
+      units/{civ}/champion_infantry_javelineer
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <Actor>structures/gauls/fortress.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>16.8</Length>
+    <Indent>5.8</Indent>
+  </WallPiece>
+</Entity>

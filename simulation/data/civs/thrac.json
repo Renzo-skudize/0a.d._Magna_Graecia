@@ -33,7 +33,7 @@
 			"Count": 4
 		},
 		{
-			"Template": "units/thrac/infantry_spearman_b",
+			"Template": "units/thrac/infantry_spearman_b_native",
 			"Count": 2
 		},
 		{
@@ -55,7 +55,7 @@
 	],
 	"SkirmishReplacements": {
 		"skirmish/units/default_cavalry": "units/thrac/cavalry_javelineer_b",
-		"skirmish/units/default_infantry_melee_b": "units/thrac/infantry_spearman_b",
+		"skirmish/units/default_infantry_melee_b": "units/thrac/infantry_spearman_b_native",
 		"skirmish/structures/default_house_5": "structures/{civ}/house"
 	},
 	"SelectableInGameSetup": true

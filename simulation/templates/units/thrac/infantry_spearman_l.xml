@@ -22,8 +22,7 @@
   <Promotion disable=""/>
   <UnitMotion>
     <PassabilityClass>default</PassabilityClass>
-    <WalkSpeed>12</WalkSpeed>
-    <RunMultiplier>1.7</RunMultiplier>
+    <WalkSpeed>11.75</WalkSpeed>
     <InstantTurnAngle>1.5</InstantTurnAngle>
     <Acceleration>45</Acceleration>
     <Weight>8</Weight>
