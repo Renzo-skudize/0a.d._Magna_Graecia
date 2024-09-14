@@ -4,7 +4,7 @@
     <Civ>thrac</Civ>
     <GenericName>Noble Mounted Spearman</GenericName>
     <SpecificName>Kilmingas Ietininkas</SpecificName>
-    <Icon>units/ions/cavalry_spearman.png</Icon>
+    <Icon>units/thrac/cavalry_spearman.png</Icon>
   </Identity>
   <Promotion>
     <Entity>units/thrac/cavalry_spearman_a</Entity>
