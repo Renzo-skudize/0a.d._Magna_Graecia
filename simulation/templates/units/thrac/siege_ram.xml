@@ -3,7 +3,7 @@
   <Identity>
     <Civ>thrac</Civ>
     <SpecificName>Mušamas Avinas</SpecificName>
-    <Icon>units/ions/siege_ram.png</Icon>
+    <Icon>units/thrac/siege_ram.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/celts/siege_ram.xml</Actor>

@@ -4,7 +4,7 @@
     <Civ>thrac</Civ>
     <GenericName>Heavy Warship</GenericName>
     <SpecificName>Sunkus Karo Laivas</SpecificName>
-    <Icon>units/thrac/ship_trireme.png</Icon>
+    <Icon>units/thrac/ship_arrow.png</Icon>
   </Identity>
   <VisualActor>
     <Actor>structures/celts/warship.xml</Actor>
