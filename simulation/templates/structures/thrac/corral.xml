@@ -4,7 +4,7 @@
     <Square width="12.0" depth="21.0"/>
   </Footprint>
   <Identity>
-    <Civ>gaul</Civ>
+    <Civ>thrac</Civ>
     <SpecificName>Aptvaras</SpecificName>
   </Identity>
   <Obstruction>
