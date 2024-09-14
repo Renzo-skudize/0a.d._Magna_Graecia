@@ -22,6 +22,7 @@
     <GenericName>Getic Peltast</GenericName>
     <SpecificName>Getikas Peltastas</SpecificName>
     <Icon>units/thrac/champion_peltast.png</Icon>
+    <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
   <UnitMotion>
     <WalkSpeed op="mul">1.11</WalkSpeed>

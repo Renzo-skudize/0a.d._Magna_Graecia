@@ -12,6 +12,7 @@
     <GenericName>Getic Noble Swordsman</GenericName>
     <SpecificName>Getikas Kilnus Kardininkas</SpecificName>
     <Icon>units/thrac/champion_infantry_swordsman.png</Icon>
+    <RequiredTechnology>unlock_champion_infantry</RequiredTechnology>
   </Identity>
   <Cost>
     <BuildTime op="mul_round">1.1</BuildTime>
