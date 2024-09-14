@@ -17,6 +17,9 @@
       <RepeatTime>1000</RepeatTime>
     </Ranged>
   </Attack>
+  <Auras datatype="tokens">
+    units/scythes
+  </Auras>
   <Cost>
     <BuildTime op="mul">1.32</BuildTime>
     <Resources>

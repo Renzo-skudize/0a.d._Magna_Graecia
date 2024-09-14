@@ -16,7 +16,7 @@
     <Civ>thrac</Civ>
     <SelectionGroupName>units/athen/infantry_spearman_b</SelectionGroupName>
     <GenericName>Light Thracian Infantryman</GenericName>
-    <SpecificName>Ekdromos</SpecificName>
+    <SpecificName>Lengvasis Trakijos Pėstininkas</SpecificName>
     <Icon>units/thrac/infantry_light.png</Icon>
   </Identity>
   <Promotion disable=""/>
