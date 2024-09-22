@@ -86,70 +86,70 @@
   <group>
     <variant frequency="1" name="cuirass-2a">
       <textures>
-        <texture file="skeletal/hele/cuirass_02_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_01.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass-2b">
       <textures>
-        <texture file="skeletal/hele/cuirass_02_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_03.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass-2c">
       <textures>
-        <texture file="skeletal/hele/cuirass_02_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_02.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass-2d">
       <textures>
-        <texture file="skeletal/hele/cuirass_02_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_01.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="cuirass-2e">
       <textures>
-        <texture file="skeletal/hele/cuirass_02_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_03.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="scale-old">
       <textures>
-        <texture file="skeletal/hele/cuirass_02_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_02.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="scale-1-a">
       <textures>
-        <texture file="skeletal/hele/cuirass_02_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_01.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="lamellar-1a">
       <textures>
-        <texture file="skeletal/hele/cuirass_02_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_03.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax-lamellar-1a">
       <textures>
-        <texture file="skeletal/hele/cuirass_02_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_02.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
     </variant>
     <variant frequency="1" name="linothorax-lamellar-1b">
       <textures>
-        <texture file="skeletal/hele/cuirass_02_02.png" name="baseTex"/>
+        <texture file="skeletal/hele/cuirass_01_01.png" name="baseTex"/>
         <texture file="skeletal/hele/cuirass_02_spec.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>

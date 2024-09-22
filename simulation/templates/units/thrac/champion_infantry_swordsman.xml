@@ -3,7 +3,7 @@
   <Attack>
     <Melee>
       <Damage>
-        <Hack op="mul">1.25</Hack>
+        <Hack op="mul">1.375</Hack>
       </Damage>
     </Melee>
   </Attack>

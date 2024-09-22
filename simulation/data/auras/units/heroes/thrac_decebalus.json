@@ -6,6 +6,6 @@
 		{ "value": "Resistance/Entity/Damage/Pierce", "add": 6 },
 		{ "value": "Resistance/Entity/Damage/Crush", "add": 6 }
 	],
-	"auraName": "Pillar in times of need",
+	"auraName": "Fighting the Romans",
 	"auraDescription": "Humans +6 crush, hack, pierce resistance."
 }
