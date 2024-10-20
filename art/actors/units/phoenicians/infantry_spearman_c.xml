@@ -5,7 +5,7 @@
     <variant frequency="1" name="Base">
       <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <props>
-        <prop actor="props/units/shields/kart_leather_large_e.xml" attachpoint="shield_arm"/>
+        <prop actor="props/units/shields/iber_round_viriato.xml" attachpoint="shield_arm"/>
         <prop actor="props/units/weapons/spear_hoplite.xml" attachpoint="weapon_R"/>
         <prop actor="props/units/heads/new/head_pers_a.xml" attachpoint="head"/>
       </props>
@@ -72,7 +72,7 @@
     <variant frequency="1" name="Cuirass-1a">
       <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <textures>
-        <texture file="skeletal/phoe/scale_bronze.png" name="baseTex"/>
+        <texture file="skeletal/phoe/scale_colorfull.png" name="baseTex"/>
         <texture file="skeletal/phoe/scale_bronze.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>
@@ -88,7 +88,7 @@
     <variant frequency="1" name="Scale-1a">
       <mesh>skeletal/new/m_armor_tunic_long.dae</mesh>
       <textures>
-        <texture file="skeletal/phoe/scale_bronze.png" name="baseTex"/>
+        <texture file="skeletal/phoe/scale_colorfull.png" name="baseTex"/>
         <texture file="skeletal/phoe/scale_bronze.png" name="specTex"/>
         <texture file="default_norm.png" name="normTex"/>
       </textures>

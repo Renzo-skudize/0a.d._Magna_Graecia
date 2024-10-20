@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_ship_trireme">
+  <Footprint>
+    <Square width="9.0" depth="42.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>phoe</Civ>
+    <SpecificName>Trirma Hapinikit</SpecificName>
+    <Icon>units/phoe/ship_arrow.png</Icon>
+  </Identity>
+  <ProductionQueue/>
+  <Trainer>
+    <BatchTimeModifier>0.8</BatchTimeModifier>
+    <Entities datatype="tokens">
+      units/phoe/champion_infantry_javelineer
+      units/phoe/champion_infantry_marine
+      units/phoe_marine
+    </Entities>
+  </Trainer>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.2</WalkSpeed>
+  </UnitMotion>
+  <VisualActor>
+    <Actor>structures/persians/trireme.xml</Actor>
+  </VisualActor>
+</Entity>

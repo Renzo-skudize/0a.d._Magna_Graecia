@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="marine|template_unit_champion_infantry_swordsman">
+  <Identity>
+    <Civ>phoe</Civ>
+    <GenericName>Phoenician Marine</GenericName>
+    <SpecificName>Yemit Pinikit</SpecificName>
+    <Icon>units/phoe/champion_marine.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/phoenicians/infantry_swordsman_c.xml</Actor>
+  </VisualActor>
+</Entity>
