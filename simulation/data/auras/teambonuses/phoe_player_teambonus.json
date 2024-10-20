@@ -1,0 +1,10 @@
+{
+	"type": "global",
+	"affects": ["Ship"],
+	"affectedPlayers": ["MutualAlly"],
+	"modifications": [
+		{ "value": "Cost/wood", "multiply": 0.75 }
+	],
+	"auraName": "Phoenician Cedars",
+	"auraDescription": "Ships −25% wood cost."
+}

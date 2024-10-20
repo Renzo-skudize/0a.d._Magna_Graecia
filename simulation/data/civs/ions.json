@@ -56,7 +56,6 @@
 		}
 	],
 	"AINames": [
-		"Aristocyprus",
 		"Histiaeus",
 		"Aristagoras",
 		"Artemisia",
@@ -65,12 +64,9 @@
 		"Kreontiades",
 		"Hermophantus",
 		"Charopinus",
-		"Miltiades",
-		"Eualcides",
 		"Theomestor",
 		"Phylakos",
-		"Damasithymos",
-		"Onesilus"
+		"Damasithymos"
 	],
 	"SkirmishReplacements": {
 		"skirmish/units/default_infantry_ranged_b": "units/ions/infantry_javelineer_b",

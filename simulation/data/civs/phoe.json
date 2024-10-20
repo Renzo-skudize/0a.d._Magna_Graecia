@@ -1,0 +1,79 @@
+{
+	"Code": "phoe",
+	"Culture": "phoe",
+	"Music": [
+		{
+			"File": "Mediterranean_Waves.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Harsh_Lands_Rugged_People.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "Peaks_of_Atlas.ogg",
+			"Type": "peace"
+		},
+		{
+			"File": "From_Every_Corner.ogg",
+			"Type": "peace"
+		}
+	],
+	"CivBonuses": [
+		{
+			"Name": "Commercial Acumen",
+			"History": "",
+			"Description": "Merchant Ships +25% trade gain."
+		},
+		{
+			"Name": "thalassocracy",
+			"History": "",
+			"Description": "Ships +20 % velocity."
+		}
+	],
+	"WallSets": [
+		"structures/wallset_palisade",
+		"structures/cart/wallset_short",
+		"structures/cart/wallset_stone"
+	],
+	"StartEntities": [
+		{
+			"Template": "structures/phoe/civil_centre"
+		},
+		{
+			"Template": "units/phoe/support_female_citizen",
+			"Count": 4
+		},
+		{
+			"Template": "units/phoe/infantry_spearman_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/phoe/infantry_archer_b",
+			"Count": 2
+		},
+		{
+			"Template": "units/phoe/cavalry_javelineer_b"
+		}
+	],
+	"AINames": [
+		"Azemilcus",
+		"Ba’al I.",
+		"Abd-Melqart",
+		"Hiram I.",
+		"Ba’al-Eser II.",
+		"Pumiyaton",
+		"Tabnit",
+		"Abdi-Milkutti",
+		"Ebed-Milkat",
+		"Abd-Elonim",
+		"Ikkilû",
+		"Mata'an",
+		"Abdilti"
+	],
+	"SkirmishReplacements": {
+		"skirmish/units/default_infantry_ranged_b": "units/phoe/infantry_javelineer_b",
+		"skirmish/structures/default_house_10": "structures/{civ}/house"
+	},
+	"SelectableInGameSetup": true
+}
