@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_infantry_swordsman">
+  <Auras datatype="tokens">
+    units/heroes/phoe_abd_melqart
+  </Auras>
+  <Identity>
+    <Civ>phoe</Civ>
+    <GenericName>Abd-Melqart</GenericName>
+    <SpecificName> </SpecificName>
+    <Icon>units/theb/hero_epaminondas.png</Icon>
+  </Identity>
+  <VisualActor>
+    <Actor>units/phoenicians/hero_abd_melqart.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -6,7 +6,8 @@
   </Footprint>
   <Identity>
     <Civ>phoe</Civ>
-    <SpecificName>Trirma Hapinikit</SpecificName>
+    <GenericName>Trireme</GenericName>
+    <SpecificName>Chotrat Shlusha</SpecificName>
     <Icon>units/phoe/ship_arrow.png</Icon>
   </Identity>
   <ProductionQueue/>

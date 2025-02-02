@@ -5,6 +5,7 @@
     <GenericName>Miletic Wealthy Hoplite</GenericName>
     <SpecificName>Milesios Ploúsios Hoplítis</SpecificName>
     <Icon>units/ions/champion_infantry.png</Icon>
+    <Lang>greek</Lang>
   </Identity>
   <VisualActor>
     <Actor>units/ionians/infantry_spearman_c.xml</Actor>

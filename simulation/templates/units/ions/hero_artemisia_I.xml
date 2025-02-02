@@ -8,6 +8,8 @@
     <GenericName>Artemisia I of Caria</GenericName>
     <SpecificName>Artemisia</SpecificName>
     <Icon>units/ions/hero_boudicca.png</Icon>
+    <Lang>greek</Lang>
+    <Phenotype>female</Phenotype>
   </Identity>
   <VisualActor>
     <Actor>units/ionians/artemisia_I.xml</Actor>

@@ -1,0 +1,11 @@
+{
+	"type": "global",
+	"affects": ["Ship"],
+	"modifications": [
+		{ "value": "Health/Max", "multiply": 1.25 },
+        { "value": "Vision/Range", "multiply": 1.25 }
+	],
+	"auraName": "Naval Tactician",
+	"auraDescription": "Ships +25% health and vision range.",
+	"overlayIcon": "art/textures/ui/session/auras/laurel.png"
+}

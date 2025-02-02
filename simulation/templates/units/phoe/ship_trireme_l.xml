@@ -12,12 +12,19 @@
     <Max>2000</Max>
   </Health>
   <Identity>
-    <Civ>athen</Civ>
-    <Lang>greek</Lang>
-    <GenericName>Large Trireme</GenericName>
-    <SpecificName>Megalē Triḗrē</SpecificName>
+    <Civ>phoe</Civ>
+    <GenericName>Quinquereme</GenericName>
+    <SpecificName>Chotrat Chmisha</SpecificName>
     <Icon>units/cori/ship_siege.png</Icon>
   </Identity>
+  <Selectable>
+    <Overlay>
+      <Texture>
+        <MainTexture>128x512/cartouche.png</MainTexture>
+        <MainTextureMask>128x512/cartouche_mask.png</MainTextureMask>
+      </Texture>
+    </Overlay>
+  </Selectable>
   <Cost>
     <BuildTime>40</BuildTime>
     <Resources>
@@ -31,14 +38,9 @@
     <Entities datatype="tokens">
       units/{civ}/infantry_marine_archer_b
       units/{civ}/champion_marine
-      units/greek_marine
+      units/phoe_marine
     </Entities>
   </Trainer>
-  <Researcher>
-    <Technologies datatype="tokens">
-      iphicratean_reforms
-    </Technologies>
-  </Researcher>
   <Loot>
     <xp>2000</xp>
     <wood>30</wood>
@@ -47,7 +49,10 @@
   <TrainingRestrictions>
     <Category>PyramidLarge</Category>
   </TrainingRestrictions>
+  <UnitMotion>
+    <WalkSpeed op="mul">1.2</WalkSpeed>
+  </UnitMotion>
   <VisualActor>
-    <Actor>structures/ptolemies/quinquereme.xml</Actor>
+    <Actor>structures/phoenicians/quinquereme.xml</Actor>
   </VisualActor>
 </Entity>

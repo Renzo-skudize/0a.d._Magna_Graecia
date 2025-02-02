@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_unit_hero_cavalry_javelineer">
+  <Auras datatype="tokens">
+    units/heroes/thess_jason
+  </Auras>
+  <Footprint replace="">
+    <Square width="11.0" depth="11.0"/>
+    <Height>6.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>phoe</Civ>
+    <GenericName>Ba'al I.</GenericName>
+    <SpecificName> </SpecificName>
+    <VisibleClasses datatype="tokens">Chariot</VisibleClasses>
+    <Icon>units/etru/hero_scipio.png</Icon>
+  </Identity>
+  <Selectable>
+    <Overlay>
+      <Shape>
+        <Circle radius="5.0"/>
+      </Shape>
+    </Overlay>
+  </Selectable>
+  <VisualActor>
+    <Actor>units/phoenicians/hero_hiram_m.xml</Actor>
+  </VisualActor>
+</Entity>

@@ -5,6 +5,7 @@
     <GenericName>Ephesian Marine</GenericName>
     <SpecificName>Epibátēs Ephesios</SpecificName>
     <Icon>units/ions/champion_marine.png</Icon>
+    <Lang>greek</Lang>
   </Identity>
   <VisualActor>
     <Actor>units/athenians/infantry_swordsman_c.xml</Actor>

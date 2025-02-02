@@ -4,7 +4,7 @@
 	"modifications": [
 		{ "value": "Health/Max", "multiply": 1.5 }
 	],
-	"auraName": "Battle of sybota",
+	"auraName": "Battle of Sybota",
 	"auraDescription": "Ships +50% health.",
 	"overlayIcon": "art/textures/ui/session/auras/laurel.png"
 }

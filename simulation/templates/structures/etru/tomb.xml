@@ -11,6 +11,7 @@
     <Civ>etru</Civ>
     <GenericName>Tomb</GenericName>
     <SpecificName>Suthi</SpecificName>
+    <Icon>structures/embassy_italic</Icon>
   </Identity>
   <Obstruction>
     <Static width="22.0" depth="22.0"/>

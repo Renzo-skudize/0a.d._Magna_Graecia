@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Entity parent="template_structure_military_fortress">
+  <Auras datatype="tokens">
+    structures/hot_sand
+  </Auras>
+  <Footprint>
+    <Square width="30.0" depth="32.0"/>
+    <Height>8.0</Height>
+  </Footprint>
+  <Identity>
+    <Civ>phoe</Civ>
+    <SpecificName>Mivtzar</SpecificName>
+    <Tooltip>Train Heroes. Garrison Soldiers for additional arrows.</Tooltip>
+  </Identity>
+  <Obstruction>
+    <Static width="26.0" depth="28.0"/>
+  </Obstruction>
+  <Trainer>
+    <Entities datatype="tokens">
+      units/{civ}/hero_abd_melqart
+      units/{civ}/hero_baal
+      units/{civ}/hero_hiram
+      units/{civ}/champion_infantry_spearman
+    </Entities>
+  </Trainer>
+  <VisualActor>
+    <FoundationActor>structures/carthaginians/fndn_fortress.xml</FoundationActor>
+    <Actor>structures/carthaginians/fortress.xml</Actor>
+  </VisualActor>
+  <WallPiece>
+    <Length>25.0</Length>
+    <Indent>6.4</Indent>
+  </WallPiece>
+</Entity>
