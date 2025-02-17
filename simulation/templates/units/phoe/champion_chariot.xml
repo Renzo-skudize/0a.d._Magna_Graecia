@@ -17,7 +17,7 @@
     <Max op="mul">1.25</Max>
   </Health>
   <Identity>
-    <Civ>thrac</Civ>
+    <Civ>phoe</Civ>
     <GenericName>Phoenician Chariot</GenericName>
     <SpecificName>Mirkava Pinikit</SpecificName>
     <Icon>units/phoe/champion_chariot.png</Icon>
