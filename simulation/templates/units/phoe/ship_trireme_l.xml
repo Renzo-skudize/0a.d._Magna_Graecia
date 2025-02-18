@@ -28,8 +28,8 @@
   <Trainer>
     <BatchTimeModifier>0.6</BatchTimeModifier>
     <Entities datatype="tokens">
-      units/{civ}/infantry_marine_archer_b
-      units/{civ}/champion_marine
+      units/phoe/champion_infantry_javelineer
+      units/phoe/champion_infantry_marine
       units/phoe_marine
     </Entities>
   </Trainer>
