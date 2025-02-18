@@ -14,13 +14,6 @@
     <VisibleClasses datatype="tokens">Chariot</VisibleClasses>
     <Icon>units/achae/hero_philip.png</Icon>
   </Identity>
-  <Selectable>
-    <Overlay>
-      <Shape>
-        <Circle radius="5.0"/>
-      </Shape>
-    </Overlay>
-  </Selectable>
   <VisualActor>
     <Actor>units/phoenicians/hero_hiram_m.xml</Actor>
   </VisualActor>

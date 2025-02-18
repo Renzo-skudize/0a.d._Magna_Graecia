@@ -2,7 +2,7 @@
 	"type": "range",
 	"radius": 30,
 	"affectedPlayers": ["Enemy"],
-	"affects": ["Unit"],
+	"affects": ["Organic"],
 	"modifications": [
 	  {"value": "Health/RegenRate", "add": -25}
 	],

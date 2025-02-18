@@ -6,7 +6,7 @@
   </Footprint>
   <Identity>
     <Civ>phoe</Civ>
-    <SpecificName>sirat dig</SpecificName>
+    <SpecificName>Sirat dig</SpecificName>
     <Icon>units/ions/ship_fishing.png</Icon>
   </Identity>
   <VisualActor>

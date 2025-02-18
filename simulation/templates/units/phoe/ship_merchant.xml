@@ -7,7 +7,7 @@
   <Identity>
     <Civ>phoe</Civ>
     <SpecificName>Spinat Schar</SpecificName>
-    <Icon>units/pers/ship_merchant.png</Icon>
+    <Icon>units/ions/ship_merchant.png</Icon>
     <RequiredTechnology>-phase_town</RequiredTechnology>
   </Identity>
   <Trader>
