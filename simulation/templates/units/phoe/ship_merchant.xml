@@ -8,7 +8,6 @@
     <Civ>phoe</Civ>
     <SpecificName>Spinat Schar</SpecificName>
     <Icon>units/ions/ship_merchant.png</Icon>
-    <RequiredTechnology>-phase_town</RequiredTechnology>
   </Identity>
   <Trader>
     <GainMultiplier op="mul">1.25</GainMultiplier>
