@@ -9,7 +9,7 @@
     <Height>8.0</Height>
   </Footprint>
   <Identity>
-    <Civ>phoe</Civ>
+    <Civ>briphoe</Civ>
     <GenericName>Colony</GenericName>
     <SpecificName>Metzuda</SpecificName>
     <Tooltip>Build upon a shoreline in own, neutral, or allied territory. Acquire large tracts of territory. Territory root. Train Citizens, construct Ships, and research technologies. Garrison Soldiers for additional arrows.</Tooltip>
@@ -27,6 +27,12 @@
   <RallyPointRenderer>
     <LinePassabilityClass>ship</LinePassabilityClass>
   </RallyPointRenderer>
+  <Researcher>
+    <Technologies datatype="tokens">
+      -phase_town_{civ}
+      -hellenistic_metropolis
+    </Technologies>
+  </Researcher>
   <Trainer>
     <Entities datatype="tokens">
       units/{civ}/infantry_spearman_b

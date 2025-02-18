@@ -9,9 +9,4 @@
     <History>The Etruscans were a people north of Rome, that was known for its navy an a religious code, the "Etrusca Disciplina". The 12 mightiest Etruscan Cities were members of the "Dodecapolis", founded about 600 BC. About 380 BC, these Cities were raided by the Senones, a gaul tribe, and soon sacked by the Romans</History>
     <Icon>emblems/emblem_etruscans.png</Icon>
   </Identity>
-  <Player>
-    <Formations datatype="tokens">
-      special/formations/phalanx
-    </Formations>
-  </Player>
 </Entity>
