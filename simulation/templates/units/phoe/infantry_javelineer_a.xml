@@ -7,6 +7,6 @@
     <Entity>units/phoe/infantry_javelineer_e</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/phoenicians/infantry_javelinist_a.xml</Actor>
+    <Actor>units/phoenicians/infantry_javelineer_a.xml</Actor>
   </VisualActor>
 </Entity>

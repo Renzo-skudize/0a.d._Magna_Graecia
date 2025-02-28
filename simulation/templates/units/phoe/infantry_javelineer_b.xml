@@ -2,7 +2,6 @@
 <Entity parent="template_unit_infantry_ranged_javelineer">
   <Identity>
     <Civ>phoe</Civ>
-    <SelectionGroupName>units/theb/infantry_javelineer_b</SelectionGroupName>
     <GenericName>Phoenician Infantry Javelineer</GenericName>
     <SpecificName>Mifkad Chil Hargalim Hapiniki</SpecificName>
     <Icon>units/theb/infantry_javelinist.png</Icon>
@@ -11,6 +10,6 @@
     <Entity>units/phoe/infantry_javelineer_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/phoenicians/infantry_javelinist_b.xml</Actor>
+    <Actor>units/phoenicians/infantry_javelineer_b.xml</Actor>
   </VisualActor>
 </Entity>

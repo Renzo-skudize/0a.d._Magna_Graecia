@@ -5,6 +5,6 @@
   </Identity>
   <Promotion disable=""/>
   <VisualActor>
-    <Actor>units/phoenicians/infantry_javelinist_e.xml</Actor>
+    <Actor>units/phoenicians/infantry_javelineer_e.xml</Actor>
   </VisualActor>
 </Entity>
