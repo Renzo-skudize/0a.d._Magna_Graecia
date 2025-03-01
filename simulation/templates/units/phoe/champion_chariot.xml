@@ -49,6 +49,6 @@
     <Weight op="mul">3.0</Weight>
   </UnitMotion>
   <VisualActor>
-    <Actor>units/phoe/chariot_archer_c_m.xml</Actor>
+    <Actor>units/phoe/chariot_javelineer_m.xml</Actor>
   </VisualActor>
 </Entity>
