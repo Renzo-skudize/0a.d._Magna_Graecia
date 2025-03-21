@@ -7,6 +7,6 @@
 		{ "value": "Health/RegenRate", "add": -5 }
 	],
 	"auraName": "Scythes",
-	"auraDescription": "Enemies -5 Health per Second.",
+	"auraDescription": "Enemies get -5 Health per Second.",
 	"overlayIcon": "art/textures/ui/session/auras/broken_sword.png"
 }
