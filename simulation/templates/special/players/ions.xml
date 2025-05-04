@@ -7,7 +7,7 @@
     <Civ>ions</Civ>
     <GenericName>Ionians</GenericName>
     <History>The Ionians were an ancient civilisation, that setteled at the coast of Asia Minor. They were famos for they revolt against the Persians.</History>
-    <Icon>emblems/emblem_athenians.png</Icon>
+    <Icon>emblems/emblem_ionians.png</Icon>
   </Identity>
   <Player>
     <Formations datatype="tokens">
